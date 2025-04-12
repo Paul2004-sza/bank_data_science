@@ -1,0 +1,13 @@
+Column,Dtype,Value,Count
+Balance,float64,Total Accounts,1516.0
+Balance,float64,Total Sum,37669318090.77
+Balance,float64,Mean,24847835.152222954
+Balance,float64,Median,24716345.93
+Balance,float64,Min,11785.23
+Balance,float64,Max,49997710.02
+Balance,float64,Std Deviation,14489912.3955909
+Balance Range,category,<5M,162.0
+Balance Range,category,5M-10M,157.0
+Balance Range,category,10M-20M,288.0
+Balance Range,category,20M-50M,909.0
+Balance Range,category,>50M,0.0

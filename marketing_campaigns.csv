@@ -1,0 +1,11 @@
+campaign_id,campaign_name,start_date,end_date,channel
+1,Campaign_1_2024,2024-08-21,2024-09-30,Phone
+2,Campaign_2_2024,2024-09-24,2024-11-06,App Notification
+3,Campaign_3_2024,2024-05-21,2024-07-02,Email
+4,Campaign_4_2023,2023-07-18,2023-08-28,App Notification
+5,Campaign_5_2024,2024-10-28,2024-11-14,SMS
+6,Campaign_6_2024,2024-09-16,2024-10-28,App Notification
+7,Campaign_7_2024,2024-04-04,2024-05-16,Phone
+8,Campaign_8_2023,2023-09-09,2023-09-19,Phone
+9,Campaign_9_2023,2023-07-10,2023-08-14,Email
+10,Campaign_10_2023,2023-06-02,2023-07-10,SMS
