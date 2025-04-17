@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('accounts.csv')
+df = pd.read_csv('c_accounts.csv')
 
 include_columns = ['account_type', 'status', 'open_date','customer_id','balance']
 

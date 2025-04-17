@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("transactions_cleaned.csv")
+df = pd.read_csv("c_transactions_cleaned.csv")
 
 location_summary = df['location'].value_counts().reset_index()
 location_summary.columns = ['location', 'number_of_transactions']

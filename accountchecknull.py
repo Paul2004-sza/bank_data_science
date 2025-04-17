@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('accounts.csv')
+df = pd.read_csv('c_accounts.csv')
 
 summary = {
     'Column': df.columns,

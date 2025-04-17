@@ -44,6 +44,6 @@ def fix_location(row):
 
 df['location'] = df.apply(fix_location, axis=1)
 
-df.to_csv("transactions_cleaned.csv", index=False)
+df.to_csv("c_transactions_cleaned.csv", index=False)
 
-print("✅ Transactions corrected and saved to 'transactions_cleaned.csv'")
+print("Transactions corrected and saved to 'c_transactions_cleaned.csv'")
