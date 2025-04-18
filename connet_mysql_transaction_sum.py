@@ -138,7 +138,7 @@ try:
         color_continuous_scale='Blues'
     )
     fig1.update_layout(xaxis_tickangle=-45)
-    fig1.write_html("monthly_transaction_count_interactive.html")
+    fig1.write_html("dmonthly_transaction_count_interactive.html")
 
     fig2 = px.bar(
         monthly_df,
@@ -150,11 +150,11 @@ try:
         color_continuous_scale='Greens'
     )
     fig2.update_layout(xaxis_tickangle=-45)
-    fig2.write_html("monthly_transaction_amount_interactive.html")
+    fig2.write_html("dmonthly_transaction_amount_interactive.html")
 
     print("Generated interactive visualizations:")
-    print("- monthly_transaction_count_interactive.html")
-    print("- monthly_transaction_amount_interactive.html")
+    print("- dmonthly_transaction_count_interactive.html")
+    print("- dmonthly_transaction_amount_interactive.html")
 
 
 except Exception as e:
