@@ -3,6 +3,7 @@ import os
 from dotenv import load_dotenv
 from sqlalchemy import create_engine
 import plotly.express as px
+
 load_dotenv()
 
 DB_USER = os.getenv("DB_USER")
