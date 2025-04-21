@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 from dotenv import load_dotenv
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine # engine = create_engin(f"mysql+pymysql://{user}:{password}@{host}/{name}")
 
 load_dotenv()
 
