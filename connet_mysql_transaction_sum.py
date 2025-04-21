@@ -114,7 +114,7 @@ try:
     # Top performing locations by month
     top_location_months = location_monthly_df.sort_values(['date_time', 'total_amount'],
                                                           ascending=[True, False])
-    top_location_months.to_csv('top_locations_by_month.csv', index=False)
+    top_location_months.to_csv('tran_sum_locations_by_month.csv', index=False)
 
     print("Analysis completed successfully!")
     print("Generated CSV files:")
@@ -125,36 +125,36 @@ try:
     print("- transaction_channel_analysis.csv")
     print("- peak_transaction_months.csv")
     print("- highest_revenue_months.csv")
-    print("- top_locations_by_month.csv")
+    print("- tran_sum_locations_by_month.csv")
 
     # Monthly Transaction Count - Interactive visualizations
     fig1 = px.bar(
         monthly_df,
         x='date_time',
         y='transaction_count',
-        title='📊 Monthly Transaction Count',
+        title='Monthly Transaction Count',
         labels={'date_time': 'Month', 'transaction_count': 'Number of Transactions'},
         color='transaction_count',
         color_continuous_scale='Blues'
     )
     fig1.update_layout(xaxis_tickangle=-45)
-    fig1.write_html("dmonthly_transaction_count_interactive.html")
+    fig1.write_html("monthly_transaction_count_interactive.html")
 
     fig2 = px.bar(
         monthly_df,
         x='date_time',
         y='total_amount',
-        title='💰 Monthly Transaction Amount',
+        title='Monthly Transaction Amount',
         labels={'date_time': 'Month', 'total_amount': 'Total Amount'},
         color='total_amount',
         color_continuous_scale='Greens'
     )
     fig2.update_layout(xaxis_tickangle=-45)
-    fig2.write_html("dmonthly_transaction_amount_interactive.html")
+    fig2.write_html("monthly_transaction_amount_interactive.html")
 
     print("Generated interactive visualizations:")
-    print("- dmonthly_transaction_count_interactive.html")
-    print("- dmonthly_transaction_amount_interactive.html")
+    print("- monthly_transaction_count_interactive.html")
+    print("- monthly_transaction_amount_interactive.html")
 
 
 except Exception as e:
