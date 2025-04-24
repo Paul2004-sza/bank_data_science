@@ -1,7 +1,0 @@
-Column,Non-Null Count,Dtype
-account_id,1516,int64
-customer_id,1516,int64
-account_type,1516,object
-open_date,1516,object
-status,1516,object
-balance,1516,float64

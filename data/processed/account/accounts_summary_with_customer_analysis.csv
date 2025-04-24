@@ -1,0 +1,15 @@
+Column,Dtype,Value,Count
+Total Rows,,,1516
+Unique Values in account_id,int64,,1516
+Unique Values in customer_id,int64,,1000
+Unique Values in account_type,object,,4
+Unique Values in open_date,object,,1074
+Unique Values in status,object,,3
+Unique Values in balance,float64,,1516
+Customers with >1 Account,int64,,401
+Max Accounts by One Customer,int64,,5
+Customers with X Accounts,int64,1 accounts,599
+Customers with X Accounts,int64,2 accounts,309
+Customers with X Accounts,int64,3 accounts,73
+Customers with X Accounts,int64,4 accounts,15
+Customers with X Accounts,int64,5 accounts,4

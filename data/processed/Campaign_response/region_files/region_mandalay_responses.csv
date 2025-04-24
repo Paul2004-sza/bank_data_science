@@ -1,0 +1,1221 @@
+customer_id,name,gender,date_of_birth,age,marital_status,education_level,occupation,income,region,join_date,email,phone,response_id,campaign_id,response_date,responded,responded_flag
+1,Hla Htun,Other,1973-11-27,52,Divorced,Middle School,Business Owner,955828.26,Mandalay,2017-06-06,hla.htun@gmail.com,959907634543,1,1,2024-09-04,True,1
+1,Hla Htun,Other,1973-11-27,52,Divorced,Middle School,Business Owner,955828.26,Mandalay,2017-06-06,hla.htun@gmail.com,959907634543,1001,2,2024-10-27,True,1
+1,Hla Htun,Other,1973-11-27,52,Divorced,Middle School,Business Owner,955828.26,Mandalay,2017-06-06,hla.htun@gmail.com,959907634543,2001,3,2024-06-23,True,1
+1,Hla Htun,Other,1973-11-27,52,Divorced,Middle School,Business Owner,955828.26,Mandalay,2017-06-06,hla.htun@gmail.com,959907634543,3001,4,2023-07-18,True,1
+1,Hla Htun,Other,1973-11-27,52,Divorced,Middle School,Business Owner,955828.26,Mandalay,2017-06-06,hla.htun@gmail.com,959907634543,4001,5,2024-11-11,False,0
+1,Hla Htun,Other,1973-11-27,52,Divorced,Middle School,Business Owner,955828.26,Mandalay,2017-06-06,hla.htun@gmail.com,959907634543,5001,6,2024-09-21,False,0
+1,Hla Htun,Other,1973-11-27,52,Divorced,Middle School,Business Owner,955828.26,Mandalay,2017-06-06,hla.htun@gmail.com,959907634543,6001,7,2024-04-22,True,1
+1,Hla Htun,Other,1973-11-27,52,Divorced,Middle School,Business Owner,955828.26,Mandalay,2017-06-06,hla.htun@gmail.com,959907634543,7001,8,2023-09-15,True,1
+1,Hla Htun,Other,1973-11-27,52,Divorced,Middle School,Business Owner,955828.26,Mandalay,2017-06-06,hla.htun@gmail.com,959907634543,8001,9,2023-07-27,False,0
+1,Hla Htun,Other,1973-11-27,52,Divorced,Middle School,Business Owner,955828.26,Mandalay,2017-06-06,hla.htun@gmail.com,959907634543,9001,10,2023-06-07,False,0
+10,Myo Zaw,Male,1995-07-15,30,Married,Master,Merchant,3598555.47,Mandalay,2023-12-23,myo.zaw@gmail.com,959476118082,10,1,2024-09-10,False,0
+10,Myo Zaw,Male,1995-07-15,30,Married,Master,Merchant,3598555.47,Mandalay,2023-12-23,myo.zaw@gmail.com,959476118082,1010,2,2024-10-12,False,0
+10,Myo Zaw,Male,1995-07-15,30,Married,Master,Merchant,3598555.47,Mandalay,2023-12-23,myo.zaw@gmail.com,959476118082,2010,3,2024-05-29,True,1
+10,Myo Zaw,Male,1995-07-15,30,Married,Master,Merchant,3598555.47,Mandalay,2023-12-23,myo.zaw@gmail.com,959476118082,3010,4,2023-07-18,False,0
+10,Myo Zaw,Male,1995-07-15,30,Married,Master,Merchant,3598555.47,Mandalay,2023-12-23,myo.zaw@gmail.com,959476118082,4010,5,2024-10-28,False,0
+10,Myo Zaw,Male,1995-07-15,30,Married,Master,Merchant,3598555.47,Mandalay,2023-12-23,myo.zaw@gmail.com,959476118082,5010,6,2024-10-09,True,1
+10,Myo Zaw,Male,1995-07-15,30,Married,Master,Merchant,3598555.47,Mandalay,2023-12-23,myo.zaw@gmail.com,959476118082,6010,7,2024-04-30,True,1
+10,Myo Zaw,Male,1995-07-15,30,Married,Master,Merchant,3598555.47,Mandalay,2023-12-23,myo.zaw@gmail.com,959476118082,7010,8,2023-09-09,False,0
+10,Myo Zaw,Male,1995-07-15,30,Married,Master,Merchant,3598555.47,Mandalay,2023-12-23,myo.zaw@gmail.com,959476118082,8010,9,2023-07-27,True,1
+10,Myo Zaw,Male,1995-07-15,30,Married,Master,Merchant,3598555.47,Mandalay,2023-12-23,myo.zaw@gmail.com,959476118082,9010,10,2023-06-27,False,0
+15,Nu Moe,Female,1998-01-05,27,Divorced,Middle School,Government Employee,2694773.58,Mandalay,2020-03-17,nu.moe@gmail.com,959726337240,15,1,2024-08-27,True,1
+15,Nu Moe,Female,1998-01-05,27,Divorced,Middle School,Government Employee,2694773.58,Mandalay,2020-03-17,nu.moe@gmail.com,959726337240,1015,2,2024-09-29,True,1
+15,Nu Moe,Female,1998-01-05,27,Divorced,Middle School,Government Employee,2694773.58,Mandalay,2020-03-17,nu.moe@gmail.com,959726337240,2015,3,2024-06-08,True,1
+15,Nu Moe,Female,1998-01-05,27,Divorced,Middle School,Government Employee,2694773.58,Mandalay,2020-03-17,nu.moe@gmail.com,959726337240,3015,4,2023-07-20,False,0
+15,Nu Moe,Female,1998-01-05,27,Divorced,Middle School,Government Employee,2694773.58,Mandalay,2020-03-17,nu.moe@gmail.com,959726337240,4015,5,2024-10-30,True,1
+15,Nu Moe,Female,1998-01-05,27,Divorced,Middle School,Government Employee,2694773.58,Mandalay,2020-03-17,nu.moe@gmail.com,959726337240,5015,6,2024-10-18,False,0
+15,Nu Moe,Female,1998-01-05,27,Divorced,Middle School,Government Employee,2694773.58,Mandalay,2020-03-17,nu.moe@gmail.com,959726337240,6015,7,2024-04-27,False,0
+15,Nu Moe,Female,1998-01-05,27,Divorced,Middle School,Government Employee,2694773.58,Mandalay,2020-03-17,nu.moe@gmail.com,959726337240,7015,8,2023-09-12,True,1
+15,Nu Moe,Female,1998-01-05,27,Divorced,Middle School,Government Employee,2694773.58,Mandalay,2020-03-17,nu.moe@gmail.com,959726337240,8015,9,2023-07-14,True,1
+15,Nu Moe,Female,1998-01-05,27,Divorced,Middle School,Government Employee,2694773.58,Mandalay,2020-03-17,nu.moe@gmail.com,959726337240,9015,10,2023-06-30,True,1
+16,Zaw Oo,Male,1967-06-18,58,Married,PhD,Bank Employee,2284151.84,Mandalay,2024-01-09,zaw.oo@gmail.com,959801863756,16,1,2024-09-01,True,1
+16,Zaw Oo,Male,1967-06-18,58,Married,PhD,Bank Employee,2284151.84,Mandalay,2024-01-09,zaw.oo@gmail.com,959801863756,1016,2,2024-10-31,False,0
+16,Zaw Oo,Male,1967-06-18,58,Married,PhD,Bank Employee,2284151.84,Mandalay,2024-01-09,zaw.oo@gmail.com,959801863756,2016,3,2024-06-05,False,0
+16,Zaw Oo,Male,1967-06-18,58,Married,PhD,Bank Employee,2284151.84,Mandalay,2024-01-09,zaw.oo@gmail.com,959801863756,3016,4,2023-08-08,False,0
+16,Zaw Oo,Male,1967-06-18,58,Married,PhD,Bank Employee,2284151.84,Mandalay,2024-01-09,zaw.oo@gmail.com,959801863756,4016,5,2024-11-04,False,0
+16,Zaw Oo,Male,1967-06-18,58,Married,PhD,Bank Employee,2284151.84,Mandalay,2024-01-09,zaw.oo@gmail.com,959801863756,5016,6,2024-10-27,True,1
+16,Zaw Oo,Male,1967-06-18,58,Married,PhD,Bank Employee,2284151.84,Mandalay,2024-01-09,zaw.oo@gmail.com,959801863756,6016,7,2024-04-30,True,1
+16,Zaw Oo,Male,1967-06-18,58,Married,PhD,Bank Employee,2284151.84,Mandalay,2024-01-09,zaw.oo@gmail.com,959801863756,7016,8,2023-09-12,False,0
+16,Zaw Oo,Male,1967-06-18,58,Married,PhD,Bank Employee,2284151.84,Mandalay,2024-01-09,zaw.oo@gmail.com,959801863756,8016,9,2023-07-11,True,1
+16,Zaw Oo,Male,1967-06-18,58,Married,PhD,Bank Employee,2284151.84,Mandalay,2024-01-09,zaw.oo@gmail.com,959801863756,9016,10,2023-07-01,False,0
+21,Myo Oo,Male,1983-04-02,42,Single,Bachelor,Engineer,2596446.83,Mandalay,2021-02-01,myo.oo@gmail.com,959160849628,21,1,2024-08-23,True,1
+21,Myo Oo,Male,1983-04-02,42,Single,Bachelor,Engineer,2596446.83,Mandalay,2021-02-01,myo.oo@gmail.com,959160849628,1021,2,2024-09-28,True,1
+21,Myo Oo,Male,1983-04-02,42,Single,Bachelor,Engineer,2596446.83,Mandalay,2021-02-01,myo.oo@gmail.com,959160849628,2021,3,2024-06-16,False,0
+21,Myo Oo,Male,1983-04-02,42,Single,Bachelor,Engineer,2596446.83,Mandalay,2021-02-01,myo.oo@gmail.com,959160849628,3021,4,2023-08-06,True,1
+21,Myo Oo,Male,1983-04-02,42,Single,Bachelor,Engineer,2596446.83,Mandalay,2021-02-01,myo.oo@gmail.com,959160849628,4021,5,2024-11-11,True,1
+21,Myo Oo,Male,1983-04-02,42,Single,Bachelor,Engineer,2596446.83,Mandalay,2021-02-01,myo.oo@gmail.com,959160849628,5021,6,2024-10-27,False,0
+21,Myo Oo,Male,1983-04-02,42,Single,Bachelor,Engineer,2596446.83,Mandalay,2021-02-01,myo.oo@gmail.com,959160849628,6021,7,2024-04-23,False,0
+21,Myo Oo,Male,1983-04-02,42,Single,Bachelor,Engineer,2596446.83,Mandalay,2021-02-01,myo.oo@gmail.com,959160849628,7021,8,2023-09-11,False,0
+21,Myo Oo,Male,1983-04-02,42,Single,Bachelor,Engineer,2596446.83,Mandalay,2021-02-01,myo.oo@gmail.com,959160849628,8021,9,2023-07-23,True,1
+21,Myo Oo,Male,1983-04-02,42,Single,Bachelor,Engineer,2596446.83,Mandalay,2021-02-01,myo.oo@gmail.com,959160849628,9021,10,2023-06-18,True,1
+22,Thandar Kyaw,Female,1999-01-31,26,Single,Middle School,Construction Worker,4750662.39,Mandalay,2021-02-01,thandar.kyaw@gmail.com,959928885491,22,1,2024-09-05,True,1
+22,Thandar Kyaw,Female,1999-01-31,26,Single,Middle School,Construction Worker,4750662.39,Mandalay,2021-02-01,thandar.kyaw@gmail.com,959928885491,1022,2,2024-10-29,True,1
+22,Thandar Kyaw,Female,1999-01-31,26,Single,Middle School,Construction Worker,4750662.39,Mandalay,2021-02-01,thandar.kyaw@gmail.com,959928885491,2022,3,2024-06-30,False,0
+22,Thandar Kyaw,Female,1999-01-31,26,Single,Middle School,Construction Worker,4750662.39,Mandalay,2021-02-01,thandar.kyaw@gmail.com,959928885491,3022,4,2023-08-26,False,0
+22,Thandar Kyaw,Female,1999-01-31,26,Single,Middle School,Construction Worker,4750662.39,Mandalay,2021-02-01,thandar.kyaw@gmail.com,959928885491,4022,5,2024-11-08,True,1
+22,Thandar Kyaw,Female,1999-01-31,26,Single,Middle School,Construction Worker,4750662.39,Mandalay,2021-02-01,thandar.kyaw@gmail.com,959928885491,5022,6,2024-09-30,False,0
+22,Thandar Kyaw,Female,1999-01-31,26,Single,Middle School,Construction Worker,4750662.39,Mandalay,2021-02-01,thandar.kyaw@gmail.com,959928885491,6022,7,2024-04-05,False,0
+22,Thandar Kyaw,Female,1999-01-31,26,Single,Middle School,Construction Worker,4750662.39,Mandalay,2021-02-01,thandar.kyaw@gmail.com,959928885491,7022,8,2023-09-09,False,0
+22,Thandar Kyaw,Female,1999-01-31,26,Single,Middle School,Construction Worker,4750662.39,Mandalay,2021-02-01,thandar.kyaw@gmail.com,959928885491,8022,9,2023-08-11,False,0
+22,Thandar Kyaw,Female,1999-01-31,26,Single,Middle School,Construction Worker,4750662.39,Mandalay,2021-02-01,thandar.kyaw@gmail.com,959928885491,9022,10,2023-06-04,True,1
+27,Zaw Htun,Male,1946-05-15,79,Married,Primary,Farmer,4340286.38,Mandalay,2020-12-26,zaw.htun@gmail.com,959609080789,27,1,2024-08-22,True,1
+27,Zaw Htun,Male,1946-05-15,79,Married,Primary,Farmer,4340286.38,Mandalay,2020-12-26,zaw.htun@gmail.com,959609080789,1027,2,2024-09-26,False,0
+27,Zaw Htun,Male,1946-05-15,79,Married,Primary,Farmer,4340286.38,Mandalay,2020-12-26,zaw.htun@gmail.com,959609080789,2027,3,2024-05-21,False,0
+27,Zaw Htun,Male,1946-05-15,79,Married,Primary,Farmer,4340286.38,Mandalay,2020-12-26,zaw.htun@gmail.com,959609080789,3027,4,2023-08-27,True,1
+27,Zaw Htun,Male,1946-05-15,79,Married,Primary,Farmer,4340286.38,Mandalay,2020-12-26,zaw.htun@gmail.com,959609080789,4027,5,2024-11-03,False,0
+27,Zaw Htun,Male,1946-05-15,79,Married,Primary,Farmer,4340286.38,Mandalay,2020-12-26,zaw.htun@gmail.com,959609080789,5027,6,2024-09-17,True,1
+27,Zaw Htun,Male,1946-05-15,79,Married,Primary,Farmer,4340286.38,Mandalay,2020-12-26,zaw.htun@gmail.com,959609080789,6027,7,2024-04-23,True,1
+27,Zaw Htun,Male,1946-05-15,79,Married,Primary,Farmer,4340286.38,Mandalay,2020-12-26,zaw.htun@gmail.com,959609080789,7027,8,2023-09-15,True,1
+27,Zaw Htun,Male,1946-05-15,79,Married,Primary,Farmer,4340286.38,Mandalay,2020-12-26,zaw.htun@gmail.com,959609080789,8027,9,2023-07-29,True,1
+27,Zaw Htun,Male,1946-05-15,79,Married,Primary,Farmer,4340286.38,Mandalay,2020-12-26,zaw.htun@gmail.com,959609080789,9027,10,2023-06-13,True,1
+29,Phyu Kyaw,Other,1965-07-15,60,Widowed,PhD,Doctor,1194926.6,Mandalay,2019-03-27,phyu.kyaw@gmail.com,959163331824,29,1,2024-08-25,True,1
+29,Phyu Kyaw,Other,1965-07-15,60,Widowed,PhD,Doctor,1194926.6,Mandalay,2019-03-27,phyu.kyaw@gmail.com,959163331824,1029,2,2024-10-24,False,0
+29,Phyu Kyaw,Other,1965-07-15,60,Widowed,PhD,Doctor,1194926.6,Mandalay,2019-03-27,phyu.kyaw@gmail.com,959163331824,2029,3,2024-06-04,False,0
+29,Phyu Kyaw,Other,1965-07-15,60,Widowed,PhD,Doctor,1194926.6,Mandalay,2019-03-27,phyu.kyaw@gmail.com,959163331824,3029,4,2023-07-23,False,0
+29,Phyu Kyaw,Other,1965-07-15,60,Widowed,PhD,Doctor,1194926.6,Mandalay,2019-03-27,phyu.kyaw@gmail.com,959163331824,4029,5,2024-11-12,False,0
+29,Phyu Kyaw,Other,1965-07-15,60,Widowed,PhD,Doctor,1194926.6,Mandalay,2019-03-27,phyu.kyaw@gmail.com,959163331824,5029,6,2024-10-13,True,1
+29,Phyu Kyaw,Other,1965-07-15,60,Widowed,PhD,Doctor,1194926.6,Mandalay,2019-03-27,phyu.kyaw@gmail.com,959163331824,6029,7,2024-04-28,False,0
+29,Phyu Kyaw,Other,1965-07-15,60,Widowed,PhD,Doctor,1194926.6,Mandalay,2019-03-27,phyu.kyaw@gmail.com,959163331824,7029,8,2023-09-12,False,0
+29,Phyu Kyaw,Other,1965-07-15,60,Widowed,PhD,Doctor,1194926.6,Mandalay,2019-03-27,phyu.kyaw@gmail.com,959163331824,8029,9,2023-07-29,True,1
+29,Phyu Kyaw,Other,1965-07-15,60,Widowed,PhD,Doctor,1194926.6,Mandalay,2019-03-27,phyu.kyaw@gmail.com,959163331824,9029,10,2023-07-06,False,0
+31,Hla Htun,Other,1955-05-14,70,Widowed,Master,Engineer,4062784.8,Mandalay,2023-07-25,hla.htun@gmail.com,959579011369,31,1,2024-08-21,True,1
+31,Hla Htun,Other,1955-05-14,70,Widowed,Master,Engineer,4062784.8,Mandalay,2023-07-25,hla.htun@gmail.com,959579011369,1031,2,2024-10-04,False,0
+31,Hla Htun,Other,1955-05-14,70,Widowed,Master,Engineer,4062784.8,Mandalay,2023-07-25,hla.htun@gmail.com,959579011369,2031,3,2024-05-30,False,0
+31,Hla Htun,Other,1955-05-14,70,Widowed,Master,Engineer,4062784.8,Mandalay,2023-07-25,hla.htun@gmail.com,959579011369,3031,4,2023-08-09,True,1
+31,Hla Htun,Other,1955-05-14,70,Widowed,Master,Engineer,4062784.8,Mandalay,2023-07-25,hla.htun@gmail.com,959579011369,4031,5,2024-11-11,False,0
+31,Hla Htun,Other,1955-05-14,70,Widowed,Master,Engineer,4062784.8,Mandalay,2023-07-25,hla.htun@gmail.com,959579011369,5031,6,2024-10-17,True,1
+31,Hla Htun,Other,1955-05-14,70,Widowed,Master,Engineer,4062784.8,Mandalay,2023-07-25,hla.htun@gmail.com,959579011369,6031,7,2024-05-12,True,1
+31,Hla Htun,Other,1955-05-14,70,Widowed,Master,Engineer,4062784.8,Mandalay,2023-07-25,hla.htun@gmail.com,959579011369,7031,8,2023-09-11,True,1
+31,Hla Htun,Other,1955-05-14,70,Widowed,Master,Engineer,4062784.8,Mandalay,2023-07-25,hla.htun@gmail.com,959579011369,8031,9,2023-07-23,False,0
+31,Hla Htun,Other,1955-05-14,70,Widowed,Master,Engineer,4062784.8,Mandalay,2023-07-25,hla.htun@gmail.com,959579011369,9031,10,2023-06-27,True,1
+38,Khin Htun,Other,1995-03-15,30,Single,PhD,Government Employee,622050.26,Mandalay,2023-09-23,khin.htun@gmail.com,959691788042,38,1,2024-09-12,True,1
+38,Khin Htun,Other,1995-03-15,30,Single,PhD,Government Employee,622050.26,Mandalay,2023-09-23,khin.htun@gmail.com,959691788042,1038,2,2024-11-02,False,0
+38,Khin Htun,Other,1995-03-15,30,Single,PhD,Government Employee,622050.26,Mandalay,2023-09-23,khin.htun@gmail.com,959691788042,2038,3,2024-06-24,True,1
+38,Khin Htun,Other,1995-03-15,30,Single,PhD,Government Employee,622050.26,Mandalay,2023-09-23,khin.htun@gmail.com,959691788042,3038,4,2023-08-13,True,1
+38,Khin Htun,Other,1995-03-15,30,Single,PhD,Government Employee,622050.26,Mandalay,2023-09-23,khin.htun@gmail.com,959691788042,4038,5,2024-11-01,True,1
+38,Khin Htun,Other,1995-03-15,30,Single,PhD,Government Employee,622050.26,Mandalay,2023-09-23,khin.htun@gmail.com,959691788042,5038,6,2024-10-25,False,0
+38,Khin Htun,Other,1995-03-15,30,Single,PhD,Government Employee,622050.26,Mandalay,2023-09-23,khin.htun@gmail.com,959691788042,6038,7,2024-04-15,False,0
+38,Khin Htun,Other,1995-03-15,30,Single,PhD,Government Employee,622050.26,Mandalay,2023-09-23,khin.htun@gmail.com,959691788042,7038,8,2023-09-18,True,1
+38,Khin Htun,Other,1995-03-15,30,Single,PhD,Government Employee,622050.26,Mandalay,2023-09-23,khin.htun@gmail.com,959691788042,8038,9,2023-08-05,False,0
+38,Khin Htun,Other,1995-03-15,30,Single,PhD,Government Employee,622050.26,Mandalay,2023-09-23,khin.htun@gmail.com,959691788042,9038,10,2023-06-22,True,1
+44,Thandar Myint,Other,1976-08-08,49,Single,Master,Fisherman,1707080.14,Mandalay,2024-05-27,thandar.myint@gmail.com,959664570013,44,1,2024-08-27,True,1
+44,Thandar Myint,Other,1976-08-08,49,Single,Master,Fisherman,1707080.14,Mandalay,2024-05-27,thandar.myint@gmail.com,959664570013,1044,2,2024-10-21,False,0
+44,Thandar Myint,Other,1976-08-08,49,Single,Master,Fisherman,1707080.14,Mandalay,2024-05-27,thandar.myint@gmail.com,959664570013,2044,3,2024-06-20,False,0
+44,Thandar Myint,Other,1976-08-08,49,Single,Master,Fisherman,1707080.14,Mandalay,2024-05-27,thandar.myint@gmail.com,959664570013,3044,4,2023-07-27,True,1
+44,Thandar Myint,Other,1976-08-08,49,Single,Master,Fisherman,1707080.14,Mandalay,2024-05-27,thandar.myint@gmail.com,959664570013,4044,5,2024-11-01,False,0
+44,Thandar Myint,Other,1976-08-08,49,Single,Master,Fisherman,1707080.14,Mandalay,2024-05-27,thandar.myint@gmail.com,959664570013,5044,6,2024-09-19,False,0
+44,Thandar Myint,Other,1976-08-08,49,Single,Master,Fisherman,1707080.14,Mandalay,2024-05-27,thandar.myint@gmail.com,959664570013,6044,7,2024-05-13,False,0
+44,Thandar Myint,Other,1976-08-08,49,Single,Master,Fisherman,1707080.14,Mandalay,2024-05-27,thandar.myint@gmail.com,959664570013,7044,8,2023-09-11,True,1
+44,Thandar Myint,Other,1976-08-08,49,Single,Master,Fisherman,1707080.14,Mandalay,2024-05-27,thandar.myint@gmail.com,959664570013,8044,9,2023-07-15,True,1
+44,Thandar Myint,Other,1976-08-08,49,Single,Master,Fisherman,1707080.14,Mandalay,2024-05-27,thandar.myint@gmail.com,959664570013,9044,10,2023-06-23,True,1
+53,Myo Moe,Male,1999-10-19,26,Married,High School,Government Employee,4000660.19,Mandalay,2016-02-09,myo.moe@gmail.com,959196012607,53,1,2024-08-23,False,0
+53,Myo Moe,Male,1999-10-19,26,Married,High School,Government Employee,4000660.19,Mandalay,2016-02-09,myo.moe@gmail.com,959196012607,1053,2,2024-10-03,False,0
+53,Myo Moe,Male,1999-10-19,26,Married,High School,Government Employee,4000660.19,Mandalay,2016-02-09,myo.moe@gmail.com,959196012607,2053,3,2024-06-16,False,0
+53,Myo Moe,Male,1999-10-19,26,Married,High School,Government Employee,4000660.19,Mandalay,2016-02-09,myo.moe@gmail.com,959196012607,3053,4,2023-08-27,False,0
+53,Myo Moe,Male,1999-10-19,26,Married,High School,Government Employee,4000660.19,Mandalay,2016-02-09,myo.moe@gmail.com,959196012607,4053,5,2024-11-03,False,0
+53,Myo Moe,Male,1999-10-19,26,Married,High School,Government Employee,4000660.19,Mandalay,2016-02-09,myo.moe@gmail.com,959196012607,5053,6,2024-10-21,True,1
+53,Myo Moe,Male,1999-10-19,26,Married,High School,Government Employee,4000660.19,Mandalay,2016-02-09,myo.moe@gmail.com,959196012607,6053,7,2024-04-22,False,0
+53,Myo Moe,Male,1999-10-19,26,Married,High School,Government Employee,4000660.19,Mandalay,2016-02-09,myo.moe@gmail.com,959196012607,7053,8,2023-09-13,True,1
+53,Myo Moe,Male,1999-10-19,26,Married,High School,Government Employee,4000660.19,Mandalay,2016-02-09,myo.moe@gmail.com,959196012607,8053,9,2023-07-28,True,1
+53,Myo Moe,Male,1999-10-19,26,Married,High School,Government Employee,4000660.19,Mandalay,2016-02-09,myo.moe@gmail.com,959196012607,9053,10,2023-07-03,False,0
+79,Thet Htun,Other,1984-05-14,41,Widowed,Bachelor,Construction Worker,3416098.86,Mandalay,2021-01-29,thet.htun@gmail.com,959989336021,79,1,2024-09-12,True,1
+79,Thet Htun,Other,1984-05-14,41,Widowed,Bachelor,Construction Worker,3416098.86,Mandalay,2021-01-29,thet.htun@gmail.com,959989336021,1079,2,2024-10-14,True,1
+79,Thet Htun,Other,1984-05-14,41,Widowed,Bachelor,Construction Worker,3416098.86,Mandalay,2021-01-29,thet.htun@gmail.com,959989336021,2079,3,2024-06-25,False,0
+79,Thet Htun,Other,1984-05-14,41,Widowed,Bachelor,Construction Worker,3416098.86,Mandalay,2021-01-29,thet.htun@gmail.com,959989336021,3079,4,2023-08-27,True,1
+79,Thet Htun,Other,1984-05-14,41,Widowed,Bachelor,Construction Worker,3416098.86,Mandalay,2021-01-29,thet.htun@gmail.com,959989336021,4079,5,2024-11-13,True,1
+79,Thet Htun,Other,1984-05-14,41,Widowed,Bachelor,Construction Worker,3416098.86,Mandalay,2021-01-29,thet.htun@gmail.com,959989336021,5079,6,2024-10-20,False,0
+79,Thet Htun,Other,1984-05-14,41,Widowed,Bachelor,Construction Worker,3416098.86,Mandalay,2021-01-29,thet.htun@gmail.com,959989336021,6079,7,2024-05-14,False,0
+79,Thet Htun,Other,1984-05-14,41,Widowed,Bachelor,Construction Worker,3416098.86,Mandalay,2021-01-29,thet.htun@gmail.com,959989336021,7079,8,2023-09-17,False,0
+79,Thet Htun,Other,1984-05-14,41,Widowed,Bachelor,Construction Worker,3416098.86,Mandalay,2021-01-29,thet.htun@gmail.com,959989336021,8079,9,2023-08-12,True,1
+79,Thet Htun,Other,1984-05-14,41,Widowed,Bachelor,Construction Worker,3416098.86,Mandalay,2021-01-29,thet.htun@gmail.com,959989336021,9079,10,2023-06-11,False,0
+85,Thandar Zaw,Female,1976-04-10,49,Married,Bachelor,Construction Worker,4829553.3,Mandalay,2020-12-22,thandar.zaw@gmail.com,959721164600,85,1,2024-08-22,True,1
+85,Thandar Zaw,Female,1976-04-10,49,Married,Bachelor,Construction Worker,4829553.3,Mandalay,2020-12-22,thandar.zaw@gmail.com,959721164600,1085,2,2024-10-07,True,1
+85,Thandar Zaw,Female,1976-04-10,49,Married,Bachelor,Construction Worker,4829553.3,Mandalay,2020-12-22,thandar.zaw@gmail.com,959721164600,2085,3,2024-05-21,False,0
+85,Thandar Zaw,Female,1976-04-10,49,Married,Bachelor,Construction Worker,4829553.3,Mandalay,2020-12-22,thandar.zaw@gmail.com,959721164600,3085,4,2023-08-06,False,0
+85,Thandar Zaw,Female,1976-04-10,49,Married,Bachelor,Construction Worker,4829553.3,Mandalay,2020-12-22,thandar.zaw@gmail.com,959721164600,4085,5,2024-11-01,True,1
+85,Thandar Zaw,Female,1976-04-10,49,Married,Bachelor,Construction Worker,4829553.3,Mandalay,2020-12-22,thandar.zaw@gmail.com,959721164600,5085,6,2024-09-25,True,1
+85,Thandar Zaw,Female,1976-04-10,49,Married,Bachelor,Construction Worker,4829553.3,Mandalay,2020-12-22,thandar.zaw@gmail.com,959721164600,6085,7,2024-04-18,False,0
+85,Thandar Zaw,Female,1976-04-10,49,Married,Bachelor,Construction Worker,4829553.3,Mandalay,2020-12-22,thandar.zaw@gmail.com,959721164600,7085,8,2023-09-11,True,1
+85,Thandar Zaw,Female,1976-04-10,49,Married,Bachelor,Construction Worker,4829553.3,Mandalay,2020-12-22,thandar.zaw@gmail.com,959721164600,8085,9,2023-07-26,True,1
+85,Thandar Zaw,Female,1976-04-10,49,Married,Bachelor,Construction Worker,4829553.3,Mandalay,2020-12-22,thandar.zaw@gmail.com,959721164600,9085,10,2023-06-08,False,0
+88,Naing Htun,Male,1948-04-28,77,Divorced,Bachelor,Doctor,3409150.3,Mandalay,2022-05-07,naing.htun@gmail.com,959593014206,88,1,2024-08-28,False,0
+88,Naing Htun,Male,1948-04-28,77,Divorced,Bachelor,Doctor,3409150.3,Mandalay,2022-05-07,naing.htun@gmail.com,959593014206,1088,2,2024-11-01,True,1
+88,Naing Htun,Male,1948-04-28,77,Divorced,Bachelor,Doctor,3409150.3,Mandalay,2022-05-07,naing.htun@gmail.com,959593014206,2088,3,2024-06-01,False,0
+88,Naing Htun,Male,1948-04-28,77,Divorced,Bachelor,Doctor,3409150.3,Mandalay,2022-05-07,naing.htun@gmail.com,959593014206,3088,4,2023-08-24,False,0
+88,Naing Htun,Male,1948-04-28,77,Divorced,Bachelor,Doctor,3409150.3,Mandalay,2022-05-07,naing.htun@gmail.com,959593014206,4088,5,2024-11-03,True,1
+88,Naing Htun,Male,1948-04-28,77,Divorced,Bachelor,Doctor,3409150.3,Mandalay,2022-05-07,naing.htun@gmail.com,959593014206,5088,6,2024-09-23,False,0
+88,Naing Htun,Male,1948-04-28,77,Divorced,Bachelor,Doctor,3409150.3,Mandalay,2022-05-07,naing.htun@gmail.com,959593014206,6088,7,2024-05-09,True,1
+88,Naing Htun,Male,1948-04-28,77,Divorced,Bachelor,Doctor,3409150.3,Mandalay,2022-05-07,naing.htun@gmail.com,959593014206,7088,8,2023-09-12,False,0
+88,Naing Htun,Male,1948-04-28,77,Divorced,Bachelor,Doctor,3409150.3,Mandalay,2022-05-07,naing.htun@gmail.com,959593014206,8088,9,2023-07-14,False,0
+88,Naing Htun,Male,1948-04-28,77,Divorced,Bachelor,Doctor,3409150.3,Mandalay,2022-05-07,naing.htun@gmail.com,959593014206,9088,10,2023-06-06,True,1
+107,Nu Moe,Female,1947-02-12,78,Divorced,Bachelor,Construction Worker,583082.43,Mandalay,2017-11-03,nu.moe@gmail.com,959759985022,107,1,2024-09-22,True,1
+107,Nu Moe,Female,1947-02-12,78,Divorced,Bachelor,Construction Worker,583082.43,Mandalay,2017-11-03,nu.moe@gmail.com,959759985022,1107,2,2024-10-06,False,0
+107,Nu Moe,Female,1947-02-12,78,Divorced,Bachelor,Construction Worker,583082.43,Mandalay,2017-11-03,nu.moe@gmail.com,959759985022,2107,3,2024-06-06,True,1
+107,Nu Moe,Female,1947-02-12,78,Divorced,Bachelor,Construction Worker,583082.43,Mandalay,2017-11-03,nu.moe@gmail.com,959759985022,3107,4,2023-07-30,True,1
+107,Nu Moe,Female,1947-02-12,78,Divorced,Bachelor,Construction Worker,583082.43,Mandalay,2017-11-03,nu.moe@gmail.com,959759985022,4107,5,2024-10-31,False,0
+107,Nu Moe,Female,1947-02-12,78,Divorced,Bachelor,Construction Worker,583082.43,Mandalay,2017-11-03,nu.moe@gmail.com,959759985022,5107,6,2024-10-26,True,1
+107,Nu Moe,Female,1947-02-12,78,Divorced,Bachelor,Construction Worker,583082.43,Mandalay,2017-11-03,nu.moe@gmail.com,959759985022,6107,7,2024-05-12,True,1
+107,Nu Moe,Female,1947-02-12,78,Divorced,Bachelor,Construction Worker,583082.43,Mandalay,2017-11-03,nu.moe@gmail.com,959759985022,7107,8,2023-09-12,False,0
+107,Nu Moe,Female,1947-02-12,78,Divorced,Bachelor,Construction Worker,583082.43,Mandalay,2017-11-03,nu.moe@gmail.com,959759985022,8107,9,2023-07-21,True,1
+107,Nu Moe,Female,1947-02-12,78,Divorced,Bachelor,Construction Worker,583082.43,Mandalay,2017-11-03,nu.moe@gmail.com,959759985022,9107,10,2023-06-18,True,1
+108,Kyaw Aung,Male,1969-11-03,56,Single,Middle School,Business Owner,1116923.68,Mandalay,2023-06-26,kyaw.aung@gmail.com,959314590816,108,1,2024-09-29,True,1
+108,Kyaw Aung,Male,1969-11-03,56,Single,Middle School,Business Owner,1116923.68,Mandalay,2023-06-26,kyaw.aung@gmail.com,959314590816,1108,2,2024-11-05,False,0
+108,Kyaw Aung,Male,1969-11-03,56,Single,Middle School,Business Owner,1116923.68,Mandalay,2023-06-26,kyaw.aung@gmail.com,959314590816,2108,3,2024-06-12,False,0
+108,Kyaw Aung,Male,1969-11-03,56,Single,Middle School,Business Owner,1116923.68,Mandalay,2023-06-26,kyaw.aung@gmail.com,959314590816,3108,4,2023-08-09,False,0
+108,Kyaw Aung,Male,1969-11-03,56,Single,Middle School,Business Owner,1116923.68,Mandalay,2023-06-26,kyaw.aung@gmail.com,959314590816,4108,5,2024-11-06,False,0
+108,Kyaw Aung,Male,1969-11-03,56,Single,Middle School,Business Owner,1116923.68,Mandalay,2023-06-26,kyaw.aung@gmail.com,959314590816,5108,6,2024-10-17,False,0
+108,Kyaw Aung,Male,1969-11-03,56,Single,Middle School,Business Owner,1116923.68,Mandalay,2023-06-26,kyaw.aung@gmail.com,959314590816,6108,7,2024-04-23,False,0
+108,Kyaw Aung,Male,1969-11-03,56,Single,Middle School,Business Owner,1116923.68,Mandalay,2023-06-26,kyaw.aung@gmail.com,959314590816,7108,8,2023-09-15,True,1
+108,Kyaw Aung,Male,1969-11-03,56,Single,Middle School,Business Owner,1116923.68,Mandalay,2023-06-26,kyaw.aung@gmail.com,959314590816,8108,9,2023-08-12,True,1
+108,Kyaw Aung,Male,1969-11-03,56,Single,Middle School,Business Owner,1116923.68,Mandalay,2023-06-26,kyaw.aung@gmail.com,959314590816,9108,10,2023-06-07,True,1
+119,Phyu Aung,Female,1993-11-27,32,Widowed,PhD,Fisherman,472476.51,Mandalay,2021-09-29,phyu.aung@gmail.com,959409719733,119,1,2024-09-02,False,0
+119,Phyu Aung,Female,1993-11-27,32,Widowed,PhD,Fisherman,472476.51,Mandalay,2021-09-29,phyu.aung@gmail.com,959409719733,1119,2,2024-10-21,True,1
+119,Phyu Aung,Female,1993-11-27,32,Widowed,PhD,Fisherman,472476.51,Mandalay,2021-09-29,phyu.aung@gmail.com,959409719733,2119,3,2024-06-28,False,0
+119,Phyu Aung,Female,1993-11-27,32,Widowed,PhD,Fisherman,472476.51,Mandalay,2021-09-29,phyu.aung@gmail.com,959409719733,3119,4,2023-07-27,True,1
+119,Phyu Aung,Female,1993-11-27,32,Widowed,PhD,Fisherman,472476.51,Mandalay,2021-09-29,phyu.aung@gmail.com,959409719733,4119,5,2024-11-02,True,1
+119,Phyu Aung,Female,1993-11-27,32,Widowed,PhD,Fisherman,472476.51,Mandalay,2021-09-29,phyu.aung@gmail.com,959409719733,5119,6,2024-10-25,True,1
+119,Phyu Aung,Female,1993-11-27,32,Widowed,PhD,Fisherman,472476.51,Mandalay,2021-09-29,phyu.aung@gmail.com,959409719733,6119,7,2024-04-14,True,1
+119,Phyu Aung,Female,1993-11-27,32,Widowed,PhD,Fisherman,472476.51,Mandalay,2021-09-29,phyu.aung@gmail.com,959409719733,7119,8,2023-09-16,False,0
+119,Phyu Aung,Female,1993-11-27,32,Widowed,PhD,Fisherman,472476.51,Mandalay,2021-09-29,phyu.aung@gmail.com,959409719733,8119,9,2023-08-09,False,0
+119,Phyu Aung,Female,1993-11-27,32,Widowed,PhD,Fisherman,472476.51,Mandalay,2021-09-29,phyu.aung@gmail.com,959409719733,9119,10,2023-06-15,True,1
+124,Thet Htun,Female,1972-12-21,53,Widowed,Primary,Business Owner,4963608.56,Mandalay,2022-02-08,thet.htun@gmail.com,959144189612,124,1,2024-08-23,True,1
+124,Thet Htun,Female,1972-12-21,53,Widowed,Primary,Business Owner,4963608.56,Mandalay,2022-02-08,thet.htun@gmail.com,959144189612,1124,2,2024-10-15,False,0
+124,Thet Htun,Female,1972-12-21,53,Widowed,Primary,Business Owner,4963608.56,Mandalay,2022-02-08,thet.htun@gmail.com,959144189612,2124,3,2024-06-02,False,0
+124,Thet Htun,Female,1972-12-21,53,Widowed,Primary,Business Owner,4963608.56,Mandalay,2022-02-08,thet.htun@gmail.com,959144189612,3124,4,2023-07-21,False,0
+124,Thet Htun,Female,1972-12-21,53,Widowed,Primary,Business Owner,4963608.56,Mandalay,2022-02-08,thet.htun@gmail.com,959144189612,4124,5,2024-11-11,True,1
+124,Thet Htun,Female,1972-12-21,53,Widowed,Primary,Business Owner,4963608.56,Mandalay,2022-02-08,thet.htun@gmail.com,959144189612,5124,6,2024-10-23,True,1
+124,Thet Htun,Female,1972-12-21,53,Widowed,Primary,Business Owner,4963608.56,Mandalay,2022-02-08,thet.htun@gmail.com,959144189612,6124,7,2024-04-18,False,0
+124,Thet Htun,Female,1972-12-21,53,Widowed,Primary,Business Owner,4963608.56,Mandalay,2022-02-08,thet.htun@gmail.com,959144189612,7124,8,2023-09-17,False,0
+124,Thet Htun,Female,1972-12-21,53,Widowed,Primary,Business Owner,4963608.56,Mandalay,2022-02-08,thet.htun@gmail.com,959144189612,8124,9,2023-08-08,False,0
+124,Thet Htun,Female,1972-12-21,53,Widowed,Primary,Business Owner,4963608.56,Mandalay,2022-02-08,thet.htun@gmail.com,959144189612,9124,10,2023-06-18,True,1
+134,Win Aung,Male,2002-03-07,23,Divorced,Bachelor,Tour Guide,2168171.62,Mandalay,2022-06-21,win.aung@gmail.com,959686568445,134,1,2024-09-08,True,1
+134,Win Aung,Male,2002-03-07,23,Divorced,Bachelor,Tour Guide,2168171.62,Mandalay,2022-06-21,win.aung@gmail.com,959686568445,1134,2,2024-10-26,True,1
+134,Win Aung,Male,2002-03-07,23,Divorced,Bachelor,Tour Guide,2168171.62,Mandalay,2022-06-21,win.aung@gmail.com,959686568445,2134,3,2024-05-29,False,0
+134,Win Aung,Male,2002-03-07,23,Divorced,Bachelor,Tour Guide,2168171.62,Mandalay,2022-06-21,win.aung@gmail.com,959686568445,3134,4,2023-08-16,True,1
+134,Win Aung,Male,2002-03-07,23,Divorced,Bachelor,Tour Guide,2168171.62,Mandalay,2022-06-21,win.aung@gmail.com,959686568445,4134,5,2024-11-03,False,0
+134,Win Aung,Male,2002-03-07,23,Divorced,Bachelor,Tour Guide,2168171.62,Mandalay,2022-06-21,win.aung@gmail.com,959686568445,5134,6,2024-10-04,False,0
+134,Win Aung,Male,2002-03-07,23,Divorced,Bachelor,Tour Guide,2168171.62,Mandalay,2022-06-21,win.aung@gmail.com,959686568445,6134,7,2024-05-03,True,1
+134,Win Aung,Male,2002-03-07,23,Divorced,Bachelor,Tour Guide,2168171.62,Mandalay,2022-06-21,win.aung@gmail.com,959686568445,7134,8,2023-09-16,False,0
+134,Win Aung,Male,2002-03-07,23,Divorced,Bachelor,Tour Guide,2168171.62,Mandalay,2022-06-21,win.aung@gmail.com,959686568445,8134,9,2023-07-25,True,1
+134,Win Aung,Male,2002-03-07,23,Divorced,Bachelor,Tour Guide,2168171.62,Mandalay,2022-06-21,win.aung@gmail.com,959686568445,9134,10,2023-06-15,False,0
+137,Zaw Moe,Male,1960-08-19,65,Single,PhD,Bank Employee,3608286.9,Mandalay,2022-06-02,zaw.moe@gmail.com,959723192966,137,1,2024-09-14,True,1
+137,Zaw Moe,Male,1960-08-19,65,Single,PhD,Bank Employee,3608286.9,Mandalay,2022-06-02,zaw.moe@gmail.com,959723192966,1137,2,2024-11-04,True,1
+137,Zaw Moe,Male,1960-08-19,65,Single,PhD,Bank Employee,3608286.9,Mandalay,2022-06-02,zaw.moe@gmail.com,959723192966,2137,3,2024-06-09,False,0
+137,Zaw Moe,Male,1960-08-19,65,Single,PhD,Bank Employee,3608286.9,Mandalay,2022-06-02,zaw.moe@gmail.com,959723192966,3137,4,2023-07-29,False,0
+137,Zaw Moe,Male,1960-08-19,65,Single,PhD,Bank Employee,3608286.9,Mandalay,2022-06-02,zaw.moe@gmail.com,959723192966,4137,5,2024-10-30,True,1
+137,Zaw Moe,Male,1960-08-19,65,Single,PhD,Bank Employee,3608286.9,Mandalay,2022-06-02,zaw.moe@gmail.com,959723192966,5137,6,2024-09-19,True,1
+137,Zaw Moe,Male,1960-08-19,65,Single,PhD,Bank Employee,3608286.9,Mandalay,2022-06-02,zaw.moe@gmail.com,959723192966,6137,7,2024-05-01,True,1
+137,Zaw Moe,Male,1960-08-19,65,Single,PhD,Bank Employee,3608286.9,Mandalay,2022-06-02,zaw.moe@gmail.com,959723192966,7137,8,2023-09-09,True,1
+137,Zaw Moe,Male,1960-08-19,65,Single,PhD,Bank Employee,3608286.9,Mandalay,2022-06-02,zaw.moe@gmail.com,959723192966,8137,9,2023-08-10,True,1
+137,Zaw Moe,Male,1960-08-19,65,Single,PhD,Bank Employee,3608286.9,Mandalay,2022-06-02,zaw.moe@gmail.com,959723192966,9137,10,2023-06-16,True,1
+150,Phyu Aung,Female,1956-02-11,69,Divorced,PhD,Teacher,2501157.53,Mandalay,2022-04-24,phyu.aung@gmail.com,959176020302,150,1,2024-08-27,True,1
+150,Phyu Aung,Female,1956-02-11,69,Divorced,PhD,Teacher,2501157.53,Mandalay,2022-04-24,phyu.aung@gmail.com,959176020302,1150,2,2024-10-20,True,1
+150,Phyu Aung,Female,1956-02-11,69,Divorced,PhD,Teacher,2501157.53,Mandalay,2022-04-24,phyu.aung@gmail.com,959176020302,2150,3,2024-06-25,True,1
+150,Phyu Aung,Female,1956-02-11,69,Divorced,PhD,Teacher,2501157.53,Mandalay,2022-04-24,phyu.aung@gmail.com,959176020302,3150,4,2023-07-25,True,1
+150,Phyu Aung,Female,1956-02-11,69,Divorced,PhD,Teacher,2501157.53,Mandalay,2022-04-24,phyu.aung@gmail.com,959176020302,4150,5,2024-11-09,True,1
+150,Phyu Aung,Female,1956-02-11,69,Divorced,PhD,Teacher,2501157.53,Mandalay,2022-04-24,phyu.aung@gmail.com,959176020302,5150,6,2024-10-01,True,1
+150,Phyu Aung,Female,1956-02-11,69,Divorced,PhD,Teacher,2501157.53,Mandalay,2022-04-24,phyu.aung@gmail.com,959176020302,6150,7,2024-04-26,False,0
+150,Phyu Aung,Female,1956-02-11,69,Divorced,PhD,Teacher,2501157.53,Mandalay,2022-04-24,phyu.aung@gmail.com,959176020302,7150,8,2023-09-10,True,1
+150,Phyu Aung,Female,1956-02-11,69,Divorced,PhD,Teacher,2501157.53,Mandalay,2022-04-24,phyu.aung@gmail.com,959176020302,8150,9,2023-07-17,True,1
+150,Phyu Aung,Female,1956-02-11,69,Divorced,PhD,Teacher,2501157.53,Mandalay,2022-04-24,phyu.aung@gmail.com,959176020302,9150,10,2023-06-19,True,1
+165,Hla Win,Other,2006-06-16,19,Widowed,Diploma,Engineer,2712218.4,Mandalay,2022-02-04,hla.win@gmail.com,959253082394,165,1,2024-09-09,True,1
+165,Hla Win,Other,2006-06-16,19,Widowed,Diploma,Engineer,2712218.4,Mandalay,2022-02-04,hla.win@gmail.com,959253082394,1165,2,2024-10-24,False,0
+165,Hla Win,Other,2006-06-16,19,Widowed,Diploma,Engineer,2712218.4,Mandalay,2022-02-04,hla.win@gmail.com,959253082394,2165,3,2024-06-21,True,1
+165,Hla Win,Other,2006-06-16,19,Widowed,Diploma,Engineer,2712218.4,Mandalay,2022-02-04,hla.win@gmail.com,959253082394,3165,4,2023-07-28,True,1
+165,Hla Win,Other,2006-06-16,19,Widowed,Diploma,Engineer,2712218.4,Mandalay,2022-02-04,hla.win@gmail.com,959253082394,4165,5,2024-11-10,False,0
+165,Hla Win,Other,2006-06-16,19,Widowed,Diploma,Engineer,2712218.4,Mandalay,2022-02-04,hla.win@gmail.com,959253082394,5165,6,2024-09-16,False,0
+165,Hla Win,Other,2006-06-16,19,Widowed,Diploma,Engineer,2712218.4,Mandalay,2022-02-04,hla.win@gmail.com,959253082394,6165,7,2024-05-15,False,0
+165,Hla Win,Other,2006-06-16,19,Widowed,Diploma,Engineer,2712218.4,Mandalay,2022-02-04,hla.win@gmail.com,959253082394,7165,8,2023-09-18,True,1
+165,Hla Win,Other,2006-06-16,19,Widowed,Diploma,Engineer,2712218.4,Mandalay,2022-02-04,hla.win@gmail.com,959253082394,8165,9,2023-07-27,False,0
+165,Hla Win,Other,2006-06-16,19,Widowed,Diploma,Engineer,2712218.4,Mandalay,2022-02-04,hla.win@gmail.com,959253082394,9165,10,2023-06-12,False,0
+167,Su Htun,Other,2005-10-14,20,Widowed,PhD,Doctor,2303486.01,Mandalay,2015-08-15,su.htun@gmail.com,959586799962,167,1,2024-08-24,True,1
+167,Su Htun,Other,2005-10-14,20,Widowed,PhD,Doctor,2303486.01,Mandalay,2015-08-15,su.htun@gmail.com,959586799962,1167,2,2024-10-29,True,1
+167,Su Htun,Other,2005-10-14,20,Widowed,PhD,Doctor,2303486.01,Mandalay,2015-08-15,su.htun@gmail.com,959586799962,2167,3,2024-06-28,True,1
+167,Su Htun,Other,2005-10-14,20,Widowed,PhD,Doctor,2303486.01,Mandalay,2015-08-15,su.htun@gmail.com,959586799962,3167,4,2023-07-21,False,0
+167,Su Htun,Other,2005-10-14,20,Widowed,PhD,Doctor,2303486.01,Mandalay,2015-08-15,su.htun@gmail.com,959586799962,4167,5,2024-11-01,False,0
+167,Su Htun,Other,2005-10-14,20,Widowed,PhD,Doctor,2303486.01,Mandalay,2015-08-15,su.htun@gmail.com,959586799962,5167,6,2024-09-26,False,0
+167,Su Htun,Other,2005-10-14,20,Widowed,PhD,Doctor,2303486.01,Mandalay,2015-08-15,su.htun@gmail.com,959586799962,6167,7,2024-05-12,False,0
+167,Su Htun,Other,2005-10-14,20,Widowed,PhD,Doctor,2303486.01,Mandalay,2015-08-15,su.htun@gmail.com,959586799962,7167,8,2023-09-17,True,1
+167,Su Htun,Other,2005-10-14,20,Widowed,PhD,Doctor,2303486.01,Mandalay,2015-08-15,su.htun@gmail.com,959586799962,8167,9,2023-08-05,False,0
+167,Su Htun,Other,2005-10-14,20,Widowed,PhD,Doctor,2303486.01,Mandalay,2015-08-15,su.htun@gmail.com,959586799962,9167,10,2023-07-07,True,1
+173,Win Win,Male,1996-02-09,29,Single,PhD,Teacher,738181.48,Mandalay,2022-10-04,win.win@gmail.com,959134154252,173,1,2024-09-23,True,1
+173,Win Win,Male,1996-02-09,29,Single,PhD,Teacher,738181.48,Mandalay,2022-10-04,win.win@gmail.com,959134154252,1173,2,2024-10-15,True,1
+173,Win Win,Male,1996-02-09,29,Single,PhD,Teacher,738181.48,Mandalay,2022-10-04,win.win@gmail.com,959134154252,2173,3,2024-06-29,True,1
+173,Win Win,Male,1996-02-09,29,Single,PhD,Teacher,738181.48,Mandalay,2022-10-04,win.win@gmail.com,959134154252,3173,4,2023-07-29,True,1
+173,Win Win,Male,1996-02-09,29,Single,PhD,Teacher,738181.48,Mandalay,2022-10-04,win.win@gmail.com,959134154252,4173,5,2024-11-04,False,0
+173,Win Win,Male,1996-02-09,29,Single,PhD,Teacher,738181.48,Mandalay,2022-10-04,win.win@gmail.com,959134154252,5173,6,2024-10-12,True,1
+173,Win Win,Male,1996-02-09,29,Single,PhD,Teacher,738181.48,Mandalay,2022-10-04,win.win@gmail.com,959134154252,6173,7,2024-04-30,False,0
+173,Win Win,Male,1996-02-09,29,Single,PhD,Teacher,738181.48,Mandalay,2022-10-04,win.win@gmail.com,959134154252,7173,8,2023-09-14,False,0
+173,Win Win,Male,1996-02-09,29,Single,PhD,Teacher,738181.48,Mandalay,2022-10-04,win.win@gmail.com,959134154252,8173,9,2023-07-26,False,0
+173,Win Win,Male,1996-02-09,29,Single,PhD,Teacher,738181.48,Mandalay,2022-10-04,win.win@gmail.com,959134154252,9173,10,2023-06-30,True,1
+174,May Oo,Other,1949-09-24,76,Single,Bachelor,Fisherman,2939911.89,Mandalay,2024-06-05,may.oo@gmail.com,959460732696,174,1,2024-08-26,False,0
+174,May Oo,Other,1949-09-24,76,Single,Bachelor,Fisherman,2939911.89,Mandalay,2024-06-05,may.oo@gmail.com,959460732696,1174,2,2024-10-13,True,1
+174,May Oo,Other,1949-09-24,76,Single,Bachelor,Fisherman,2939911.89,Mandalay,2024-06-05,may.oo@gmail.com,959460732696,2174,3,2024-06-15,False,0
+174,May Oo,Other,1949-09-24,76,Single,Bachelor,Fisherman,2939911.89,Mandalay,2024-06-05,may.oo@gmail.com,959460732696,3174,4,2023-07-27,True,1
+174,May Oo,Other,1949-09-24,76,Single,Bachelor,Fisherman,2939911.89,Mandalay,2024-06-05,may.oo@gmail.com,959460732696,4174,5,2024-11-10,True,1
+174,May Oo,Other,1949-09-24,76,Single,Bachelor,Fisherman,2939911.89,Mandalay,2024-06-05,may.oo@gmail.com,959460732696,5174,6,2024-09-30,True,1
+174,May Oo,Other,1949-09-24,76,Single,Bachelor,Fisherman,2939911.89,Mandalay,2024-06-05,may.oo@gmail.com,959460732696,6174,7,2024-04-09,False,0
+174,May Oo,Other,1949-09-24,76,Single,Bachelor,Fisherman,2939911.89,Mandalay,2024-06-05,may.oo@gmail.com,959460732696,7174,8,2023-09-17,False,0
+174,May Oo,Other,1949-09-24,76,Single,Bachelor,Fisherman,2939911.89,Mandalay,2024-06-05,may.oo@gmail.com,959460732696,8174,9,2023-08-01,False,0
+174,May Oo,Other,1949-09-24,76,Single,Bachelor,Fisherman,2939911.89,Mandalay,2024-06-05,may.oo@gmail.com,959460732696,9174,10,2023-07-08,True,1
+175,May Moe,Female,1995-07-28,30,Single,High School,Construction Worker,1768509.83,Mandalay,2019-08-13,may.moe@gmail.com,959652940908,175,1,2024-08-28,True,1
+175,May Moe,Female,1995-07-28,30,Single,High School,Construction Worker,1768509.83,Mandalay,2019-08-13,may.moe@gmail.com,959652940908,1175,2,2024-10-16,False,0
+175,May Moe,Female,1995-07-28,30,Single,High School,Construction Worker,1768509.83,Mandalay,2019-08-13,may.moe@gmail.com,959652940908,2175,3,2024-06-28,True,1
+175,May Moe,Female,1995-07-28,30,Single,High School,Construction Worker,1768509.83,Mandalay,2019-08-13,may.moe@gmail.com,959652940908,3175,4,2023-08-17,True,1
+175,May Moe,Female,1995-07-28,30,Single,High School,Construction Worker,1768509.83,Mandalay,2019-08-13,may.moe@gmail.com,959652940908,4175,5,2024-11-12,False,0
+175,May Moe,Female,1995-07-28,30,Single,High School,Construction Worker,1768509.83,Mandalay,2019-08-13,may.moe@gmail.com,959652940908,5175,6,2024-09-18,False,0
+175,May Moe,Female,1995-07-28,30,Single,High School,Construction Worker,1768509.83,Mandalay,2019-08-13,may.moe@gmail.com,959652940908,6175,7,2024-05-09,True,1
+175,May Moe,Female,1995-07-28,30,Single,High School,Construction Worker,1768509.83,Mandalay,2019-08-13,may.moe@gmail.com,959652940908,7175,8,2023-09-14,True,1
+175,May Moe,Female,1995-07-28,30,Single,High School,Construction Worker,1768509.83,Mandalay,2019-08-13,may.moe@gmail.com,959652940908,8175,9,2023-07-23,True,1
+175,May Moe,Female,1995-07-28,30,Single,High School,Construction Worker,1768509.83,Mandalay,2019-08-13,may.moe@gmail.com,959652940908,9175,10,2023-06-08,False,0
+176,Thet Kyaw,Other,1977-12-24,48,Married,Master,Driver,1353950.88,Mandalay,2015-08-02,thet.kyaw@gmail.com,959404212671,176,1,2024-09-21,False,0
+176,Thet Kyaw,Other,1977-12-24,48,Married,Master,Driver,1353950.88,Mandalay,2015-08-02,thet.kyaw@gmail.com,959404212671,1176,2,2024-09-24,False,0
+176,Thet Kyaw,Other,1977-12-24,48,Married,Master,Driver,1353950.88,Mandalay,2015-08-02,thet.kyaw@gmail.com,959404212671,2176,3,2024-05-21,False,0
+176,Thet Kyaw,Other,1977-12-24,48,Married,Master,Driver,1353950.88,Mandalay,2015-08-02,thet.kyaw@gmail.com,959404212671,3176,4,2023-07-25,False,0
+176,Thet Kyaw,Other,1977-12-24,48,Married,Master,Driver,1353950.88,Mandalay,2015-08-02,thet.kyaw@gmail.com,959404212671,4176,5,2024-11-05,True,1
+176,Thet Kyaw,Other,1977-12-24,48,Married,Master,Driver,1353950.88,Mandalay,2015-08-02,thet.kyaw@gmail.com,959404212671,5176,6,2024-10-22,False,0
+176,Thet Kyaw,Other,1977-12-24,48,Married,Master,Driver,1353950.88,Mandalay,2015-08-02,thet.kyaw@gmail.com,959404212671,6176,7,2024-05-05,True,1
+176,Thet Kyaw,Other,1977-12-24,48,Married,Master,Driver,1353950.88,Mandalay,2015-08-02,thet.kyaw@gmail.com,959404212671,7176,8,2023-09-18,True,1
+176,Thet Kyaw,Other,1977-12-24,48,Married,Master,Driver,1353950.88,Mandalay,2015-08-02,thet.kyaw@gmail.com,959404212671,8176,9,2023-07-16,True,1
+176,Thet Kyaw,Other,1977-12-24,48,Married,Master,Driver,1353950.88,Mandalay,2015-08-02,thet.kyaw@gmail.com,959404212671,9176,10,2023-06-21,True,1
+180,Yin Win,Other,1974-03-09,51,Married,Master,Bank Employee,4867508.5,Mandalay,2017-04-25,yin.win@gmail.com,959511400307,180,1,2024-09-01,True,1
+180,Yin Win,Other,1974-03-09,51,Married,Master,Bank Employee,4867508.5,Mandalay,2017-04-25,yin.win@gmail.com,959511400307,1180,2,2024-09-29,False,0
+180,Yin Win,Other,1974-03-09,51,Married,Master,Bank Employee,4867508.5,Mandalay,2017-04-25,yin.win@gmail.com,959511400307,2180,3,2024-06-28,False,0
+180,Yin Win,Other,1974-03-09,51,Married,Master,Bank Employee,4867508.5,Mandalay,2017-04-25,yin.win@gmail.com,959511400307,3180,4,2023-08-04,True,1
+180,Yin Win,Other,1974-03-09,51,Married,Master,Bank Employee,4867508.5,Mandalay,2017-04-25,yin.win@gmail.com,959511400307,4180,5,2024-10-30,False,0
+180,Yin Win,Other,1974-03-09,51,Married,Master,Bank Employee,4867508.5,Mandalay,2017-04-25,yin.win@gmail.com,959511400307,5180,6,2024-10-06,False,0
+180,Yin Win,Other,1974-03-09,51,Married,Master,Bank Employee,4867508.5,Mandalay,2017-04-25,yin.win@gmail.com,959511400307,6180,7,2024-04-19,False,0
+180,Yin Win,Other,1974-03-09,51,Married,Master,Bank Employee,4867508.5,Mandalay,2017-04-25,yin.win@gmail.com,959511400307,7180,8,2023-09-12,False,0
+180,Yin Win,Other,1974-03-09,51,Married,Master,Bank Employee,4867508.5,Mandalay,2017-04-25,yin.win@gmail.com,959511400307,8180,9,2023-07-21,False,0
+180,Yin Win,Other,1974-03-09,51,Married,Master,Bank Employee,4867508.5,Mandalay,2017-04-25,yin.win@gmail.com,959511400307,9180,10,2023-07-01,True,1
+203,May Myint,Female,1986-10-23,39,Single,PhD,Bank Employee,3342335.18,Mandalay,2018-12-13,may.myint@gmail.com,959933201257,203,1,2024-08-25,True,1
+203,May Myint,Female,1986-10-23,39,Single,PhD,Bank Employee,3342335.18,Mandalay,2018-12-13,may.myint@gmail.com,959933201257,1203,2,2024-10-22,True,1
+203,May Myint,Female,1986-10-23,39,Single,PhD,Bank Employee,3342335.18,Mandalay,2018-12-13,may.myint@gmail.com,959933201257,2203,3,2024-06-15,True,1
+203,May Myint,Female,1986-10-23,39,Single,PhD,Bank Employee,3342335.18,Mandalay,2018-12-13,may.myint@gmail.com,959933201257,3203,4,2023-08-25,False,0
+203,May Myint,Female,1986-10-23,39,Single,PhD,Bank Employee,3342335.18,Mandalay,2018-12-13,may.myint@gmail.com,959933201257,4203,5,2024-11-07,True,1
+203,May Myint,Female,1986-10-23,39,Single,PhD,Bank Employee,3342335.18,Mandalay,2018-12-13,may.myint@gmail.com,959933201257,5203,6,2024-10-07,True,1
+203,May Myint,Female,1986-10-23,39,Single,PhD,Bank Employee,3342335.18,Mandalay,2018-12-13,may.myint@gmail.com,959933201257,6203,7,2024-04-19,True,1
+203,May Myint,Female,1986-10-23,39,Single,PhD,Bank Employee,3342335.18,Mandalay,2018-12-13,may.myint@gmail.com,959933201257,7203,8,2023-09-13,False,0
+203,May Myint,Female,1986-10-23,39,Single,PhD,Bank Employee,3342335.18,Mandalay,2018-12-13,may.myint@gmail.com,959933201257,8203,9,2023-08-12,False,0
+203,May Myint,Female,1986-10-23,39,Single,PhD,Bank Employee,3342335.18,Mandalay,2018-12-13,may.myint@gmail.com,959933201257,9203,10,2023-06-04,True,1
+216,Htun Aung,Male,1993-01-30,32,Widowed,Bachelor,Government Employee,4205919.58,Mandalay,2023-07-26,htun.aung@gmail.com,959130365277,216,1,2024-09-02,True,1
+216,Htun Aung,Male,1993-01-30,32,Widowed,Bachelor,Government Employee,4205919.58,Mandalay,2023-07-26,htun.aung@gmail.com,959130365277,1216,2,2024-10-02,True,1
+216,Htun Aung,Male,1993-01-30,32,Widowed,Bachelor,Government Employee,4205919.58,Mandalay,2023-07-26,htun.aung@gmail.com,959130365277,2216,3,2024-06-05,False,0
+216,Htun Aung,Male,1993-01-30,32,Widowed,Bachelor,Government Employee,4205919.58,Mandalay,2023-07-26,htun.aung@gmail.com,959130365277,3216,4,2023-07-24,False,0
+216,Htun Aung,Male,1993-01-30,32,Widowed,Bachelor,Government Employee,4205919.58,Mandalay,2023-07-26,htun.aung@gmail.com,959130365277,4216,5,2024-11-12,False,0
+216,Htun Aung,Male,1993-01-30,32,Widowed,Bachelor,Government Employee,4205919.58,Mandalay,2023-07-26,htun.aung@gmail.com,959130365277,5216,6,2024-09-16,False,0
+216,Htun Aung,Male,1993-01-30,32,Widowed,Bachelor,Government Employee,4205919.58,Mandalay,2023-07-26,htun.aung@gmail.com,959130365277,6216,7,2024-05-04,False,0
+216,Htun Aung,Male,1993-01-30,32,Widowed,Bachelor,Government Employee,4205919.58,Mandalay,2023-07-26,htun.aung@gmail.com,959130365277,7216,8,2023-09-13,False,0
+216,Htun Aung,Male,1993-01-30,32,Widowed,Bachelor,Government Employee,4205919.58,Mandalay,2023-07-26,htun.aung@gmail.com,959130365277,8216,9,2023-07-18,False,0
+216,Htun Aung,Male,1993-01-30,32,Widowed,Bachelor,Government Employee,4205919.58,Mandalay,2023-07-26,htun.aung@gmail.com,959130365277,9216,10,2023-06-03,False,0
+218,Thura Win,Male,1949-01-21,76,Divorced,Middle School,Farmer,1797818.91,Mandalay,2019-12-11,thura.win@gmail.com,959234695905,218,1,2024-08-22,True,1
+218,Thura Win,Male,1949-01-21,76,Divorced,Middle School,Farmer,1797818.91,Mandalay,2019-12-11,thura.win@gmail.com,959234695905,1218,2,2024-10-30,True,1
+218,Thura Win,Male,1949-01-21,76,Divorced,Middle School,Farmer,1797818.91,Mandalay,2019-12-11,thura.win@gmail.com,959234695905,2218,3,2024-05-29,True,1
+218,Thura Win,Male,1949-01-21,76,Divorced,Middle School,Farmer,1797818.91,Mandalay,2019-12-11,thura.win@gmail.com,959234695905,3218,4,2023-07-23,True,1
+218,Thura Win,Male,1949-01-21,76,Divorced,Middle School,Farmer,1797818.91,Mandalay,2019-12-11,thura.win@gmail.com,959234695905,4218,5,2024-10-31,True,1
+218,Thura Win,Male,1949-01-21,76,Divorced,Middle School,Farmer,1797818.91,Mandalay,2019-12-11,thura.win@gmail.com,959234695905,5218,6,2024-09-23,True,1
+218,Thura Win,Male,1949-01-21,76,Divorced,Middle School,Farmer,1797818.91,Mandalay,2019-12-11,thura.win@gmail.com,959234695905,6218,7,2024-05-06,False,0
+218,Thura Win,Male,1949-01-21,76,Divorced,Middle School,Farmer,1797818.91,Mandalay,2019-12-11,thura.win@gmail.com,959234695905,7218,8,2023-09-10,True,1
+218,Thura Win,Male,1949-01-21,76,Divorced,Middle School,Farmer,1797818.91,Mandalay,2019-12-11,thura.win@gmail.com,959234695905,8218,9,2023-08-02,False,0
+218,Thura Win,Male,1949-01-21,76,Divorced,Middle School,Farmer,1797818.91,Mandalay,2019-12-11,thura.win@gmail.com,959234695905,9218,10,2023-07-08,False,0
+221,Nilar Oo,Female,1967-02-22,58,Widowed,Primary,Merchant,1416909.07,Mandalay,2016-10-30,nilar.oo@gmail.com,959663035737,221,1,2024-09-01,True,1
+221,Nilar Oo,Female,1967-02-22,58,Widowed,Primary,Merchant,1416909.07,Mandalay,2016-10-30,nilar.oo@gmail.com,959663035737,1221,2,2024-10-27,False,0
+221,Nilar Oo,Female,1967-02-22,58,Widowed,Primary,Merchant,1416909.07,Mandalay,2016-10-30,nilar.oo@gmail.com,959663035737,2221,3,2024-06-13,True,1
+221,Nilar Oo,Female,1967-02-22,58,Widowed,Primary,Merchant,1416909.07,Mandalay,2016-10-30,nilar.oo@gmail.com,959663035737,3221,4,2023-07-19,False,0
+221,Nilar Oo,Female,1967-02-22,58,Widowed,Primary,Merchant,1416909.07,Mandalay,2016-10-30,nilar.oo@gmail.com,959663035737,4221,5,2024-11-07,False,0
+221,Nilar Oo,Female,1967-02-22,58,Widowed,Primary,Merchant,1416909.07,Mandalay,2016-10-30,nilar.oo@gmail.com,959663035737,5221,6,2024-09-25,True,1
+221,Nilar Oo,Female,1967-02-22,58,Widowed,Primary,Merchant,1416909.07,Mandalay,2016-10-30,nilar.oo@gmail.com,959663035737,6221,7,2024-04-23,True,1
+221,Nilar Oo,Female,1967-02-22,58,Widowed,Primary,Merchant,1416909.07,Mandalay,2016-10-30,nilar.oo@gmail.com,959663035737,7221,8,2023-09-14,False,0
+221,Nilar Oo,Female,1967-02-22,58,Widowed,Primary,Merchant,1416909.07,Mandalay,2016-10-30,nilar.oo@gmail.com,959663035737,8221,9,2023-07-25,False,0
+221,Nilar Oo,Female,1967-02-22,58,Widowed,Primary,Merchant,1416909.07,Mandalay,2016-10-30,nilar.oo@gmail.com,959663035737,9221,10,2023-06-29,False,0
+226,Thandar Htun,Female,1957-06-11,68,Divorced,PhD,Teacher,1920571.72,Mandalay,2019-01-31,thandar.htun@gmail.com,959449498126,226,1,2024-08-31,True,1
+226,Thandar Htun,Female,1957-06-11,68,Divorced,PhD,Teacher,1920571.72,Mandalay,2019-01-31,thandar.htun@gmail.com,959449498126,1226,2,2024-10-06,False,0
+226,Thandar Htun,Female,1957-06-11,68,Divorced,PhD,Teacher,1920571.72,Mandalay,2019-01-31,thandar.htun@gmail.com,959449498126,2226,3,2024-06-30,True,1
+226,Thandar Htun,Female,1957-06-11,68,Divorced,PhD,Teacher,1920571.72,Mandalay,2019-01-31,thandar.htun@gmail.com,959449498126,3226,4,2023-08-04,True,1
+226,Thandar Htun,Female,1957-06-11,68,Divorced,PhD,Teacher,1920571.72,Mandalay,2019-01-31,thandar.htun@gmail.com,959449498126,4226,5,2024-11-13,False,0
+226,Thandar Htun,Female,1957-06-11,68,Divorced,PhD,Teacher,1920571.72,Mandalay,2019-01-31,thandar.htun@gmail.com,959449498126,5226,6,2024-10-22,False,0
+226,Thandar Htun,Female,1957-06-11,68,Divorced,PhD,Teacher,1920571.72,Mandalay,2019-01-31,thandar.htun@gmail.com,959449498126,6226,7,2024-04-21,True,1
+226,Thandar Htun,Female,1957-06-11,68,Divorced,PhD,Teacher,1920571.72,Mandalay,2019-01-31,thandar.htun@gmail.com,959449498126,7226,8,2023-09-17,False,0
+226,Thandar Htun,Female,1957-06-11,68,Divorced,PhD,Teacher,1920571.72,Mandalay,2019-01-31,thandar.htun@gmail.com,959449498126,8226,9,2023-07-26,False,0
+226,Thandar Htun,Female,1957-06-11,68,Divorced,PhD,Teacher,1920571.72,Mandalay,2019-01-31,thandar.htun@gmail.com,959449498126,9226,10,2023-06-28,True,1
+246,Su Zaw,Female,1979-08-24,46,Divorced,Diploma,Fisherman,909924.78,Mandalay,2015-11-13,su.zaw@gmail.com,959814344878,246,1,2024-09-10,True,1
+246,Su Zaw,Female,1979-08-24,46,Divorced,Diploma,Fisherman,909924.78,Mandalay,2015-11-13,su.zaw@gmail.com,959814344878,1246,2,2024-10-31,True,1
+246,Su Zaw,Female,1979-08-24,46,Divorced,Diploma,Fisherman,909924.78,Mandalay,2015-11-13,su.zaw@gmail.com,959814344878,2246,3,2024-07-01,False,0
+246,Su Zaw,Female,1979-08-24,46,Divorced,Diploma,Fisherman,909924.78,Mandalay,2015-11-13,su.zaw@gmail.com,959814344878,3246,4,2023-08-21,True,1
+246,Su Zaw,Female,1979-08-24,46,Divorced,Diploma,Fisherman,909924.78,Mandalay,2015-11-13,su.zaw@gmail.com,959814344878,4246,5,2024-11-09,True,1
+246,Su Zaw,Female,1979-08-24,46,Divorced,Diploma,Fisherman,909924.78,Mandalay,2015-11-13,su.zaw@gmail.com,959814344878,5246,6,2024-10-23,True,1
+246,Su Zaw,Female,1979-08-24,46,Divorced,Diploma,Fisherman,909924.78,Mandalay,2015-11-13,su.zaw@gmail.com,959814344878,6246,7,2024-04-12,True,1
+246,Su Zaw,Female,1979-08-24,46,Divorced,Diploma,Fisherman,909924.78,Mandalay,2015-11-13,su.zaw@gmail.com,959814344878,7246,8,2023-09-10,True,1
+246,Su Zaw,Female,1979-08-24,46,Divorced,Diploma,Fisherman,909924.78,Mandalay,2015-11-13,su.zaw@gmail.com,959814344878,8246,9,2023-08-11,True,1
+246,Su Zaw,Female,1979-08-24,46,Divorced,Diploma,Fisherman,909924.78,Mandalay,2015-11-13,su.zaw@gmail.com,959814344878,9246,10,2023-06-13,False,0
+281,May Oo,Female,1976-09-14,49,Divorced,Primary,Merchant,4789974.47,Mandalay,2021-07-09,may.oo@gmail.com,959856476432,281,1,2024-09-22,True,1
+281,May Oo,Female,1976-09-14,49,Divorced,Primary,Merchant,4789974.47,Mandalay,2021-07-09,may.oo@gmail.com,959856476432,1281,2,2024-10-22,False,0
+281,May Oo,Female,1976-09-14,49,Divorced,Primary,Merchant,4789974.47,Mandalay,2021-07-09,may.oo@gmail.com,959856476432,2281,3,2024-06-11,False,0
+281,May Oo,Female,1976-09-14,49,Divorced,Primary,Merchant,4789974.47,Mandalay,2021-07-09,may.oo@gmail.com,959856476432,3281,4,2023-08-25,True,1
+281,May Oo,Female,1976-09-14,49,Divorced,Primary,Merchant,4789974.47,Mandalay,2021-07-09,may.oo@gmail.com,959856476432,4281,5,2024-11-12,False,0
+281,May Oo,Female,1976-09-14,49,Divorced,Primary,Merchant,4789974.47,Mandalay,2021-07-09,may.oo@gmail.com,959856476432,5281,6,2024-10-04,True,1
+281,May Oo,Female,1976-09-14,49,Divorced,Primary,Merchant,4789974.47,Mandalay,2021-07-09,may.oo@gmail.com,959856476432,6281,7,2024-05-10,True,1
+281,May Oo,Female,1976-09-14,49,Divorced,Primary,Merchant,4789974.47,Mandalay,2021-07-09,may.oo@gmail.com,959856476432,7281,8,2023-09-11,True,1
+281,May Oo,Female,1976-09-14,49,Divorced,Primary,Merchant,4789974.47,Mandalay,2021-07-09,may.oo@gmail.com,959856476432,8281,9,2023-07-11,True,1
+281,May Oo,Female,1976-09-14,49,Divorced,Primary,Merchant,4789974.47,Mandalay,2021-07-09,may.oo@gmail.com,959856476432,9281,10,2023-06-29,False,0
+286,Nilar Aung,Female,2004-10-06,21,Divorced,High School,Bank Employee,578064.16,Mandalay,2020-06-15,nilar.aung@gmail.com,959134254209,286,1,2024-09-03,False,0
+286,Nilar Aung,Female,2004-10-06,21,Divorced,High School,Bank Employee,578064.16,Mandalay,2020-06-15,nilar.aung@gmail.com,959134254209,1286,2,2024-10-27,False,0
+286,Nilar Aung,Female,2004-10-06,21,Divorced,High School,Bank Employee,578064.16,Mandalay,2020-06-15,nilar.aung@gmail.com,959134254209,2286,3,2024-05-23,False,0
+286,Nilar Aung,Female,2004-10-06,21,Divorced,High School,Bank Employee,578064.16,Mandalay,2020-06-15,nilar.aung@gmail.com,959134254209,3286,4,2023-07-19,True,1
+286,Nilar Aung,Female,2004-10-06,21,Divorced,High School,Bank Employee,578064.16,Mandalay,2020-06-15,nilar.aung@gmail.com,959134254209,4286,5,2024-10-28,True,1
+286,Nilar Aung,Female,2004-10-06,21,Divorced,High School,Bank Employee,578064.16,Mandalay,2020-06-15,nilar.aung@gmail.com,959134254209,5286,6,2024-09-30,True,1
+286,Nilar Aung,Female,2004-10-06,21,Divorced,High School,Bank Employee,578064.16,Mandalay,2020-06-15,nilar.aung@gmail.com,959134254209,6286,7,2024-04-09,False,0
+286,Nilar Aung,Female,2004-10-06,21,Divorced,High School,Bank Employee,578064.16,Mandalay,2020-06-15,nilar.aung@gmail.com,959134254209,7286,8,2023-09-14,False,0
+286,Nilar Aung,Female,2004-10-06,21,Divorced,High School,Bank Employee,578064.16,Mandalay,2020-06-15,nilar.aung@gmail.com,959134254209,8286,9,2023-08-11,False,0
+286,Nilar Aung,Female,2004-10-06,21,Divorced,High School,Bank Employee,578064.16,Mandalay,2020-06-15,nilar.aung@gmail.com,959134254209,9286,10,2023-06-08,False,0
+292,Nilar Oo,Other,1987-06-08,38,Widowed,PhD,Doctor,2721819.1,Mandalay,2018-02-11,nilar.oo@gmail.com,959407706697,292,1,2024-09-13,False,0
+292,Nilar Oo,Other,1987-06-08,38,Widowed,PhD,Doctor,2721819.1,Mandalay,2018-02-11,nilar.oo@gmail.com,959407706697,1292,2,2024-10-22,False,0
+292,Nilar Oo,Other,1987-06-08,38,Widowed,PhD,Doctor,2721819.1,Mandalay,2018-02-11,nilar.oo@gmail.com,959407706697,2292,3,2024-05-21,True,1
+292,Nilar Oo,Other,1987-06-08,38,Widowed,PhD,Doctor,2721819.1,Mandalay,2018-02-11,nilar.oo@gmail.com,959407706697,3292,4,2023-08-01,True,1
+292,Nilar Oo,Other,1987-06-08,38,Widowed,PhD,Doctor,2721819.1,Mandalay,2018-02-11,nilar.oo@gmail.com,959407706697,4292,5,2024-11-02,False,0
+292,Nilar Oo,Other,1987-06-08,38,Widowed,PhD,Doctor,2721819.1,Mandalay,2018-02-11,nilar.oo@gmail.com,959407706697,5292,6,2024-10-24,False,0
+292,Nilar Oo,Other,1987-06-08,38,Widowed,PhD,Doctor,2721819.1,Mandalay,2018-02-11,nilar.oo@gmail.com,959407706697,6292,7,2024-04-16,False,0
+292,Nilar Oo,Other,1987-06-08,38,Widowed,PhD,Doctor,2721819.1,Mandalay,2018-02-11,nilar.oo@gmail.com,959407706697,7292,8,2023-09-16,False,0
+292,Nilar Oo,Other,1987-06-08,38,Widowed,PhD,Doctor,2721819.1,Mandalay,2018-02-11,nilar.oo@gmail.com,959407706697,8292,9,2023-08-02,False,0
+292,Nilar Oo,Other,1987-06-08,38,Widowed,PhD,Doctor,2721819.1,Mandalay,2018-02-11,nilar.oo@gmail.com,959407706697,9292,10,2023-06-20,True,1
+310,Nilar Kyaw,Female,1952-03-03,73,Widowed,High School,Government Employee,1595553.72,Mandalay,2020-11-24,nilar.kyaw@gmail.com,959929902972,310,1,2024-09-27,False,0
+310,Nilar Kyaw,Female,1952-03-03,73,Widowed,High School,Government Employee,1595553.72,Mandalay,2020-11-24,nilar.kyaw@gmail.com,959929902972,1310,2,2024-11-01,True,1
+310,Nilar Kyaw,Female,1952-03-03,73,Widowed,High School,Government Employee,1595553.72,Mandalay,2020-11-24,nilar.kyaw@gmail.com,959929902972,2310,3,2024-07-01,True,1
+310,Nilar Kyaw,Female,1952-03-03,73,Widowed,High School,Government Employee,1595553.72,Mandalay,2020-11-24,nilar.kyaw@gmail.com,959929902972,3310,4,2023-08-07,True,1
+310,Nilar Kyaw,Female,1952-03-03,73,Widowed,High School,Government Employee,1595553.72,Mandalay,2020-11-24,nilar.kyaw@gmail.com,959929902972,4310,5,2024-11-09,True,1
+310,Nilar Kyaw,Female,1952-03-03,73,Widowed,High School,Government Employee,1595553.72,Mandalay,2020-11-24,nilar.kyaw@gmail.com,959929902972,5310,6,2024-09-25,False,0
+310,Nilar Kyaw,Female,1952-03-03,73,Widowed,High School,Government Employee,1595553.72,Mandalay,2020-11-24,nilar.kyaw@gmail.com,959929902972,6310,7,2024-04-06,True,1
+310,Nilar Kyaw,Female,1952-03-03,73,Widowed,High School,Government Employee,1595553.72,Mandalay,2020-11-24,nilar.kyaw@gmail.com,959929902972,7310,8,2023-09-16,False,0
+310,Nilar Kyaw,Female,1952-03-03,73,Widowed,High School,Government Employee,1595553.72,Mandalay,2020-11-24,nilar.kyaw@gmail.com,959929902972,8310,9,2023-07-24,True,1
+310,Nilar Kyaw,Female,1952-03-03,73,Widowed,High School,Government Employee,1595553.72,Mandalay,2020-11-24,nilar.kyaw@gmail.com,959929902972,9310,10,2023-07-06,False,0
+338,Nilar Aung,Other,1980-01-09,45,Single,Master,Bank Employee,3870053.5,Mandalay,2019-11-07,nilar.aung@gmail.com,959262384410,338,1,2024-09-24,True,1
+338,Nilar Aung,Other,1980-01-09,45,Single,Master,Bank Employee,3870053.5,Mandalay,2019-11-07,nilar.aung@gmail.com,959262384410,1338,2,2024-10-12,False,0
+338,Nilar Aung,Other,1980-01-09,45,Single,Master,Bank Employee,3870053.5,Mandalay,2019-11-07,nilar.aung@gmail.com,959262384410,2338,3,2024-06-08,False,0
+338,Nilar Aung,Other,1980-01-09,45,Single,Master,Bank Employee,3870053.5,Mandalay,2019-11-07,nilar.aung@gmail.com,959262384410,3338,4,2023-08-02,False,0
+338,Nilar Aung,Other,1980-01-09,45,Single,Master,Bank Employee,3870053.5,Mandalay,2019-11-07,nilar.aung@gmail.com,959262384410,4338,5,2024-11-06,True,1
+338,Nilar Aung,Other,1980-01-09,45,Single,Master,Bank Employee,3870053.5,Mandalay,2019-11-07,nilar.aung@gmail.com,959262384410,5338,6,2024-10-08,True,1
+338,Nilar Aung,Other,1980-01-09,45,Single,Master,Bank Employee,3870053.5,Mandalay,2019-11-07,nilar.aung@gmail.com,959262384410,6338,7,2024-04-21,True,1
+338,Nilar Aung,Other,1980-01-09,45,Single,Master,Bank Employee,3870053.5,Mandalay,2019-11-07,nilar.aung@gmail.com,959262384410,7338,8,2023-09-10,False,0
+338,Nilar Aung,Other,1980-01-09,45,Single,Master,Bank Employee,3870053.5,Mandalay,2019-11-07,nilar.aung@gmail.com,959262384410,8338,9,2023-07-17,True,1
+338,Nilar Aung,Other,1980-01-09,45,Single,Master,Bank Employee,3870053.5,Mandalay,2019-11-07,nilar.aung@gmail.com,959262384410,9338,10,2023-06-27,False,0
+344,Thet Zaw,Female,1996-08-26,29,Widowed,PhD,Tour Guide,957767.79,Mandalay,2015-09-12,thet.zaw@gmail.com,959822612172,344,1,2024-08-26,False,0
+344,Thet Zaw,Female,1996-08-26,29,Widowed,PhD,Tour Guide,957767.79,Mandalay,2015-09-12,thet.zaw@gmail.com,959822612172,1344,2,2024-10-25,True,1
+344,Thet Zaw,Female,1996-08-26,29,Widowed,PhD,Tour Guide,957767.79,Mandalay,2015-09-12,thet.zaw@gmail.com,959822612172,2344,3,2024-06-06,True,1
+344,Thet Zaw,Female,1996-08-26,29,Widowed,PhD,Tour Guide,957767.79,Mandalay,2015-09-12,thet.zaw@gmail.com,959822612172,3344,4,2023-07-26,False,0
+344,Thet Zaw,Female,1996-08-26,29,Widowed,PhD,Tour Guide,957767.79,Mandalay,2015-09-12,thet.zaw@gmail.com,959822612172,4344,5,2024-11-06,False,0
+344,Thet Zaw,Female,1996-08-26,29,Widowed,PhD,Tour Guide,957767.79,Mandalay,2015-09-12,thet.zaw@gmail.com,959822612172,5344,6,2024-10-21,True,1
+344,Thet Zaw,Female,1996-08-26,29,Widowed,PhD,Tour Guide,957767.79,Mandalay,2015-09-12,thet.zaw@gmail.com,959822612172,6344,7,2024-04-19,True,1
+344,Thet Zaw,Female,1996-08-26,29,Widowed,PhD,Tour Guide,957767.79,Mandalay,2015-09-12,thet.zaw@gmail.com,959822612172,7344,8,2023-09-14,True,1
+344,Thet Zaw,Female,1996-08-26,29,Widowed,PhD,Tour Guide,957767.79,Mandalay,2015-09-12,thet.zaw@gmail.com,959822612172,8344,9,2023-08-06,True,1
+344,Thet Zaw,Female,1996-08-26,29,Widowed,PhD,Tour Guide,957767.79,Mandalay,2015-09-12,thet.zaw@gmail.com,959822612172,9344,10,2023-06-05,True,1
+348,Yin Win,Other,1968-04-05,57,Divorced,PhD,Business Owner,3651610.1,Mandalay,2021-01-03,yin.win@gmail.com,959631676836,348,1,2024-09-18,False,0
+348,Yin Win,Other,1968-04-05,57,Divorced,PhD,Business Owner,3651610.1,Mandalay,2021-01-03,yin.win@gmail.com,959631676836,1348,2,2024-09-27,True,1
+348,Yin Win,Other,1968-04-05,57,Divorced,PhD,Business Owner,3651610.1,Mandalay,2021-01-03,yin.win@gmail.com,959631676836,2348,3,2024-06-10,False,0
+348,Yin Win,Other,1968-04-05,57,Divorced,PhD,Business Owner,3651610.1,Mandalay,2021-01-03,yin.win@gmail.com,959631676836,3348,4,2023-07-20,False,0
+348,Yin Win,Other,1968-04-05,57,Divorced,PhD,Business Owner,3651610.1,Mandalay,2021-01-03,yin.win@gmail.com,959631676836,4348,5,2024-10-31,True,1
+348,Yin Win,Other,1968-04-05,57,Divorced,PhD,Business Owner,3651610.1,Mandalay,2021-01-03,yin.win@gmail.com,959631676836,5348,6,2024-09-21,False,0
+348,Yin Win,Other,1968-04-05,57,Divorced,PhD,Business Owner,3651610.1,Mandalay,2021-01-03,yin.win@gmail.com,959631676836,6348,7,2024-05-10,True,1
+348,Yin Win,Other,1968-04-05,57,Divorced,PhD,Business Owner,3651610.1,Mandalay,2021-01-03,yin.win@gmail.com,959631676836,7348,8,2023-09-17,True,1
+348,Yin Win,Other,1968-04-05,57,Divorced,PhD,Business Owner,3651610.1,Mandalay,2021-01-03,yin.win@gmail.com,959631676836,8348,9,2023-08-07,False,0
+348,Yin Win,Other,1968-04-05,57,Divorced,PhD,Business Owner,3651610.1,Mandalay,2021-01-03,yin.win@gmail.com,959631676836,9348,10,2023-07-02,False,0
+349,Khin Moe,Female,1998-05-10,27,Married,Master,Doctor,1788387.67,Mandalay,2022-08-30,khin.moe@gmail.com,959979603754,349,1,2024-09-29,False,0
+349,Khin Moe,Female,1998-05-10,27,Married,Master,Doctor,1788387.67,Mandalay,2022-08-30,khin.moe@gmail.com,959979603754,1349,2,2024-09-26,False,0
+349,Khin Moe,Female,1998-05-10,27,Married,Master,Doctor,1788387.67,Mandalay,2022-08-30,khin.moe@gmail.com,959979603754,2349,3,2024-06-21,False,0
+349,Khin Moe,Female,1998-05-10,27,Married,Master,Doctor,1788387.67,Mandalay,2022-08-30,khin.moe@gmail.com,959979603754,3349,4,2023-08-04,False,0
+349,Khin Moe,Female,1998-05-10,27,Married,Master,Doctor,1788387.67,Mandalay,2022-08-30,khin.moe@gmail.com,959979603754,4349,5,2024-10-29,True,1
+349,Khin Moe,Female,1998-05-10,27,Married,Master,Doctor,1788387.67,Mandalay,2022-08-30,khin.moe@gmail.com,959979603754,5349,6,2024-10-14,True,1
+349,Khin Moe,Female,1998-05-10,27,Married,Master,Doctor,1788387.67,Mandalay,2022-08-30,khin.moe@gmail.com,959979603754,6349,7,2024-04-24,False,0
+349,Khin Moe,Female,1998-05-10,27,Married,Master,Doctor,1788387.67,Mandalay,2022-08-30,khin.moe@gmail.com,959979603754,7349,8,2023-09-15,False,0
+349,Khin Moe,Female,1998-05-10,27,Married,Master,Doctor,1788387.67,Mandalay,2022-08-30,khin.moe@gmail.com,959979603754,8349,9,2023-07-24,False,0
+349,Khin Moe,Female,1998-05-10,27,Married,Master,Doctor,1788387.67,Mandalay,2022-08-30,khin.moe@gmail.com,959979603754,9349,10,2023-06-19,True,1
+350,Aung Aung,Male,1993-12-19,32,Widowed,High School,Merchant,780487.65,Mandalay,2019-01-20,aung.aung@gmail.com,959160276316,350,1,2024-08-21,False,0
+350,Aung Aung,Male,1993-12-19,32,Widowed,High School,Merchant,780487.65,Mandalay,2019-01-20,aung.aung@gmail.com,959160276316,1350,2,2024-09-29,True,1
+350,Aung Aung,Male,1993-12-19,32,Widowed,High School,Merchant,780487.65,Mandalay,2019-01-20,aung.aung@gmail.com,959160276316,2350,3,2024-05-29,False,0
+350,Aung Aung,Male,1993-12-19,32,Widowed,High School,Merchant,780487.65,Mandalay,2019-01-20,aung.aung@gmail.com,959160276316,3350,4,2023-07-22,False,0
+350,Aung Aung,Male,1993-12-19,32,Widowed,High School,Merchant,780487.65,Mandalay,2019-01-20,aung.aung@gmail.com,959160276316,4350,5,2024-11-10,False,0
+350,Aung Aung,Male,1993-12-19,32,Widowed,High School,Merchant,780487.65,Mandalay,2019-01-20,aung.aung@gmail.com,959160276316,5350,6,2024-09-25,True,1
+350,Aung Aung,Male,1993-12-19,32,Widowed,High School,Merchant,780487.65,Mandalay,2019-01-20,aung.aung@gmail.com,959160276316,6350,7,2024-04-26,False,0
+350,Aung Aung,Male,1993-12-19,32,Widowed,High School,Merchant,780487.65,Mandalay,2019-01-20,aung.aung@gmail.com,959160276316,7350,8,2023-09-16,False,0
+350,Aung Aung,Male,1993-12-19,32,Widowed,High School,Merchant,780487.65,Mandalay,2019-01-20,aung.aung@gmail.com,959160276316,8350,9,2023-08-10,True,1
+350,Aung Aung,Male,1993-12-19,32,Widowed,High School,Merchant,780487.65,Mandalay,2019-01-20,aung.aung@gmail.com,959160276316,9350,10,2023-06-29,False,0
+376,Yin Moe,Other,1949-09-08,76,Single,Master,Business Owner,1267187.05,Mandalay,2019-01-24,yin.moe@gmail.com,959855195291,376,1,2024-09-10,True,1
+376,Yin Moe,Other,1949-09-08,76,Single,Master,Business Owner,1267187.05,Mandalay,2019-01-24,yin.moe@gmail.com,959855195291,1376,2,2024-10-10,False,0
+376,Yin Moe,Other,1949-09-08,76,Single,Master,Business Owner,1267187.05,Mandalay,2019-01-24,yin.moe@gmail.com,959855195291,2376,3,2024-06-23,True,1
+376,Yin Moe,Other,1949-09-08,76,Single,Master,Business Owner,1267187.05,Mandalay,2019-01-24,yin.moe@gmail.com,959855195291,3376,4,2023-08-27,True,1
+376,Yin Moe,Other,1949-09-08,76,Single,Master,Business Owner,1267187.05,Mandalay,2019-01-24,yin.moe@gmail.com,959855195291,4376,5,2024-10-29,False,0
+376,Yin Moe,Other,1949-09-08,76,Single,Master,Business Owner,1267187.05,Mandalay,2019-01-24,yin.moe@gmail.com,959855195291,5376,6,2024-09-21,False,0
+376,Yin Moe,Other,1949-09-08,76,Single,Master,Business Owner,1267187.05,Mandalay,2019-01-24,yin.moe@gmail.com,959855195291,6376,7,2024-05-14,True,1
+376,Yin Moe,Other,1949-09-08,76,Single,Master,Business Owner,1267187.05,Mandalay,2019-01-24,yin.moe@gmail.com,959855195291,7376,8,2023-09-18,False,0
+376,Yin Moe,Other,1949-09-08,76,Single,Master,Business Owner,1267187.05,Mandalay,2019-01-24,yin.moe@gmail.com,959855195291,8376,9,2023-07-21,True,1
+376,Yin Moe,Other,1949-09-08,76,Single,Master,Business Owner,1267187.05,Mandalay,2019-01-24,yin.moe@gmail.com,959855195291,9376,10,2023-07-02,False,0
+377,Hla Hlaing,Other,2004-07-14,21,Married,High School,Engineer,1226249.09,Mandalay,2020-09-11,hla.hlaing@gmail.com,959153690598,377,1,2024-09-07,False,0
+377,Hla Hlaing,Other,2004-07-14,21,Married,High School,Engineer,1226249.09,Mandalay,2020-09-11,hla.hlaing@gmail.com,959153690598,1377,2,2024-10-25,False,0
+377,Hla Hlaing,Other,2004-07-14,21,Married,High School,Engineer,1226249.09,Mandalay,2020-09-11,hla.hlaing@gmail.com,959153690598,2377,3,2024-05-27,True,1
+377,Hla Hlaing,Other,2004-07-14,21,Married,High School,Engineer,1226249.09,Mandalay,2020-09-11,hla.hlaing@gmail.com,959153690598,3377,4,2023-08-25,False,0
+377,Hla Hlaing,Other,2004-07-14,21,Married,High School,Engineer,1226249.09,Mandalay,2020-09-11,hla.hlaing@gmail.com,959153690598,4377,5,2024-11-04,False,0
+377,Hla Hlaing,Other,2004-07-14,21,Married,High School,Engineer,1226249.09,Mandalay,2020-09-11,hla.hlaing@gmail.com,959153690598,5377,6,2024-10-06,False,0
+377,Hla Hlaing,Other,2004-07-14,21,Married,High School,Engineer,1226249.09,Mandalay,2020-09-11,hla.hlaing@gmail.com,959153690598,6377,7,2024-04-21,False,0
+377,Hla Hlaing,Other,2004-07-14,21,Married,High School,Engineer,1226249.09,Mandalay,2020-09-11,hla.hlaing@gmail.com,959153690598,7377,8,2023-09-13,True,1
+377,Hla Hlaing,Other,2004-07-14,21,Married,High School,Engineer,1226249.09,Mandalay,2020-09-11,hla.hlaing@gmail.com,959153690598,8377,9,2023-08-06,True,1
+377,Hla Hlaing,Other,2004-07-14,21,Married,High School,Engineer,1226249.09,Mandalay,2020-09-11,hla.hlaing@gmail.com,959153690598,9377,10,2023-07-06,True,1
+380,Nu Win,Other,1970-09-15,55,Married,High School,Teacher,1421291.81,Mandalay,2024-10-03,nu.win@gmail.com,959933073231,380,1,2024-09-28,True,1
+380,Nu Win,Other,1970-09-15,55,Married,High School,Teacher,1421291.81,Mandalay,2024-10-03,nu.win@gmail.com,959933073231,1380,2,2024-10-03,True,1
+380,Nu Win,Other,1970-09-15,55,Married,High School,Teacher,1421291.81,Mandalay,2024-10-03,nu.win@gmail.com,959933073231,2380,3,2024-06-11,True,1
+380,Nu Win,Other,1970-09-15,55,Married,High School,Teacher,1421291.81,Mandalay,2024-10-03,nu.win@gmail.com,959933073231,3380,4,2023-08-25,True,1
+380,Nu Win,Other,1970-09-15,55,Married,High School,Teacher,1421291.81,Mandalay,2024-10-03,nu.win@gmail.com,959933073231,4380,5,2024-11-10,True,1
+380,Nu Win,Other,1970-09-15,55,Married,High School,Teacher,1421291.81,Mandalay,2024-10-03,nu.win@gmail.com,959933073231,5380,6,2024-10-01,False,0
+380,Nu Win,Other,1970-09-15,55,Married,High School,Teacher,1421291.81,Mandalay,2024-10-03,nu.win@gmail.com,959933073231,6380,7,2024-05-14,True,1
+380,Nu Win,Other,1970-09-15,55,Married,High School,Teacher,1421291.81,Mandalay,2024-10-03,nu.win@gmail.com,959933073231,7380,8,2023-09-18,True,1
+380,Nu Win,Other,1970-09-15,55,Married,High School,Teacher,1421291.81,Mandalay,2024-10-03,nu.win@gmail.com,959933073231,8380,9,2023-08-09,True,1
+380,Nu Win,Other,1970-09-15,55,Married,High School,Teacher,1421291.81,Mandalay,2024-10-03,nu.win@gmail.com,959933073231,9380,10,2023-06-04,False,0
+389,Su Lin,Female,1961-05-29,64,Divorced,High School,Teacher,2363628.55,Mandalay,2024-07-12,su.lin@gmail.com,959127090170,389,1,2024-09-23,True,1
+389,Su Lin,Female,1961-05-29,64,Divorced,High School,Teacher,2363628.55,Mandalay,2024-07-12,su.lin@gmail.com,959127090170,1389,2,2024-11-04,True,1
+389,Su Lin,Female,1961-05-29,64,Divorced,High School,Teacher,2363628.55,Mandalay,2024-07-12,su.lin@gmail.com,959127090170,2389,3,2024-06-13,False,0
+389,Su Lin,Female,1961-05-29,64,Divorced,High School,Teacher,2363628.55,Mandalay,2024-07-12,su.lin@gmail.com,959127090170,3389,4,2023-08-11,False,0
+389,Su Lin,Female,1961-05-29,64,Divorced,High School,Teacher,2363628.55,Mandalay,2024-07-12,su.lin@gmail.com,959127090170,4389,5,2024-10-28,False,0
+389,Su Lin,Female,1961-05-29,64,Divorced,High School,Teacher,2363628.55,Mandalay,2024-07-12,su.lin@gmail.com,959127090170,5389,6,2024-10-03,True,1
+389,Su Lin,Female,1961-05-29,64,Divorced,High School,Teacher,2363628.55,Mandalay,2024-07-12,su.lin@gmail.com,959127090170,6389,7,2024-05-13,False,0
+389,Su Lin,Female,1961-05-29,64,Divorced,High School,Teacher,2363628.55,Mandalay,2024-07-12,su.lin@gmail.com,959127090170,7389,8,2023-09-12,False,0
+389,Su Lin,Female,1961-05-29,64,Divorced,High School,Teacher,2363628.55,Mandalay,2024-07-12,su.lin@gmail.com,959127090170,8389,9,2023-08-02,True,1
+389,Su Lin,Female,1961-05-29,64,Divorced,High School,Teacher,2363628.55,Mandalay,2024-07-12,su.lin@gmail.com,959127090170,9389,10,2023-06-20,True,1
+403,Thura Aung,Male,1951-12-02,74,Married,Diploma,Bank Employee,728636.18,Mandalay,2021-10-06,thura.aung@gmail.com,959177872543,403,1,2024-09-19,False,0
+403,Thura Aung,Male,1951-12-02,74,Married,Diploma,Bank Employee,728636.18,Mandalay,2021-10-06,thura.aung@gmail.com,959177872543,1403,2,2024-10-26,False,0
+403,Thura Aung,Male,1951-12-02,74,Married,Diploma,Bank Employee,728636.18,Mandalay,2021-10-06,thura.aung@gmail.com,959177872543,2403,3,2024-06-11,True,1
+403,Thura Aung,Male,1951-12-02,74,Married,Diploma,Bank Employee,728636.18,Mandalay,2021-10-06,thura.aung@gmail.com,959177872543,3403,4,2023-08-13,False,0
+403,Thura Aung,Male,1951-12-02,74,Married,Diploma,Bank Employee,728636.18,Mandalay,2021-10-06,thura.aung@gmail.com,959177872543,4403,5,2024-11-08,True,1
+403,Thura Aung,Male,1951-12-02,74,Married,Diploma,Bank Employee,728636.18,Mandalay,2021-10-06,thura.aung@gmail.com,959177872543,5403,6,2024-09-23,True,1
+403,Thura Aung,Male,1951-12-02,74,Married,Diploma,Bank Employee,728636.18,Mandalay,2021-10-06,thura.aung@gmail.com,959177872543,6403,7,2024-05-08,False,0
+403,Thura Aung,Male,1951-12-02,74,Married,Diploma,Bank Employee,728636.18,Mandalay,2021-10-06,thura.aung@gmail.com,959177872543,7403,8,2023-09-17,True,1
+403,Thura Aung,Male,1951-12-02,74,Married,Diploma,Bank Employee,728636.18,Mandalay,2021-10-06,thura.aung@gmail.com,959177872543,8403,9,2023-07-11,False,0
+403,Thura Aung,Male,1951-12-02,74,Married,Diploma,Bank Employee,728636.18,Mandalay,2021-10-06,thura.aung@gmail.com,959177872543,9403,10,2023-07-05,False,0
+409,Nu Lin,Female,1981-08-07,44,Married,Primary,Teacher,958061.77,Mandalay,2015-04-15,nu.lin@gmail.com,959118957310,409,1,2024-09-28,False,0
+409,Nu Lin,Female,1981-08-07,44,Married,Primary,Teacher,958061.77,Mandalay,2015-04-15,nu.lin@gmail.com,959118957310,1409,2,2024-09-29,False,0
+409,Nu Lin,Female,1981-08-07,44,Married,Primary,Teacher,958061.77,Mandalay,2015-04-15,nu.lin@gmail.com,959118957310,2409,3,2024-06-07,False,0
+409,Nu Lin,Female,1981-08-07,44,Married,Primary,Teacher,958061.77,Mandalay,2015-04-15,nu.lin@gmail.com,959118957310,3409,4,2023-08-02,False,0
+409,Nu Lin,Female,1981-08-07,44,Married,Primary,Teacher,958061.77,Mandalay,2015-04-15,nu.lin@gmail.com,959118957310,4409,5,2024-11-09,False,0
+409,Nu Lin,Female,1981-08-07,44,Married,Primary,Teacher,958061.77,Mandalay,2015-04-15,nu.lin@gmail.com,959118957310,5409,6,2024-10-17,True,1
+409,Nu Lin,Female,1981-08-07,44,Married,Primary,Teacher,958061.77,Mandalay,2015-04-15,nu.lin@gmail.com,959118957310,6409,7,2024-05-12,False,0
+409,Nu Lin,Female,1981-08-07,44,Married,Primary,Teacher,958061.77,Mandalay,2015-04-15,nu.lin@gmail.com,959118957310,7409,8,2023-09-13,False,0
+409,Nu Lin,Female,1981-08-07,44,Married,Primary,Teacher,958061.77,Mandalay,2015-04-15,nu.lin@gmail.com,959118957310,8409,9,2023-07-24,True,1
+409,Nu Lin,Female,1981-08-07,44,Married,Primary,Teacher,958061.77,Mandalay,2015-04-15,nu.lin@gmail.com,959118957310,9409,10,2023-06-16,False,0
+410,Yin Zaw,Other,1995-03-09,30,Widowed,High School,Government Employee,1464595.96,Mandalay,2022-05-06,yin.zaw@gmail.com,959379304044,410,1,2024-08-27,False,0
+410,Yin Zaw,Other,1995-03-09,30,Widowed,High School,Government Employee,1464595.96,Mandalay,2022-05-06,yin.zaw@gmail.com,959379304044,1410,2,2024-10-16,False,0
+410,Yin Zaw,Other,1995-03-09,30,Widowed,High School,Government Employee,1464595.96,Mandalay,2022-05-06,yin.zaw@gmail.com,959379304044,2410,3,2024-06-08,True,1
+410,Yin Zaw,Other,1995-03-09,30,Widowed,High School,Government Employee,1464595.96,Mandalay,2022-05-06,yin.zaw@gmail.com,959379304044,3410,4,2023-07-19,True,1
+410,Yin Zaw,Other,1995-03-09,30,Widowed,High School,Government Employee,1464595.96,Mandalay,2022-05-06,yin.zaw@gmail.com,959379304044,4410,5,2024-11-09,True,1
+410,Yin Zaw,Other,1995-03-09,30,Widowed,High School,Government Employee,1464595.96,Mandalay,2022-05-06,yin.zaw@gmail.com,959379304044,5410,6,2024-09-22,True,1
+410,Yin Zaw,Other,1995-03-09,30,Widowed,High School,Government Employee,1464595.96,Mandalay,2022-05-06,yin.zaw@gmail.com,959379304044,6410,7,2024-04-06,False,0
+410,Yin Zaw,Other,1995-03-09,30,Widowed,High School,Government Employee,1464595.96,Mandalay,2022-05-06,yin.zaw@gmail.com,959379304044,7410,8,2023-09-14,True,1
+410,Yin Zaw,Other,1995-03-09,30,Widowed,High School,Government Employee,1464595.96,Mandalay,2022-05-06,yin.zaw@gmail.com,959379304044,8410,9,2023-08-10,True,1
+410,Yin Zaw,Other,1995-03-09,30,Widowed,High School,Government Employee,1464595.96,Mandalay,2022-05-06,yin.zaw@gmail.com,959379304044,9410,10,2023-06-05,True,1
+413,Win Moe,Male,1993-07-14,32,Single,Middle School,Driver,3298986.95,Mandalay,2024-02-11,win.moe@gmail.com,959121512553,413,1,2024-09-06,True,1
+413,Win Moe,Male,1993-07-14,32,Single,Middle School,Driver,3298986.95,Mandalay,2024-02-11,win.moe@gmail.com,959121512553,1413,2,2024-10-06,False,0
+413,Win Moe,Male,1993-07-14,32,Single,Middle School,Driver,3298986.95,Mandalay,2024-02-11,win.moe@gmail.com,959121512553,2413,3,2024-06-02,True,1
+413,Win Moe,Male,1993-07-14,32,Single,Middle School,Driver,3298986.95,Mandalay,2024-02-11,win.moe@gmail.com,959121512553,3413,4,2023-07-26,True,1
+413,Win Moe,Male,1993-07-14,32,Single,Middle School,Driver,3298986.95,Mandalay,2024-02-11,win.moe@gmail.com,959121512553,4413,5,2024-11-06,True,1
+413,Win Moe,Male,1993-07-14,32,Single,Middle School,Driver,3298986.95,Mandalay,2024-02-11,win.moe@gmail.com,959121512553,5413,6,2024-10-11,True,1
+413,Win Moe,Male,1993-07-14,32,Single,Middle School,Driver,3298986.95,Mandalay,2024-02-11,win.moe@gmail.com,959121512553,6413,7,2024-05-06,False,0
+413,Win Moe,Male,1993-07-14,32,Single,Middle School,Driver,3298986.95,Mandalay,2024-02-11,win.moe@gmail.com,959121512553,7413,8,2023-09-18,True,1
+413,Win Moe,Male,1993-07-14,32,Single,Middle School,Driver,3298986.95,Mandalay,2024-02-11,win.moe@gmail.com,959121512553,8413,9,2023-07-11,True,1
+413,Win Moe,Male,1993-07-14,32,Single,Middle School,Driver,3298986.95,Mandalay,2024-02-11,win.moe@gmail.com,959121512553,9413,10,2023-06-02,True,1
+415,May Hlaing,Female,1975-10-31,50,Married,PhD,Driver,4785929.02,Mandalay,2020-09-23,may.hlaing@gmail.com,959516427169,415,1,2024-09-02,True,1
+415,May Hlaing,Female,1975-10-31,50,Married,PhD,Driver,4785929.02,Mandalay,2020-09-23,may.hlaing@gmail.com,959516427169,1415,2,2024-09-30,False,0
+415,May Hlaing,Female,1975-10-31,50,Married,PhD,Driver,4785929.02,Mandalay,2020-09-23,may.hlaing@gmail.com,959516427169,2415,3,2024-05-27,True,1
+415,May Hlaing,Female,1975-10-31,50,Married,PhD,Driver,4785929.02,Mandalay,2020-09-23,may.hlaing@gmail.com,959516427169,3415,4,2023-07-23,False,0
+415,May Hlaing,Female,1975-10-31,50,Married,PhD,Driver,4785929.02,Mandalay,2020-09-23,may.hlaing@gmail.com,959516427169,4415,5,2024-11-01,True,1
+415,May Hlaing,Female,1975-10-31,50,Married,PhD,Driver,4785929.02,Mandalay,2020-09-23,may.hlaing@gmail.com,959516427169,5415,6,2024-10-06,True,1
+415,May Hlaing,Female,1975-10-31,50,Married,PhD,Driver,4785929.02,Mandalay,2020-09-23,may.hlaing@gmail.com,959516427169,6415,7,2024-04-08,True,1
+415,May Hlaing,Female,1975-10-31,50,Married,PhD,Driver,4785929.02,Mandalay,2020-09-23,may.hlaing@gmail.com,959516427169,7415,8,2023-09-15,False,0
+415,May Hlaing,Female,1975-10-31,50,Married,PhD,Driver,4785929.02,Mandalay,2020-09-23,may.hlaing@gmail.com,959516427169,8415,9,2023-08-11,False,0
+415,May Hlaing,Female,1975-10-31,50,Married,PhD,Driver,4785929.02,Mandalay,2020-09-23,may.hlaing@gmail.com,959516427169,9415,10,2023-06-19,False,0
+419,Yan Zaw,Male,1972-05-11,53,Widowed,Bachelor,Bank Employee,3887153.42,Mandalay,2022-06-03,yan.zaw@gmail.com,959862932335,419,1,2024-09-27,False,0
+419,Yan Zaw,Male,1972-05-11,53,Widowed,Bachelor,Bank Employee,3887153.42,Mandalay,2022-06-03,yan.zaw@gmail.com,959862932335,1419,2,2024-10-14,True,1
+419,Yan Zaw,Male,1972-05-11,53,Widowed,Bachelor,Bank Employee,3887153.42,Mandalay,2022-06-03,yan.zaw@gmail.com,959862932335,2419,3,2024-06-01,False,0
+419,Yan Zaw,Male,1972-05-11,53,Widowed,Bachelor,Bank Employee,3887153.42,Mandalay,2022-06-03,yan.zaw@gmail.com,959862932335,3419,4,2023-08-11,False,0
+419,Yan Zaw,Male,1972-05-11,53,Widowed,Bachelor,Bank Employee,3887153.42,Mandalay,2022-06-03,yan.zaw@gmail.com,959862932335,4419,5,2024-11-05,False,0
+419,Yan Zaw,Male,1972-05-11,53,Widowed,Bachelor,Bank Employee,3887153.42,Mandalay,2022-06-03,yan.zaw@gmail.com,959862932335,5419,6,2024-09-20,True,1
+419,Yan Zaw,Male,1972-05-11,53,Widowed,Bachelor,Bank Employee,3887153.42,Mandalay,2022-06-03,yan.zaw@gmail.com,959862932335,6419,7,2024-04-15,False,0
+419,Yan Zaw,Male,1972-05-11,53,Widowed,Bachelor,Bank Employee,3887153.42,Mandalay,2022-06-03,yan.zaw@gmail.com,959862932335,7419,8,2023-09-14,False,0
+419,Yan Zaw,Male,1972-05-11,53,Widowed,Bachelor,Bank Employee,3887153.42,Mandalay,2022-06-03,yan.zaw@gmail.com,959862932335,8419,9,2023-08-04,True,1
+419,Yan Zaw,Male,1972-05-11,53,Widowed,Bachelor,Bank Employee,3887153.42,Mandalay,2022-06-03,yan.zaw@gmail.com,959862932335,9419,10,2023-07-08,False,0
+420,Yin Kyaw,Female,1963-12-29,62,Single,Middle School,Teacher,4645750.45,Mandalay,2023-12-28,yin.kyaw@gmail.com,959769918173,420,1,2024-09-10,False,0
+420,Yin Kyaw,Female,1963-12-29,62,Single,Middle School,Teacher,4645750.45,Mandalay,2023-12-28,yin.kyaw@gmail.com,959769918173,1420,2,2024-10-05,True,1
+420,Yin Kyaw,Female,1963-12-29,62,Single,Middle School,Teacher,4645750.45,Mandalay,2023-12-28,yin.kyaw@gmail.com,959769918173,2420,3,2024-06-04,False,0
+420,Yin Kyaw,Female,1963-12-29,62,Single,Middle School,Teacher,4645750.45,Mandalay,2023-12-28,yin.kyaw@gmail.com,959769918173,3420,4,2023-08-04,False,0
+420,Yin Kyaw,Female,1963-12-29,62,Single,Middle School,Teacher,4645750.45,Mandalay,2023-12-28,yin.kyaw@gmail.com,959769918173,4420,5,2024-11-01,True,1
+420,Yin Kyaw,Female,1963-12-29,62,Single,Middle School,Teacher,4645750.45,Mandalay,2023-12-28,yin.kyaw@gmail.com,959769918173,5420,6,2024-10-18,True,1
+420,Yin Kyaw,Female,1963-12-29,62,Single,Middle School,Teacher,4645750.45,Mandalay,2023-12-28,yin.kyaw@gmail.com,959769918173,6420,7,2024-05-11,False,0
+420,Yin Kyaw,Female,1963-12-29,62,Single,Middle School,Teacher,4645750.45,Mandalay,2023-12-28,yin.kyaw@gmail.com,959769918173,7420,8,2023-09-17,False,0
+420,Yin Kyaw,Female,1963-12-29,62,Single,Middle School,Teacher,4645750.45,Mandalay,2023-12-28,yin.kyaw@gmail.com,959769918173,8420,9,2023-08-08,False,0
+420,Yin Kyaw,Female,1963-12-29,62,Single,Middle School,Teacher,4645750.45,Mandalay,2023-12-28,yin.kyaw@gmail.com,959769918173,9420,10,2023-06-02,True,1
+424,Hla Htun,Other,1965-04-09,60,Divorced,PhD,Doctor,1578308.8,Mandalay,2017-10-24,hla.htun@gmail.com,959321765446,424,1,2024-09-20,True,1
+424,Hla Htun,Other,1965-04-09,60,Divorced,PhD,Doctor,1578308.8,Mandalay,2017-10-24,hla.htun@gmail.com,959321765446,1424,2,2024-09-25,True,1
+424,Hla Htun,Other,1965-04-09,60,Divorced,PhD,Doctor,1578308.8,Mandalay,2017-10-24,hla.htun@gmail.com,959321765446,2424,3,2024-06-09,True,1
+424,Hla Htun,Other,1965-04-09,60,Divorced,PhD,Doctor,1578308.8,Mandalay,2017-10-24,hla.htun@gmail.com,959321765446,3424,4,2023-08-24,True,1
+424,Hla Htun,Other,1965-04-09,60,Divorced,PhD,Doctor,1578308.8,Mandalay,2017-10-24,hla.htun@gmail.com,959321765446,4424,5,2024-11-06,True,1
+424,Hla Htun,Other,1965-04-09,60,Divorced,PhD,Doctor,1578308.8,Mandalay,2017-10-24,hla.htun@gmail.com,959321765446,5424,6,2024-10-20,True,1
+424,Hla Htun,Other,1965-04-09,60,Divorced,PhD,Doctor,1578308.8,Mandalay,2017-10-24,hla.htun@gmail.com,959321765446,6424,7,2024-04-20,True,1
+424,Hla Htun,Other,1965-04-09,60,Divorced,PhD,Doctor,1578308.8,Mandalay,2017-10-24,hla.htun@gmail.com,959321765446,7424,8,2023-09-12,False,0
+424,Hla Htun,Other,1965-04-09,60,Divorced,PhD,Doctor,1578308.8,Mandalay,2017-10-24,hla.htun@gmail.com,959321765446,8424,9,2023-07-26,False,0
+424,Hla Htun,Other,1965-04-09,60,Divorced,PhD,Doctor,1578308.8,Mandalay,2017-10-24,hla.htun@gmail.com,959321765446,9424,10,2023-06-11,False,0
+426,Khin Zaw,Other,2000-05-09,25,Married,High School,Teacher,4503061.57,Mandalay,2024-10-31,khin.zaw@gmail.com,959369742273,426,1,2024-09-26,False,0
+426,Khin Zaw,Other,2000-05-09,25,Married,High School,Teacher,4503061.57,Mandalay,2024-10-31,khin.zaw@gmail.com,959369742273,1426,2,2024-10-27,False,0
+426,Khin Zaw,Other,2000-05-09,25,Married,High School,Teacher,4503061.57,Mandalay,2024-10-31,khin.zaw@gmail.com,959369742273,2426,3,2024-06-02,True,1
+426,Khin Zaw,Other,2000-05-09,25,Married,High School,Teacher,4503061.57,Mandalay,2024-10-31,khin.zaw@gmail.com,959369742273,3426,4,2023-07-26,False,0
+426,Khin Zaw,Other,2000-05-09,25,Married,High School,Teacher,4503061.57,Mandalay,2024-10-31,khin.zaw@gmail.com,959369742273,4426,5,2024-11-13,False,0
+426,Khin Zaw,Other,2000-05-09,25,Married,High School,Teacher,4503061.57,Mandalay,2024-10-31,khin.zaw@gmail.com,959369742273,5426,6,2024-10-14,True,1
+426,Khin Zaw,Other,2000-05-09,25,Married,High School,Teacher,4503061.57,Mandalay,2024-10-31,khin.zaw@gmail.com,959369742273,6426,7,2024-04-21,False,0
+426,Khin Zaw,Other,2000-05-09,25,Married,High School,Teacher,4503061.57,Mandalay,2024-10-31,khin.zaw@gmail.com,959369742273,7426,8,2023-09-14,False,0
+426,Khin Zaw,Other,2000-05-09,25,Married,High School,Teacher,4503061.57,Mandalay,2024-10-31,khin.zaw@gmail.com,959369742273,8426,9,2023-07-25,False,0
+426,Khin Zaw,Other,2000-05-09,25,Married,High School,Teacher,4503061.57,Mandalay,2024-10-31,khin.zaw@gmail.com,959369742273,9426,10,2023-06-25,True,1
+429,Myo Kyaw,Male,1996-01-01,29,Widowed,Master,Engineer,1574912.4,Mandalay,2023-05-14,myo.kyaw@gmail.com,959816110683,429,1,2024-09-28,True,1
+429,Myo Kyaw,Male,1996-01-01,29,Widowed,Master,Engineer,1574912.4,Mandalay,2023-05-14,myo.kyaw@gmail.com,959816110683,1429,2,2024-10-30,False,0
+429,Myo Kyaw,Male,1996-01-01,29,Widowed,Master,Engineer,1574912.4,Mandalay,2023-05-14,myo.kyaw@gmail.com,959816110683,2429,3,2024-06-04,True,1
+429,Myo Kyaw,Male,1996-01-01,29,Widowed,Master,Engineer,1574912.4,Mandalay,2023-05-14,myo.kyaw@gmail.com,959816110683,3429,4,2023-07-18,False,0
+429,Myo Kyaw,Male,1996-01-01,29,Widowed,Master,Engineer,1574912.4,Mandalay,2023-05-14,myo.kyaw@gmail.com,959816110683,4429,5,2024-10-29,False,0
+429,Myo Kyaw,Male,1996-01-01,29,Widowed,Master,Engineer,1574912.4,Mandalay,2023-05-14,myo.kyaw@gmail.com,959816110683,5429,6,2024-10-05,True,1
+429,Myo Kyaw,Male,1996-01-01,29,Widowed,Master,Engineer,1574912.4,Mandalay,2023-05-14,myo.kyaw@gmail.com,959816110683,6429,7,2024-04-06,False,0
+429,Myo Kyaw,Male,1996-01-01,29,Widowed,Master,Engineer,1574912.4,Mandalay,2023-05-14,myo.kyaw@gmail.com,959816110683,7429,8,2023-09-12,False,0
+429,Myo Kyaw,Male,1996-01-01,29,Widowed,Master,Engineer,1574912.4,Mandalay,2023-05-14,myo.kyaw@gmail.com,959816110683,8429,9,2023-07-22,True,1
+429,Myo Kyaw,Male,1996-01-01,29,Widowed,Master,Engineer,1574912.4,Mandalay,2023-05-14,myo.kyaw@gmail.com,959816110683,9429,10,2023-06-17,True,1
+440,Nilar Win,Female,2003-11-16,22,Married,Middle School,Construction Worker,812172.32,Mandalay,2018-11-24,nilar.win@gmail.com,959283221219,440,1,2024-08-31,True,1
+440,Nilar Win,Female,2003-11-16,22,Married,Middle School,Construction Worker,812172.32,Mandalay,2018-11-24,nilar.win@gmail.com,959283221219,1440,2,2024-10-26,False,0
+440,Nilar Win,Female,2003-11-16,22,Married,Middle School,Construction Worker,812172.32,Mandalay,2018-11-24,nilar.win@gmail.com,959283221219,2440,3,2024-06-08,True,1
+440,Nilar Win,Female,2003-11-16,22,Married,Middle School,Construction Worker,812172.32,Mandalay,2018-11-24,nilar.win@gmail.com,959283221219,3440,4,2023-07-28,True,1
+440,Nilar Win,Female,2003-11-16,22,Married,Middle School,Construction Worker,812172.32,Mandalay,2018-11-24,nilar.win@gmail.com,959283221219,4440,5,2024-11-12,False,0
+440,Nilar Win,Female,2003-11-16,22,Married,Middle School,Construction Worker,812172.32,Mandalay,2018-11-24,nilar.win@gmail.com,959283221219,5440,6,2024-10-08,True,1
+440,Nilar Win,Female,2003-11-16,22,Married,Middle School,Construction Worker,812172.32,Mandalay,2018-11-24,nilar.win@gmail.com,959283221219,6440,7,2024-04-19,True,1
+440,Nilar Win,Female,2003-11-16,22,Married,Middle School,Construction Worker,812172.32,Mandalay,2018-11-24,nilar.win@gmail.com,959283221219,7440,8,2023-09-10,False,0
+440,Nilar Win,Female,2003-11-16,22,Married,Middle School,Construction Worker,812172.32,Mandalay,2018-11-24,nilar.win@gmail.com,959283221219,8440,9,2023-07-17,True,1
+440,Nilar Win,Female,2003-11-16,22,Married,Middle School,Construction Worker,812172.32,Mandalay,2018-11-24,nilar.win@gmail.com,959283221219,9440,10,2023-06-04,True,1
+447,Hla Myint,Other,1993-01-02,32,Divorced,PhD,Teacher,402460.86,Mandalay,2021-08-11,hla.myint@gmail.com,959111038303,447,1,2024-08-29,False,0
+447,Hla Myint,Other,1993-01-02,32,Divorced,PhD,Teacher,402460.86,Mandalay,2021-08-11,hla.myint@gmail.com,959111038303,1447,2,2024-10-14,False,0
+447,Hla Myint,Other,1993-01-02,32,Divorced,PhD,Teacher,402460.86,Mandalay,2021-08-11,hla.myint@gmail.com,959111038303,2447,3,2024-05-25,False,0
+447,Hla Myint,Other,1993-01-02,32,Divorced,PhD,Teacher,402460.86,Mandalay,2021-08-11,hla.myint@gmail.com,959111038303,3447,4,2023-07-21,True,1
+447,Hla Myint,Other,1993-01-02,32,Divorced,PhD,Teacher,402460.86,Mandalay,2021-08-11,hla.myint@gmail.com,959111038303,4447,5,2024-11-09,False,0
+447,Hla Myint,Other,1993-01-02,32,Divorced,PhD,Teacher,402460.86,Mandalay,2021-08-11,hla.myint@gmail.com,959111038303,5447,6,2024-10-27,False,0
+447,Hla Myint,Other,1993-01-02,32,Divorced,PhD,Teacher,402460.86,Mandalay,2021-08-11,hla.myint@gmail.com,959111038303,6447,7,2024-05-01,True,1
+447,Hla Myint,Other,1993-01-02,32,Divorced,PhD,Teacher,402460.86,Mandalay,2021-08-11,hla.myint@gmail.com,959111038303,7447,8,2023-09-12,True,1
+447,Hla Myint,Other,1993-01-02,32,Divorced,PhD,Teacher,402460.86,Mandalay,2021-08-11,hla.myint@gmail.com,959111038303,8447,9,2023-07-12,True,1
+447,Hla Myint,Other,1993-01-02,32,Divorced,PhD,Teacher,402460.86,Mandalay,2021-08-11,hla.myint@gmail.com,959111038303,9447,10,2023-06-20,False,0
+462,Su Htun,Female,2006-04-15,19,Married,Bachelor,Tour Guide,4610953.49,Mandalay,2023-04-29,su.htun@gmail.com,959120366817,462,1,2024-09-06,False,0
+462,Su Htun,Female,2006-04-15,19,Married,Bachelor,Tour Guide,4610953.49,Mandalay,2023-04-29,su.htun@gmail.com,959120366817,1462,2,2024-11-05,False,0
+462,Su Htun,Female,2006-04-15,19,Married,Bachelor,Tour Guide,4610953.49,Mandalay,2023-04-29,su.htun@gmail.com,959120366817,2462,3,2024-06-16,True,1
+462,Su Htun,Female,2006-04-15,19,Married,Bachelor,Tour Guide,4610953.49,Mandalay,2023-04-29,su.htun@gmail.com,959120366817,3462,4,2023-07-26,False,0
+462,Su Htun,Female,2006-04-15,19,Married,Bachelor,Tour Guide,4610953.49,Mandalay,2023-04-29,su.htun@gmail.com,959120366817,4462,5,2024-11-13,True,1
+462,Su Htun,Female,2006-04-15,19,Married,Bachelor,Tour Guide,4610953.49,Mandalay,2023-04-29,su.htun@gmail.com,959120366817,5462,6,2024-09-17,False,0
+462,Su Htun,Female,2006-04-15,19,Married,Bachelor,Tour Guide,4610953.49,Mandalay,2023-04-29,su.htun@gmail.com,959120366817,6462,7,2024-04-10,False,0
+462,Su Htun,Female,2006-04-15,19,Married,Bachelor,Tour Guide,4610953.49,Mandalay,2023-04-29,su.htun@gmail.com,959120366817,7462,8,2023-09-12,False,0
+462,Su Htun,Female,2006-04-15,19,Married,Bachelor,Tour Guide,4610953.49,Mandalay,2023-04-29,su.htun@gmail.com,959120366817,8462,9,2023-08-02,True,1
+462,Su Htun,Female,2006-04-15,19,Married,Bachelor,Tour Guide,4610953.49,Mandalay,2023-04-29,su.htun@gmail.com,959120366817,9462,10,2023-07-08,True,1
+463,May Win,Other,1951-05-13,74,Divorced,Master,Bank Employee,2159299.14,Mandalay,2017-06-29,may.win@gmail.com,959622585026,463,1,2024-09-14,False,0
+463,May Win,Other,1951-05-13,74,Divorced,Master,Bank Employee,2159299.14,Mandalay,2017-06-29,may.win@gmail.com,959622585026,1463,2,2024-09-30,False,0
+463,May Win,Other,1951-05-13,74,Divorced,Master,Bank Employee,2159299.14,Mandalay,2017-06-29,may.win@gmail.com,959622585026,2463,3,2024-06-26,False,0
+463,May Win,Other,1951-05-13,74,Divorced,Master,Bank Employee,2159299.14,Mandalay,2017-06-29,may.win@gmail.com,959622585026,3463,4,2023-08-12,False,0
+463,May Win,Other,1951-05-13,74,Divorced,Master,Bank Employee,2159299.14,Mandalay,2017-06-29,may.win@gmail.com,959622585026,4463,5,2024-11-10,True,1
+463,May Win,Other,1951-05-13,74,Divorced,Master,Bank Employee,2159299.14,Mandalay,2017-06-29,may.win@gmail.com,959622585026,5463,6,2024-09-25,True,1
+463,May Win,Other,1951-05-13,74,Divorced,Master,Bank Employee,2159299.14,Mandalay,2017-06-29,may.win@gmail.com,959622585026,6463,7,2024-04-07,True,1
+463,May Win,Other,1951-05-13,74,Divorced,Master,Bank Employee,2159299.14,Mandalay,2017-06-29,may.win@gmail.com,959622585026,7463,8,2023-09-17,False,0
+463,May Win,Other,1951-05-13,74,Divorced,Master,Bank Employee,2159299.14,Mandalay,2017-06-29,may.win@gmail.com,959622585026,8463,9,2023-08-12,False,0
+463,May Win,Other,1951-05-13,74,Divorced,Master,Bank Employee,2159299.14,Mandalay,2017-06-29,may.win@gmail.com,959622585026,9463,10,2023-06-10,False,0
+474,Hla Win,Female,1974-01-15,51,Divorced,Middle School,Doctor,1056251.13,Mandalay,2024-08-21,hla.win@gmail.com,959226900725,474,1,2024-08-22,True,1
+474,Hla Win,Female,1974-01-15,51,Divorced,Middle School,Doctor,1056251.13,Mandalay,2024-08-21,hla.win@gmail.com,959226900725,1474,2,2024-10-16,True,1
+474,Hla Win,Female,1974-01-15,51,Divorced,Middle School,Doctor,1056251.13,Mandalay,2024-08-21,hla.win@gmail.com,959226900725,2474,3,2024-06-09,False,0
+474,Hla Win,Female,1974-01-15,51,Divorced,Middle School,Doctor,1056251.13,Mandalay,2024-08-21,hla.win@gmail.com,959226900725,3474,4,2023-08-04,False,0
+474,Hla Win,Female,1974-01-15,51,Divorced,Middle School,Doctor,1056251.13,Mandalay,2024-08-21,hla.win@gmail.com,959226900725,4474,5,2024-11-06,False,0
+474,Hla Win,Female,1974-01-15,51,Divorced,Middle School,Doctor,1056251.13,Mandalay,2024-08-21,hla.win@gmail.com,959226900725,5474,6,2024-09-29,True,1
+474,Hla Win,Female,1974-01-15,51,Divorced,Middle School,Doctor,1056251.13,Mandalay,2024-08-21,hla.win@gmail.com,959226900725,6474,7,2024-04-24,False,0
+474,Hla Win,Female,1974-01-15,51,Divorced,Middle School,Doctor,1056251.13,Mandalay,2024-08-21,hla.win@gmail.com,959226900725,7474,8,2023-09-12,True,1
+474,Hla Win,Female,1974-01-15,51,Divorced,Middle School,Doctor,1056251.13,Mandalay,2024-08-21,hla.win@gmail.com,959226900725,8474,9,2023-07-19,False,0
+474,Hla Win,Female,1974-01-15,51,Divorced,Middle School,Doctor,1056251.13,Mandalay,2024-08-21,hla.win@gmail.com,959226900725,9474,10,2023-07-03,False,0
+477,Thet Hlaing,Female,1980-07-18,45,Divorced,Master,Merchant,1697783.04,Mandalay,2018-07-12,thet.hlaing@gmail.com,959557874081,477,1,2024-08-28,True,1
+477,Thet Hlaing,Female,1980-07-18,45,Divorced,Master,Merchant,1697783.04,Mandalay,2018-07-12,thet.hlaing@gmail.com,959557874081,1477,2,2024-10-08,False,0
+477,Thet Hlaing,Female,1980-07-18,45,Divorced,Master,Merchant,1697783.04,Mandalay,2018-07-12,thet.hlaing@gmail.com,959557874081,2477,3,2024-05-29,False,0
+477,Thet Hlaing,Female,1980-07-18,45,Divorced,Master,Merchant,1697783.04,Mandalay,2018-07-12,thet.hlaing@gmail.com,959557874081,3477,4,2023-07-26,True,1
+477,Thet Hlaing,Female,1980-07-18,45,Divorced,Master,Merchant,1697783.04,Mandalay,2018-07-12,thet.hlaing@gmail.com,959557874081,4477,5,2024-10-28,False,0
+477,Thet Hlaing,Female,1980-07-18,45,Divorced,Master,Merchant,1697783.04,Mandalay,2018-07-12,thet.hlaing@gmail.com,959557874081,5477,6,2024-10-13,True,1
+477,Thet Hlaing,Female,1980-07-18,45,Divorced,Master,Merchant,1697783.04,Mandalay,2018-07-12,thet.hlaing@gmail.com,959557874081,6477,7,2024-04-25,True,1
+477,Thet Hlaing,Female,1980-07-18,45,Divorced,Master,Merchant,1697783.04,Mandalay,2018-07-12,thet.hlaing@gmail.com,959557874081,7477,8,2023-09-15,True,1
+477,Thet Hlaing,Female,1980-07-18,45,Divorced,Master,Merchant,1697783.04,Mandalay,2018-07-12,thet.hlaing@gmail.com,959557874081,8477,9,2023-07-12,True,1
+477,Thet Hlaing,Female,1980-07-18,45,Divorced,Master,Merchant,1697783.04,Mandalay,2018-07-12,thet.hlaing@gmail.com,959557874081,9477,10,2023-06-24,True,1
+483,Min Myint,Male,1963-12-16,62,Single,Middle School,Tour Guide,3437101.76,Mandalay,2024-12-30,min.myint@gmail.com,959545979574,483,1,2024-09-03,True,1
+483,Min Myint,Male,1963-12-16,62,Single,Middle School,Tour Guide,3437101.76,Mandalay,2024-12-30,min.myint@gmail.com,959545979574,1483,2,2024-10-16,False,0
+483,Min Myint,Male,1963-12-16,62,Single,Middle School,Tour Guide,3437101.76,Mandalay,2024-12-30,min.myint@gmail.com,959545979574,2483,3,2024-05-30,True,1
+483,Min Myint,Male,1963-12-16,62,Single,Middle School,Tour Guide,3437101.76,Mandalay,2024-12-30,min.myint@gmail.com,959545979574,3483,4,2023-07-31,True,1
+483,Min Myint,Male,1963-12-16,62,Single,Middle School,Tour Guide,3437101.76,Mandalay,2024-12-30,min.myint@gmail.com,959545979574,4483,5,2024-10-31,True,1
+483,Min Myint,Male,1963-12-16,62,Single,Middle School,Tour Guide,3437101.76,Mandalay,2024-12-30,min.myint@gmail.com,959545979574,5483,6,2024-09-24,False,0
+483,Min Myint,Male,1963-12-16,62,Single,Middle School,Tour Guide,3437101.76,Mandalay,2024-12-30,min.myint@gmail.com,959545979574,6483,7,2024-04-06,False,0
+483,Min Myint,Male,1963-12-16,62,Single,Middle School,Tour Guide,3437101.76,Mandalay,2024-12-30,min.myint@gmail.com,959545979574,7483,8,2023-09-12,True,1
+483,Min Myint,Male,1963-12-16,62,Single,Middle School,Tour Guide,3437101.76,Mandalay,2024-12-30,min.myint@gmail.com,959545979574,8483,9,2023-07-21,True,1
+483,Min Myint,Male,1963-12-16,62,Single,Middle School,Tour Guide,3437101.76,Mandalay,2024-12-30,min.myint@gmail.com,959545979574,9483,10,2023-07-05,True,1
+485,Thet Moe,Female,1987-05-03,38,Widowed,Bachelor,Business Owner,2538432.72,Mandalay,2015-12-29,thet.moe@gmail.com,959466235594,485,1,2024-09-29,False,0
+485,Thet Moe,Female,1987-05-03,38,Widowed,Bachelor,Business Owner,2538432.72,Mandalay,2015-12-29,thet.moe@gmail.com,959466235594,1485,2,2024-09-24,True,1
+485,Thet Moe,Female,1987-05-03,38,Widowed,Bachelor,Business Owner,2538432.72,Mandalay,2015-12-29,thet.moe@gmail.com,959466235594,2485,3,2024-06-07,True,1
+485,Thet Moe,Female,1987-05-03,38,Widowed,Bachelor,Business Owner,2538432.72,Mandalay,2015-12-29,thet.moe@gmail.com,959466235594,3485,4,2023-08-04,False,0
+485,Thet Moe,Female,1987-05-03,38,Widowed,Bachelor,Business Owner,2538432.72,Mandalay,2015-12-29,thet.moe@gmail.com,959466235594,4485,5,2024-11-03,False,0
+485,Thet Moe,Female,1987-05-03,38,Widowed,Bachelor,Business Owner,2538432.72,Mandalay,2015-12-29,thet.moe@gmail.com,959466235594,5485,6,2024-10-13,True,1
+485,Thet Moe,Female,1987-05-03,38,Widowed,Bachelor,Business Owner,2538432.72,Mandalay,2015-12-29,thet.moe@gmail.com,959466235594,6485,7,2024-04-29,True,1
+485,Thet Moe,Female,1987-05-03,38,Widowed,Bachelor,Business Owner,2538432.72,Mandalay,2015-12-29,thet.moe@gmail.com,959466235594,7485,8,2023-09-11,False,0
+485,Thet Moe,Female,1987-05-03,38,Widowed,Bachelor,Business Owner,2538432.72,Mandalay,2015-12-29,thet.moe@gmail.com,959466235594,8485,9,2023-07-17,True,1
+485,Thet Moe,Female,1987-05-03,38,Widowed,Bachelor,Business Owner,2538432.72,Mandalay,2015-12-29,thet.moe@gmail.com,959466235594,9485,10,2023-06-24,False,0
+488,Htun Myint,Male,1992-11-11,33,Divorced,High School,Tour Guide,4596617.5,Mandalay,2017-11-30,htun.myint@gmail.com,959825947337,488,1,2024-09-15,False,0
+488,Htun Myint,Male,1992-11-11,33,Divorced,High School,Tour Guide,4596617.5,Mandalay,2017-11-30,htun.myint@gmail.com,959825947337,1488,2,2024-10-22,False,0
+488,Htun Myint,Male,1992-11-11,33,Divorced,High School,Tour Guide,4596617.5,Mandalay,2017-11-30,htun.myint@gmail.com,959825947337,2488,3,2024-06-21,True,1
+488,Htun Myint,Male,1992-11-11,33,Divorced,High School,Tour Guide,4596617.5,Mandalay,2017-11-30,htun.myint@gmail.com,959825947337,3488,4,2023-07-29,False,0
+488,Htun Myint,Male,1992-11-11,33,Divorced,High School,Tour Guide,4596617.5,Mandalay,2017-11-30,htun.myint@gmail.com,959825947337,4488,5,2024-10-30,True,1
+488,Htun Myint,Male,1992-11-11,33,Divorced,High School,Tour Guide,4596617.5,Mandalay,2017-11-30,htun.myint@gmail.com,959825947337,5488,6,2024-10-11,False,0
+488,Htun Myint,Male,1992-11-11,33,Divorced,High School,Tour Guide,4596617.5,Mandalay,2017-11-30,htun.myint@gmail.com,959825947337,6488,7,2024-05-13,True,1
+488,Htun Myint,Male,1992-11-11,33,Divorced,High School,Tour Guide,4596617.5,Mandalay,2017-11-30,htun.myint@gmail.com,959825947337,7488,8,2023-09-12,False,0
+488,Htun Myint,Male,1992-11-11,33,Divorced,High School,Tour Guide,4596617.5,Mandalay,2017-11-30,htun.myint@gmail.com,959825947337,8488,9,2023-08-08,True,1
+488,Htun Myint,Male,1992-11-11,33,Divorced,High School,Tour Guide,4596617.5,Mandalay,2017-11-30,htun.myint@gmail.com,959825947337,9488,10,2023-06-02,True,1
+495,Su Zaw,Female,1977-03-29,48,Divorced,High School,Merchant,4261378.87,Mandalay,2020-04-19,su.zaw@gmail.com,959996408693,495,1,2024-09-03,True,1
+495,Su Zaw,Female,1977-03-29,48,Divorced,High School,Merchant,4261378.87,Mandalay,2020-04-19,su.zaw@gmail.com,959996408693,1495,2,2024-10-07,False,0
+495,Su Zaw,Female,1977-03-29,48,Divorced,High School,Merchant,4261378.87,Mandalay,2020-04-19,su.zaw@gmail.com,959996408693,2495,3,2024-06-16,False,0
+495,Su Zaw,Female,1977-03-29,48,Divorced,High School,Merchant,4261378.87,Mandalay,2020-04-19,su.zaw@gmail.com,959996408693,3495,4,2023-08-14,True,1
+495,Su Zaw,Female,1977-03-29,48,Divorced,High School,Merchant,4261378.87,Mandalay,2020-04-19,su.zaw@gmail.com,959996408693,4495,5,2024-10-28,True,1
+495,Su Zaw,Female,1977-03-29,48,Divorced,High School,Merchant,4261378.87,Mandalay,2020-04-19,su.zaw@gmail.com,959996408693,5495,6,2024-10-23,True,1
+495,Su Zaw,Female,1977-03-29,48,Divorced,High School,Merchant,4261378.87,Mandalay,2020-04-19,su.zaw@gmail.com,959996408693,6495,7,2024-04-20,True,1
+495,Su Zaw,Female,1977-03-29,48,Divorced,High School,Merchant,4261378.87,Mandalay,2020-04-19,su.zaw@gmail.com,959996408693,7495,8,2023-09-14,True,1
+495,Su Zaw,Female,1977-03-29,48,Divorced,High School,Merchant,4261378.87,Mandalay,2020-04-19,su.zaw@gmail.com,959996408693,8495,9,2023-07-23,False,0
+495,Su Zaw,Female,1977-03-29,48,Divorced,High School,Merchant,4261378.87,Mandalay,2020-04-19,su.zaw@gmail.com,959996408693,9495,10,2023-06-19,True,1
+509,Nu Myint,Other,1998-12-21,27,Divorced,High School,Bank Employee,808091.29,Mandalay,2019-07-10,nu.myint@gmail.com,959533232105,509,1,2024-09-24,False,0
+509,Nu Myint,Other,1998-12-21,27,Divorced,High School,Bank Employee,808091.29,Mandalay,2019-07-10,nu.myint@gmail.com,959533232105,1509,2,2024-10-05,True,1
+509,Nu Myint,Other,1998-12-21,27,Divorced,High School,Bank Employee,808091.29,Mandalay,2019-07-10,nu.myint@gmail.com,959533232105,2509,3,2024-05-25,True,1
+509,Nu Myint,Other,1998-12-21,27,Divorced,High School,Bank Employee,808091.29,Mandalay,2019-07-10,nu.myint@gmail.com,959533232105,3509,4,2023-07-20,False,0
+509,Nu Myint,Other,1998-12-21,27,Divorced,High School,Bank Employee,808091.29,Mandalay,2019-07-10,nu.myint@gmail.com,959533232105,4509,5,2024-11-10,True,1
+509,Nu Myint,Other,1998-12-21,27,Divorced,High School,Bank Employee,808091.29,Mandalay,2019-07-10,nu.myint@gmail.com,959533232105,5509,6,2024-09-27,False,0
+509,Nu Myint,Other,1998-12-21,27,Divorced,High School,Bank Employee,808091.29,Mandalay,2019-07-10,nu.myint@gmail.com,959533232105,6509,7,2024-05-14,False,0
+509,Nu Myint,Other,1998-12-21,27,Divorced,High School,Bank Employee,808091.29,Mandalay,2019-07-10,nu.myint@gmail.com,959533232105,7509,8,2023-09-09,False,0
+509,Nu Myint,Other,1998-12-21,27,Divorced,High School,Bank Employee,808091.29,Mandalay,2019-07-10,nu.myint@gmail.com,959533232105,8509,9,2023-08-06,False,0
+509,Nu Myint,Other,1998-12-21,27,Divorced,High School,Bank Employee,808091.29,Mandalay,2019-07-10,nu.myint@gmail.com,959533232105,9509,10,2023-07-05,True,1
+517,May Zaw,Female,1960-10-16,65,Divorced,Bachelor,Merchant,2479674.95,Mandalay,2016-07-14,may.zaw@gmail.com,959817772804,517,1,2024-09-16,True,1
+517,May Zaw,Female,1960-10-16,65,Divorced,Bachelor,Merchant,2479674.95,Mandalay,2016-07-14,may.zaw@gmail.com,959817772804,1517,2,2024-11-03,False,0
+517,May Zaw,Female,1960-10-16,65,Divorced,Bachelor,Merchant,2479674.95,Mandalay,2016-07-14,may.zaw@gmail.com,959817772804,2517,3,2024-05-30,False,0
+517,May Zaw,Female,1960-10-16,65,Divorced,Bachelor,Merchant,2479674.95,Mandalay,2016-07-14,may.zaw@gmail.com,959817772804,3517,4,2023-08-12,True,1
+517,May Zaw,Female,1960-10-16,65,Divorced,Bachelor,Merchant,2479674.95,Mandalay,2016-07-14,may.zaw@gmail.com,959817772804,4517,5,2024-11-13,False,0
+517,May Zaw,Female,1960-10-16,65,Divorced,Bachelor,Merchant,2479674.95,Mandalay,2016-07-14,may.zaw@gmail.com,959817772804,5517,6,2024-10-21,True,1
+517,May Zaw,Female,1960-10-16,65,Divorced,Bachelor,Merchant,2479674.95,Mandalay,2016-07-14,may.zaw@gmail.com,959817772804,6517,7,2024-04-15,True,1
+517,May Zaw,Female,1960-10-16,65,Divorced,Bachelor,Merchant,2479674.95,Mandalay,2016-07-14,may.zaw@gmail.com,959817772804,7517,8,2023-09-17,True,1
+517,May Zaw,Female,1960-10-16,65,Divorced,Bachelor,Merchant,2479674.95,Mandalay,2016-07-14,may.zaw@gmail.com,959817772804,8517,9,2023-08-03,True,1
+517,May Zaw,Female,1960-10-16,65,Divorced,Bachelor,Merchant,2479674.95,Mandalay,2016-07-14,may.zaw@gmail.com,959817772804,9517,10,2023-07-07,False,0
+537,Phyu Zaw,Other,1956-09-04,69,Married,Primary,Farmer,3456675.72,Mandalay,2017-09-02,phyu.zaw@gmail.com,959935956251,537,1,2024-09-14,False,0
+537,Phyu Zaw,Other,1956-09-04,69,Married,Primary,Farmer,3456675.72,Mandalay,2017-09-02,phyu.zaw@gmail.com,959935956251,1537,2,2024-09-29,False,0
+537,Phyu Zaw,Other,1956-09-04,69,Married,Primary,Farmer,3456675.72,Mandalay,2017-09-02,phyu.zaw@gmail.com,959935956251,2537,3,2024-06-30,True,1
+537,Phyu Zaw,Other,1956-09-04,69,Married,Primary,Farmer,3456675.72,Mandalay,2017-09-02,phyu.zaw@gmail.com,959935956251,3537,4,2023-08-10,True,1
+537,Phyu Zaw,Other,1956-09-04,69,Married,Primary,Farmer,3456675.72,Mandalay,2017-09-02,phyu.zaw@gmail.com,959935956251,4537,5,2024-11-10,True,1
+537,Phyu Zaw,Other,1956-09-04,69,Married,Primary,Farmer,3456675.72,Mandalay,2017-09-02,phyu.zaw@gmail.com,959935956251,5537,6,2024-10-10,True,1
+537,Phyu Zaw,Other,1956-09-04,69,Married,Primary,Farmer,3456675.72,Mandalay,2017-09-02,phyu.zaw@gmail.com,959935956251,6537,7,2024-05-07,False,0
+537,Phyu Zaw,Other,1956-09-04,69,Married,Primary,Farmer,3456675.72,Mandalay,2017-09-02,phyu.zaw@gmail.com,959935956251,7537,8,2023-09-16,False,0
+537,Phyu Zaw,Other,1956-09-04,69,Married,Primary,Farmer,3456675.72,Mandalay,2017-09-02,phyu.zaw@gmail.com,959935956251,8537,9,2023-08-06,False,0
+537,Phyu Zaw,Other,1956-09-04,69,Married,Primary,Farmer,3456675.72,Mandalay,2017-09-02,phyu.zaw@gmail.com,959935956251,9537,10,2023-06-14,True,1
+538,Phyu Oo,Other,1976-03-22,49,Single,PhD,Fisherman,652726.6,Mandalay,2018-04-21,phyu.oo@gmail.com,959331386644,538,1,2024-09-03,True,1
+538,Phyu Oo,Other,1976-03-22,49,Single,PhD,Fisherman,652726.6,Mandalay,2018-04-21,phyu.oo@gmail.com,959331386644,1538,2,2024-10-19,False,0
+538,Phyu Oo,Other,1976-03-22,49,Single,PhD,Fisherman,652726.6,Mandalay,2018-04-21,phyu.oo@gmail.com,959331386644,2538,3,2024-06-02,False,0
+538,Phyu Oo,Other,1976-03-22,49,Single,PhD,Fisherman,652726.6,Mandalay,2018-04-21,phyu.oo@gmail.com,959331386644,3538,4,2023-08-01,False,0
+538,Phyu Oo,Other,1976-03-22,49,Single,PhD,Fisherman,652726.6,Mandalay,2018-04-21,phyu.oo@gmail.com,959331386644,4538,5,2024-10-28,True,1
+538,Phyu Oo,Other,1976-03-22,49,Single,PhD,Fisherman,652726.6,Mandalay,2018-04-21,phyu.oo@gmail.com,959331386644,5538,6,2024-10-05,True,1
+538,Phyu Oo,Other,1976-03-22,49,Single,PhD,Fisherman,652726.6,Mandalay,2018-04-21,phyu.oo@gmail.com,959331386644,6538,7,2024-05-12,False,0
+538,Phyu Oo,Other,1976-03-22,49,Single,PhD,Fisherman,652726.6,Mandalay,2018-04-21,phyu.oo@gmail.com,959331386644,7538,8,2023-09-16,False,0
+538,Phyu Oo,Other,1976-03-22,49,Single,PhD,Fisherman,652726.6,Mandalay,2018-04-21,phyu.oo@gmail.com,959331386644,8538,9,2023-08-11,True,1
+538,Phyu Oo,Other,1976-03-22,49,Single,PhD,Fisherman,652726.6,Mandalay,2018-04-21,phyu.oo@gmail.com,959331386644,9538,10,2023-06-03,False,0
+552,Win Lin,Male,1950-07-03,75,Widowed,Primary,Driver,2401220.16,Mandalay,2016-01-13,win.lin@gmail.com,959511168754,552,1,2024-09-21,False,0
+552,Win Lin,Male,1950-07-03,75,Widowed,Primary,Driver,2401220.16,Mandalay,2016-01-13,win.lin@gmail.com,959511168754,1552,2,2024-10-21,True,1
+552,Win Lin,Male,1950-07-03,75,Widowed,Primary,Driver,2401220.16,Mandalay,2016-01-13,win.lin@gmail.com,959511168754,2552,3,2024-05-24,False,0
+552,Win Lin,Male,1950-07-03,75,Widowed,Primary,Driver,2401220.16,Mandalay,2016-01-13,win.lin@gmail.com,959511168754,3552,4,2023-08-17,True,1
+552,Win Lin,Male,1950-07-03,75,Widowed,Primary,Driver,2401220.16,Mandalay,2016-01-13,win.lin@gmail.com,959511168754,4552,5,2024-10-28,True,1
+552,Win Lin,Male,1950-07-03,75,Widowed,Primary,Driver,2401220.16,Mandalay,2016-01-13,win.lin@gmail.com,959511168754,5552,6,2024-10-17,False,0
+552,Win Lin,Male,1950-07-03,75,Widowed,Primary,Driver,2401220.16,Mandalay,2016-01-13,win.lin@gmail.com,959511168754,6552,7,2024-05-10,False,0
+552,Win Lin,Male,1950-07-03,75,Widowed,Primary,Driver,2401220.16,Mandalay,2016-01-13,win.lin@gmail.com,959511168754,7552,8,2023-09-18,False,0
+552,Win Lin,Male,1950-07-03,75,Widowed,Primary,Driver,2401220.16,Mandalay,2016-01-13,win.lin@gmail.com,959511168754,8552,9,2023-07-12,True,1
+552,Win Lin,Male,1950-07-03,75,Widowed,Primary,Driver,2401220.16,Mandalay,2016-01-13,win.lin@gmail.com,959511168754,9552,10,2023-06-13,False,0
+557,Myo Zaw,Male,1984-06-26,41,Divorced,Bachelor,Fisherman,2057284.69,Mandalay,2023-03-07,myo.zaw@gmail.com,959907936969,557,1,2024-08-25,False,0
+557,Myo Zaw,Male,1984-06-26,41,Divorced,Bachelor,Fisherman,2057284.69,Mandalay,2023-03-07,myo.zaw@gmail.com,959907936969,1557,2,2024-10-20,False,0
+557,Myo Zaw,Male,1984-06-26,41,Divorced,Bachelor,Fisherman,2057284.69,Mandalay,2023-03-07,myo.zaw@gmail.com,959907936969,2557,3,2024-05-23,False,0
+557,Myo Zaw,Male,1984-06-26,41,Divorced,Bachelor,Fisherman,2057284.69,Mandalay,2023-03-07,myo.zaw@gmail.com,959907936969,3557,4,2023-08-01,False,0
+557,Myo Zaw,Male,1984-06-26,41,Divorced,Bachelor,Fisherman,2057284.69,Mandalay,2023-03-07,myo.zaw@gmail.com,959907936969,4557,5,2024-11-10,False,0
+557,Myo Zaw,Male,1984-06-26,41,Divorced,Bachelor,Fisherman,2057284.69,Mandalay,2023-03-07,myo.zaw@gmail.com,959907936969,5557,6,2024-09-29,False,0
+557,Myo Zaw,Male,1984-06-26,41,Divorced,Bachelor,Fisherman,2057284.69,Mandalay,2023-03-07,myo.zaw@gmail.com,959907936969,6557,7,2024-05-03,True,1
+557,Myo Zaw,Male,1984-06-26,41,Divorced,Bachelor,Fisherman,2057284.69,Mandalay,2023-03-07,myo.zaw@gmail.com,959907936969,7557,8,2023-09-15,True,1
+557,Myo Zaw,Male,1984-06-26,41,Divorced,Bachelor,Fisherman,2057284.69,Mandalay,2023-03-07,myo.zaw@gmail.com,959907936969,8557,9,2023-07-13,False,0
+557,Myo Zaw,Male,1984-06-26,41,Divorced,Bachelor,Fisherman,2057284.69,Mandalay,2023-03-07,myo.zaw@gmail.com,959907936969,9557,10,2023-06-18,True,1
+580,Naing Aung,Male,1975-01-24,50,Widowed,PhD,Construction Worker,2885752.84,Mandalay,2021-10-02,naing.aung@gmail.com,959484795127,580,1,2024-08-28,True,1
+580,Naing Aung,Male,1975-01-24,50,Widowed,PhD,Construction Worker,2885752.84,Mandalay,2021-10-02,naing.aung@gmail.com,959484795127,1580,2,2024-10-15,True,1
+580,Naing Aung,Male,1975-01-24,50,Widowed,PhD,Construction Worker,2885752.84,Mandalay,2021-10-02,naing.aung@gmail.com,959484795127,2580,3,2024-05-31,True,1
+580,Naing Aung,Male,1975-01-24,50,Widowed,PhD,Construction Worker,2885752.84,Mandalay,2021-10-02,naing.aung@gmail.com,959484795127,3580,4,2023-07-27,False,0
+580,Naing Aung,Male,1975-01-24,50,Widowed,PhD,Construction Worker,2885752.84,Mandalay,2021-10-02,naing.aung@gmail.com,959484795127,4580,5,2024-11-01,True,1
+580,Naing Aung,Male,1975-01-24,50,Widowed,PhD,Construction Worker,2885752.84,Mandalay,2021-10-02,naing.aung@gmail.com,959484795127,5580,6,2024-09-30,True,1
+580,Naing Aung,Male,1975-01-24,50,Widowed,PhD,Construction Worker,2885752.84,Mandalay,2021-10-02,naing.aung@gmail.com,959484795127,6580,7,2024-05-12,False,0
+580,Naing Aung,Male,1975-01-24,50,Widowed,PhD,Construction Worker,2885752.84,Mandalay,2021-10-02,naing.aung@gmail.com,959484795127,7580,8,2023-09-17,False,0
+580,Naing Aung,Male,1975-01-24,50,Widowed,PhD,Construction Worker,2885752.84,Mandalay,2021-10-02,naing.aung@gmail.com,959484795127,8580,9,2023-08-06,False,0
+580,Naing Aung,Male,1975-01-24,50,Widowed,PhD,Construction Worker,2885752.84,Mandalay,2021-10-02,naing.aung@gmail.com,959484795127,9580,10,2023-06-06,True,1
+588,Thet Win,Female,1985-10-10,40,Single,Middle School,Fisherman,2806067.36,Mandalay,2015-08-19,thet.win@gmail.com,959655241644,588,1,2024-09-23,False,0
+588,Thet Win,Female,1985-10-10,40,Single,Middle School,Fisherman,2806067.36,Mandalay,2015-08-19,thet.win@gmail.com,959655241644,1588,2,2024-10-22,False,0
+588,Thet Win,Female,1985-10-10,40,Single,Middle School,Fisherman,2806067.36,Mandalay,2015-08-19,thet.win@gmail.com,959655241644,2588,3,2024-06-06,True,1
+588,Thet Win,Female,1985-10-10,40,Single,Middle School,Fisherman,2806067.36,Mandalay,2015-08-19,thet.win@gmail.com,959655241644,3588,4,2023-08-25,True,1
+588,Thet Win,Female,1985-10-10,40,Single,Middle School,Fisherman,2806067.36,Mandalay,2015-08-19,thet.win@gmail.com,959655241644,4588,5,2024-11-11,True,1
+588,Thet Win,Female,1985-10-10,40,Single,Middle School,Fisherman,2806067.36,Mandalay,2015-08-19,thet.win@gmail.com,959655241644,5588,6,2024-10-14,False,0
+588,Thet Win,Female,1985-10-10,40,Single,Middle School,Fisherman,2806067.36,Mandalay,2015-08-19,thet.win@gmail.com,959655241644,6588,7,2024-04-10,False,0
+588,Thet Win,Female,1985-10-10,40,Single,Middle School,Fisherman,2806067.36,Mandalay,2015-08-19,thet.win@gmail.com,959655241644,7588,8,2023-09-13,False,0
+588,Thet Win,Female,1985-10-10,40,Single,Middle School,Fisherman,2806067.36,Mandalay,2015-08-19,thet.win@gmail.com,959655241644,8588,9,2023-07-22,True,1
+588,Thet Win,Female,1985-10-10,40,Single,Middle School,Fisherman,2806067.36,Mandalay,2015-08-19,thet.win@gmail.com,959655241644,9588,10,2023-06-09,True,1
+590,Hla Oo,Other,1954-05-01,71,Single,Diploma,Tour Guide,1859062.26,Mandalay,2022-12-12,hla.oo@gmail.com,959932355590,590,1,2024-09-08,False,0
+590,Hla Oo,Other,1954-05-01,71,Single,Diploma,Tour Guide,1859062.26,Mandalay,2022-12-12,hla.oo@gmail.com,959932355590,1590,2,2024-10-19,True,1
+590,Hla Oo,Other,1954-05-01,71,Single,Diploma,Tour Guide,1859062.26,Mandalay,2022-12-12,hla.oo@gmail.com,959932355590,2590,3,2024-06-15,True,1
+590,Hla Oo,Other,1954-05-01,71,Single,Diploma,Tour Guide,1859062.26,Mandalay,2022-12-12,hla.oo@gmail.com,959932355590,3590,4,2023-07-27,True,1
+590,Hla Oo,Other,1954-05-01,71,Single,Diploma,Tour Guide,1859062.26,Mandalay,2022-12-12,hla.oo@gmail.com,959932355590,4590,5,2024-10-30,False,0
+590,Hla Oo,Other,1954-05-01,71,Single,Diploma,Tour Guide,1859062.26,Mandalay,2022-12-12,hla.oo@gmail.com,959932355590,5590,6,2024-09-26,False,0
+590,Hla Oo,Other,1954-05-01,71,Single,Diploma,Tour Guide,1859062.26,Mandalay,2022-12-12,hla.oo@gmail.com,959932355590,6590,7,2024-05-11,False,0
+590,Hla Oo,Other,1954-05-01,71,Single,Diploma,Tour Guide,1859062.26,Mandalay,2022-12-12,hla.oo@gmail.com,959932355590,7590,8,2023-09-11,False,0
+590,Hla Oo,Other,1954-05-01,71,Single,Diploma,Tour Guide,1859062.26,Mandalay,2022-12-12,hla.oo@gmail.com,959932355590,8590,9,2023-08-11,True,1
+590,Hla Oo,Other,1954-05-01,71,Single,Diploma,Tour Guide,1859062.26,Mandalay,2022-12-12,hla.oo@gmail.com,959932355590,9590,10,2023-07-05,False,0
+594,Zaw Zaw,Male,1991-01-13,34,Single,High School,Bank Employee,1716348.34,Mandalay,2024-05-15,zaw.zaw@gmail.com,959211312200,594,1,2024-09-16,False,0
+594,Zaw Zaw,Male,1991-01-13,34,Single,High School,Bank Employee,1716348.34,Mandalay,2024-05-15,zaw.zaw@gmail.com,959211312200,1594,2,2024-10-10,False,0
+594,Zaw Zaw,Male,1991-01-13,34,Single,High School,Bank Employee,1716348.34,Mandalay,2024-05-15,zaw.zaw@gmail.com,959211312200,2594,3,2024-05-31,True,1
+594,Zaw Zaw,Male,1991-01-13,34,Single,High School,Bank Employee,1716348.34,Mandalay,2024-05-15,zaw.zaw@gmail.com,959211312200,3594,4,2023-08-17,False,0
+594,Zaw Zaw,Male,1991-01-13,34,Single,High School,Bank Employee,1716348.34,Mandalay,2024-05-15,zaw.zaw@gmail.com,959211312200,4594,5,2024-10-28,True,1
+594,Zaw Zaw,Male,1991-01-13,34,Single,High School,Bank Employee,1716348.34,Mandalay,2024-05-15,zaw.zaw@gmail.com,959211312200,5594,6,2024-10-04,False,0
+594,Zaw Zaw,Male,1991-01-13,34,Single,High School,Bank Employee,1716348.34,Mandalay,2024-05-15,zaw.zaw@gmail.com,959211312200,6594,7,2024-05-09,False,0
+594,Zaw Zaw,Male,1991-01-13,34,Single,High School,Bank Employee,1716348.34,Mandalay,2024-05-15,zaw.zaw@gmail.com,959211312200,7594,8,2023-09-10,True,1
+594,Zaw Zaw,Male,1991-01-13,34,Single,High School,Bank Employee,1716348.34,Mandalay,2024-05-15,zaw.zaw@gmail.com,959211312200,8594,9,2023-07-30,False,0
+594,Zaw Zaw,Male,1991-01-13,34,Single,High School,Bank Employee,1716348.34,Mandalay,2024-05-15,zaw.zaw@gmail.com,959211312200,9594,10,2023-06-13,True,1
+608,Yan Kyaw,Male,1995-12-12,30,Divorced,Master,Bank Employee,659373.18,Mandalay,2018-04-08,yan.kyaw@gmail.com,959230675821,608,1,2024-09-23,True,1
+608,Yan Kyaw,Male,1995-12-12,30,Divorced,Master,Bank Employee,659373.18,Mandalay,2018-04-08,yan.kyaw@gmail.com,959230675821,1608,2,2024-10-30,False,0
+608,Yan Kyaw,Male,1995-12-12,30,Divorced,Master,Bank Employee,659373.18,Mandalay,2018-04-08,yan.kyaw@gmail.com,959230675821,2608,3,2024-05-22,False,0
+608,Yan Kyaw,Male,1995-12-12,30,Divorced,Master,Bank Employee,659373.18,Mandalay,2018-04-08,yan.kyaw@gmail.com,959230675821,3608,4,2023-08-11,True,1
+608,Yan Kyaw,Male,1995-12-12,30,Divorced,Master,Bank Employee,659373.18,Mandalay,2018-04-08,yan.kyaw@gmail.com,959230675821,4608,5,2024-10-31,False,0
+608,Yan Kyaw,Male,1995-12-12,30,Divorced,Master,Bank Employee,659373.18,Mandalay,2018-04-08,yan.kyaw@gmail.com,959230675821,5608,6,2024-09-21,False,0
+608,Yan Kyaw,Male,1995-12-12,30,Divorced,Master,Bank Employee,659373.18,Mandalay,2018-04-08,yan.kyaw@gmail.com,959230675821,6608,7,2024-05-03,True,1
+608,Yan Kyaw,Male,1995-12-12,30,Divorced,Master,Bank Employee,659373.18,Mandalay,2018-04-08,yan.kyaw@gmail.com,959230675821,7608,8,2023-09-15,True,1
+608,Yan Kyaw,Male,1995-12-12,30,Divorced,Master,Bank Employee,659373.18,Mandalay,2018-04-08,yan.kyaw@gmail.com,959230675821,8608,9,2023-07-15,True,1
+608,Yan Kyaw,Male,1995-12-12,30,Divorced,Master,Bank Employee,659373.18,Mandalay,2018-04-08,yan.kyaw@gmail.com,959230675821,9608,10,2023-06-02,True,1
+617,Khin Moe,Other,2001-05-30,24,Widowed,High School,Construction Worker,3370681.77,Mandalay,2022-07-25,khin.moe@gmail.com,959806082302,617,1,2024-09-24,False,0
+617,Khin Moe,Other,2001-05-30,24,Widowed,High School,Construction Worker,3370681.77,Mandalay,2022-07-25,khin.moe@gmail.com,959806082302,1617,2,2024-10-18,False,0
+617,Khin Moe,Other,2001-05-30,24,Widowed,High School,Construction Worker,3370681.77,Mandalay,2022-07-25,khin.moe@gmail.com,959806082302,2617,3,2024-06-23,True,1
+617,Khin Moe,Other,2001-05-30,24,Widowed,High School,Construction Worker,3370681.77,Mandalay,2022-07-25,khin.moe@gmail.com,959806082302,3617,4,2023-07-21,False,0
+617,Khin Moe,Other,2001-05-30,24,Widowed,High School,Construction Worker,3370681.77,Mandalay,2022-07-25,khin.moe@gmail.com,959806082302,4617,5,2024-11-05,True,1
+617,Khin Moe,Other,2001-05-30,24,Widowed,High School,Construction Worker,3370681.77,Mandalay,2022-07-25,khin.moe@gmail.com,959806082302,5617,6,2024-10-23,False,0
+617,Khin Moe,Other,2001-05-30,24,Widowed,High School,Construction Worker,3370681.77,Mandalay,2022-07-25,khin.moe@gmail.com,959806082302,6617,7,2024-05-01,False,0
+617,Khin Moe,Other,2001-05-30,24,Widowed,High School,Construction Worker,3370681.77,Mandalay,2022-07-25,khin.moe@gmail.com,959806082302,7617,8,2023-09-15,True,1
+617,Khin Moe,Other,2001-05-30,24,Widowed,High School,Construction Worker,3370681.77,Mandalay,2022-07-25,khin.moe@gmail.com,959806082302,8617,9,2023-08-13,True,1
+617,Khin Moe,Other,2001-05-30,24,Widowed,High School,Construction Worker,3370681.77,Mandalay,2022-07-25,khin.moe@gmail.com,959806082302,9617,10,2023-07-05,False,0
+628,May Lin,Other,1972-05-07,53,Single,Middle School,Doctor,2111670.85,Mandalay,2020-08-03,may.lin@gmail.com,959920485818,628,1,2024-08-26,False,0
+628,May Lin,Other,1972-05-07,53,Single,Middle School,Doctor,2111670.85,Mandalay,2020-08-03,may.lin@gmail.com,959920485818,1628,2,2024-09-29,True,1
+628,May Lin,Other,1972-05-07,53,Single,Middle School,Doctor,2111670.85,Mandalay,2020-08-03,may.lin@gmail.com,959920485818,2628,3,2024-06-05,False,0
+628,May Lin,Other,1972-05-07,53,Single,Middle School,Doctor,2111670.85,Mandalay,2020-08-03,may.lin@gmail.com,959920485818,3628,4,2023-07-24,False,0
+628,May Lin,Other,1972-05-07,53,Single,Middle School,Doctor,2111670.85,Mandalay,2020-08-03,may.lin@gmail.com,959920485818,4628,5,2024-11-02,True,1
+628,May Lin,Other,1972-05-07,53,Single,Middle School,Doctor,2111670.85,Mandalay,2020-08-03,may.lin@gmail.com,959920485818,5628,6,2024-09-22,False,0
+628,May Lin,Other,1972-05-07,53,Single,Middle School,Doctor,2111670.85,Mandalay,2020-08-03,may.lin@gmail.com,959920485818,6628,7,2024-04-24,False,0
+628,May Lin,Other,1972-05-07,53,Single,Middle School,Doctor,2111670.85,Mandalay,2020-08-03,may.lin@gmail.com,959920485818,7628,8,2023-09-17,True,1
+628,May Lin,Other,1972-05-07,53,Single,Middle School,Doctor,2111670.85,Mandalay,2020-08-03,may.lin@gmail.com,959920485818,8628,9,2023-07-19,False,0
+628,May Lin,Other,1972-05-07,53,Single,Middle School,Doctor,2111670.85,Mandalay,2020-08-03,may.lin@gmail.com,959920485818,9628,10,2023-06-11,False,0
+630,Nu Myint,Female,1995-10-22,30,Single,PhD,Fisherman,2665647.28,Mandalay,2022-02-17,nu.myint@gmail.com,959725661398,630,1,2024-09-24,True,1
+630,Nu Myint,Female,1995-10-22,30,Single,PhD,Fisherman,2665647.28,Mandalay,2022-02-17,nu.myint@gmail.com,959725661398,1630,2,2024-10-22,False,0
+630,Nu Myint,Female,1995-10-22,30,Single,PhD,Fisherman,2665647.28,Mandalay,2022-02-17,nu.myint@gmail.com,959725661398,2630,3,2024-06-10,False,0
+630,Nu Myint,Female,1995-10-22,30,Single,PhD,Fisherman,2665647.28,Mandalay,2022-02-17,nu.myint@gmail.com,959725661398,3630,4,2023-07-18,False,0
+630,Nu Myint,Female,1995-10-22,30,Single,PhD,Fisherman,2665647.28,Mandalay,2022-02-17,nu.myint@gmail.com,959725661398,4630,5,2024-11-01,False,0
+630,Nu Myint,Female,1995-10-22,30,Single,PhD,Fisherman,2665647.28,Mandalay,2022-02-17,nu.myint@gmail.com,959725661398,5630,6,2024-09-16,False,0
+630,Nu Myint,Female,1995-10-22,30,Single,PhD,Fisherman,2665647.28,Mandalay,2022-02-17,nu.myint@gmail.com,959725661398,6630,7,2024-05-02,False,0
+630,Nu Myint,Female,1995-10-22,30,Single,PhD,Fisherman,2665647.28,Mandalay,2022-02-17,nu.myint@gmail.com,959725661398,7630,8,2023-09-09,True,1
+630,Nu Myint,Female,1995-10-22,30,Single,PhD,Fisherman,2665647.28,Mandalay,2022-02-17,nu.myint@gmail.com,959725661398,8630,9,2023-07-21,True,1
+630,Nu Myint,Female,1995-10-22,30,Single,PhD,Fisherman,2665647.28,Mandalay,2022-02-17,nu.myint@gmail.com,959725661398,9630,10,2023-07-05,True,1
+640,Hla Kyaw,Other,1975-07-16,50,Widowed,PhD,Tour Guide,4761452.34,Mandalay,2020-05-01,hla.kyaw@gmail.com,959420971887,640,1,2024-09-01,True,1
+640,Hla Kyaw,Other,1975-07-16,50,Widowed,PhD,Tour Guide,4761452.34,Mandalay,2020-05-01,hla.kyaw@gmail.com,959420971887,1640,2,2024-10-04,False,0
+640,Hla Kyaw,Other,1975-07-16,50,Widowed,PhD,Tour Guide,4761452.34,Mandalay,2020-05-01,hla.kyaw@gmail.com,959420971887,2640,3,2024-06-02,False,0
+640,Hla Kyaw,Other,1975-07-16,50,Widowed,PhD,Tour Guide,4761452.34,Mandalay,2020-05-01,hla.kyaw@gmail.com,959420971887,3640,4,2023-08-09,False,0
+640,Hla Kyaw,Other,1975-07-16,50,Widowed,PhD,Tour Guide,4761452.34,Mandalay,2020-05-01,hla.kyaw@gmail.com,959420971887,4640,5,2024-11-08,True,1
+640,Hla Kyaw,Other,1975-07-16,50,Widowed,PhD,Tour Guide,4761452.34,Mandalay,2020-05-01,hla.kyaw@gmail.com,959420971887,5640,6,2024-10-18,True,1
+640,Hla Kyaw,Other,1975-07-16,50,Widowed,PhD,Tour Guide,4761452.34,Mandalay,2020-05-01,hla.kyaw@gmail.com,959420971887,6640,7,2024-05-05,True,1
+640,Hla Kyaw,Other,1975-07-16,50,Widowed,PhD,Tour Guide,4761452.34,Mandalay,2020-05-01,hla.kyaw@gmail.com,959420971887,7640,8,2023-09-18,True,1
+640,Hla Kyaw,Other,1975-07-16,50,Widowed,PhD,Tour Guide,4761452.34,Mandalay,2020-05-01,hla.kyaw@gmail.com,959420971887,8640,9,2023-07-11,False,0
+640,Hla Kyaw,Other,1975-07-16,50,Widowed,PhD,Tour Guide,4761452.34,Mandalay,2020-05-01,hla.kyaw@gmail.com,959420971887,9640,10,2023-06-25,False,0
+648,Nu Kyaw,Female,1985-11-29,40,Single,Master,Tour Guide,622500.71,Mandalay,2018-04-08,nu.kyaw@gmail.com,959139682844,648,1,2024-09-18,False,0
+648,Nu Kyaw,Female,1985-11-29,40,Single,Master,Tour Guide,622500.71,Mandalay,2018-04-08,nu.kyaw@gmail.com,959139682844,1648,2,2024-10-14,False,0
+648,Nu Kyaw,Female,1985-11-29,40,Single,Master,Tour Guide,622500.71,Mandalay,2018-04-08,nu.kyaw@gmail.com,959139682844,2648,3,2024-06-12,True,1
+648,Nu Kyaw,Female,1985-11-29,40,Single,Master,Tour Guide,622500.71,Mandalay,2018-04-08,nu.kyaw@gmail.com,959139682844,3648,4,2023-08-09,True,1
+648,Nu Kyaw,Female,1985-11-29,40,Single,Master,Tour Guide,622500.71,Mandalay,2018-04-08,nu.kyaw@gmail.com,959139682844,4648,5,2024-10-30,False,0
+648,Nu Kyaw,Female,1985-11-29,40,Single,Master,Tour Guide,622500.71,Mandalay,2018-04-08,nu.kyaw@gmail.com,959139682844,5648,6,2024-10-08,True,1
+648,Nu Kyaw,Female,1985-11-29,40,Single,Master,Tour Guide,622500.71,Mandalay,2018-04-08,nu.kyaw@gmail.com,959139682844,6648,7,2024-05-10,True,1
+648,Nu Kyaw,Female,1985-11-29,40,Single,Master,Tour Guide,622500.71,Mandalay,2018-04-08,nu.kyaw@gmail.com,959139682844,7648,8,2023-09-15,False,0
+648,Nu Kyaw,Female,1985-11-29,40,Single,Master,Tour Guide,622500.71,Mandalay,2018-04-08,nu.kyaw@gmail.com,959139682844,8648,9,2023-07-28,True,1
+648,Nu Kyaw,Female,1985-11-29,40,Single,Master,Tour Guide,622500.71,Mandalay,2018-04-08,nu.kyaw@gmail.com,959139682844,9648,10,2023-06-30,False,0
+650,Yin Myint,Female,1950-06-28,75,Single,High School,Government Employee,2213532.74,Mandalay,2015-08-30,yin.myint@gmail.com,959852044484,650,1,2024-09-06,False,0
+650,Yin Myint,Female,1950-06-28,75,Single,High School,Government Employee,2213532.74,Mandalay,2015-08-30,yin.myint@gmail.com,959852044484,1650,2,2024-11-05,True,1
+650,Yin Myint,Female,1950-06-28,75,Single,High School,Government Employee,2213532.74,Mandalay,2015-08-30,yin.myint@gmail.com,959852044484,2650,3,2024-06-25,True,1
+650,Yin Myint,Female,1950-06-28,75,Single,High School,Government Employee,2213532.74,Mandalay,2015-08-30,yin.myint@gmail.com,959852044484,3650,4,2023-07-19,False,0
+650,Yin Myint,Female,1950-06-28,75,Single,High School,Government Employee,2213532.74,Mandalay,2015-08-30,yin.myint@gmail.com,959852044484,4650,5,2024-11-09,False,0
+650,Yin Myint,Female,1950-06-28,75,Single,High School,Government Employee,2213532.74,Mandalay,2015-08-30,yin.myint@gmail.com,959852044484,5650,6,2024-10-16,False,0
+650,Yin Myint,Female,1950-06-28,75,Single,High School,Government Employee,2213532.74,Mandalay,2015-08-30,yin.myint@gmail.com,959852044484,6650,7,2024-04-10,True,1
+650,Yin Myint,Female,1950-06-28,75,Single,High School,Government Employee,2213532.74,Mandalay,2015-08-30,yin.myint@gmail.com,959852044484,7650,8,2023-09-13,True,1
+650,Yin Myint,Female,1950-06-28,75,Single,High School,Government Employee,2213532.74,Mandalay,2015-08-30,yin.myint@gmail.com,959852044484,8650,9,2023-08-11,False,0
+650,Yin Myint,Female,1950-06-28,75,Single,High School,Government Employee,2213532.74,Mandalay,2015-08-30,yin.myint@gmail.com,959852044484,9650,10,2023-06-13,True,1
+679,Kyaw Aung,Male,1949-07-15,76,Single,Middle School,Government Employee,2166114.24,Mandalay,2019-08-24,kyaw.aung@gmail.com,959256297748,679,1,2024-08-28,False,0
+679,Kyaw Aung,Male,1949-07-15,76,Single,Middle School,Government Employee,2166114.24,Mandalay,2019-08-24,kyaw.aung@gmail.com,959256297748,1679,2,2024-10-22,False,0
+679,Kyaw Aung,Male,1949-07-15,76,Single,Middle School,Government Employee,2166114.24,Mandalay,2019-08-24,kyaw.aung@gmail.com,959256297748,2679,3,2024-06-01,False,0
+679,Kyaw Aung,Male,1949-07-15,76,Single,Middle School,Government Employee,2166114.24,Mandalay,2019-08-24,kyaw.aung@gmail.com,959256297748,3679,4,2023-08-05,True,1
+679,Kyaw Aung,Male,1949-07-15,76,Single,Middle School,Government Employee,2166114.24,Mandalay,2019-08-24,kyaw.aung@gmail.com,959256297748,4679,5,2024-10-28,True,1
+679,Kyaw Aung,Male,1949-07-15,76,Single,Middle School,Government Employee,2166114.24,Mandalay,2019-08-24,kyaw.aung@gmail.com,959256297748,5679,6,2024-09-29,False,0
+679,Kyaw Aung,Male,1949-07-15,76,Single,Middle School,Government Employee,2166114.24,Mandalay,2019-08-24,kyaw.aung@gmail.com,959256297748,6679,7,2024-04-27,True,1
+679,Kyaw Aung,Male,1949-07-15,76,Single,Middle School,Government Employee,2166114.24,Mandalay,2019-08-24,kyaw.aung@gmail.com,959256297748,7679,8,2023-09-14,True,1
+679,Kyaw Aung,Male,1949-07-15,76,Single,Middle School,Government Employee,2166114.24,Mandalay,2019-08-24,kyaw.aung@gmail.com,959256297748,8679,9,2023-08-11,False,0
+679,Kyaw Aung,Male,1949-07-15,76,Single,Middle School,Government Employee,2166114.24,Mandalay,2019-08-24,kyaw.aung@gmail.com,959256297748,9679,10,2023-06-20,False,0
+680,Win Hlaing,Male,2004-08-21,21,Single,Primary,Doctor,2762719.12,Mandalay,2023-03-11,win.hlaing@gmail.com,959717376180,680,1,2024-08-27,False,0
+680,Win Hlaing,Male,2004-08-21,21,Single,Primary,Doctor,2762719.12,Mandalay,2023-03-11,win.hlaing@gmail.com,959717376180,1680,2,2024-10-31,True,1
+680,Win Hlaing,Male,2004-08-21,21,Single,Primary,Doctor,2762719.12,Mandalay,2023-03-11,win.hlaing@gmail.com,959717376180,2680,3,2024-06-11,True,1
+680,Win Hlaing,Male,2004-08-21,21,Single,Primary,Doctor,2762719.12,Mandalay,2023-03-11,win.hlaing@gmail.com,959717376180,3680,4,2023-08-24,False,0
+680,Win Hlaing,Male,2004-08-21,21,Single,Primary,Doctor,2762719.12,Mandalay,2023-03-11,win.hlaing@gmail.com,959717376180,4680,5,2024-11-12,False,0
+680,Win Hlaing,Male,2004-08-21,21,Single,Primary,Doctor,2762719.12,Mandalay,2023-03-11,win.hlaing@gmail.com,959717376180,5680,6,2024-09-23,False,0
+680,Win Hlaing,Male,2004-08-21,21,Single,Primary,Doctor,2762719.12,Mandalay,2023-03-11,win.hlaing@gmail.com,959717376180,6680,7,2024-04-05,False,0
+680,Win Hlaing,Male,2004-08-21,21,Single,Primary,Doctor,2762719.12,Mandalay,2023-03-11,win.hlaing@gmail.com,959717376180,7680,8,2023-09-18,True,1
+680,Win Hlaing,Male,2004-08-21,21,Single,Primary,Doctor,2762719.12,Mandalay,2023-03-11,win.hlaing@gmail.com,959717376180,8680,9,2023-07-12,False,0
+680,Win Hlaing,Male,2004-08-21,21,Single,Primary,Doctor,2762719.12,Mandalay,2023-03-11,win.hlaing@gmail.com,959717376180,9680,10,2023-06-05,False,0
+716,Yin Lin,Other,2003-08-15,22,Divorced,Primary,Engineer,1337397.09,Mandalay,2019-10-14,yin.lin@gmail.com,959547513130,716,1,2024-08-22,False,0
+716,Yin Lin,Other,2003-08-15,22,Divorced,Primary,Engineer,1337397.09,Mandalay,2019-10-14,yin.lin@gmail.com,959547513130,1716,2,2024-09-25,True,1
+716,Yin Lin,Other,2003-08-15,22,Divorced,Primary,Engineer,1337397.09,Mandalay,2019-10-14,yin.lin@gmail.com,959547513130,2716,3,2024-06-20,False,0
+716,Yin Lin,Other,2003-08-15,22,Divorced,Primary,Engineer,1337397.09,Mandalay,2019-10-14,yin.lin@gmail.com,959547513130,3716,4,2023-08-03,False,0
+716,Yin Lin,Other,2003-08-15,22,Divorced,Primary,Engineer,1337397.09,Mandalay,2019-10-14,yin.lin@gmail.com,959547513130,4716,5,2024-11-01,True,1
+716,Yin Lin,Other,2003-08-15,22,Divorced,Primary,Engineer,1337397.09,Mandalay,2019-10-14,yin.lin@gmail.com,959547513130,5716,6,2024-10-15,False,0
+716,Yin Lin,Other,2003-08-15,22,Divorced,Primary,Engineer,1337397.09,Mandalay,2019-10-14,yin.lin@gmail.com,959547513130,6716,7,2024-04-20,True,1
+716,Yin Lin,Other,2003-08-15,22,Divorced,Primary,Engineer,1337397.09,Mandalay,2019-10-14,yin.lin@gmail.com,959547513130,7716,8,2023-09-10,True,1
+716,Yin Lin,Other,2003-08-15,22,Divorced,Primary,Engineer,1337397.09,Mandalay,2019-10-14,yin.lin@gmail.com,959547513130,8716,9,2023-07-27,False,0
+716,Yin Lin,Other,2003-08-15,22,Divorced,Primary,Engineer,1337397.09,Mandalay,2019-10-14,yin.lin@gmail.com,959547513130,9716,10,2023-06-20,True,1
+729,Min Zaw,Male,1991-05-16,34,Married,Middle School,Merchant,4112048.91,Mandalay,2021-07-30,min.zaw@gmail.com,959715699661,729,1,2024-09-05,True,1
+729,Min Zaw,Male,1991-05-16,34,Married,Middle School,Merchant,4112048.91,Mandalay,2021-07-30,min.zaw@gmail.com,959715699661,1729,2,2024-09-27,True,1
+729,Min Zaw,Male,1991-05-16,34,Married,Middle School,Merchant,4112048.91,Mandalay,2021-07-30,min.zaw@gmail.com,959715699661,2729,3,2024-05-31,True,1
+729,Min Zaw,Male,1991-05-16,34,Married,Middle School,Merchant,4112048.91,Mandalay,2021-07-30,min.zaw@gmail.com,959715699661,3729,4,2023-08-27,True,1
+729,Min Zaw,Male,1991-05-16,34,Married,Middle School,Merchant,4112048.91,Mandalay,2021-07-30,min.zaw@gmail.com,959715699661,4729,5,2024-11-13,True,1
+729,Min Zaw,Male,1991-05-16,34,Married,Middle School,Merchant,4112048.91,Mandalay,2021-07-30,min.zaw@gmail.com,959715699661,5729,6,2024-10-08,True,1
+729,Min Zaw,Male,1991-05-16,34,Married,Middle School,Merchant,4112048.91,Mandalay,2021-07-30,min.zaw@gmail.com,959715699661,6729,7,2024-04-23,True,1
+729,Min Zaw,Male,1991-05-16,34,Married,Middle School,Merchant,4112048.91,Mandalay,2021-07-30,min.zaw@gmail.com,959715699661,7729,8,2023-09-18,False,0
+729,Min Zaw,Male,1991-05-16,34,Married,Middle School,Merchant,4112048.91,Mandalay,2021-07-30,min.zaw@gmail.com,959715699661,8729,9,2023-07-19,False,0
+729,Min Zaw,Male,1991-05-16,34,Married,Middle School,Merchant,4112048.91,Mandalay,2021-07-30,min.zaw@gmail.com,959715699661,9729,10,2023-06-02,False,0
+732,Hla Htun,Female,2002-06-01,23,Divorced,High School,Doctor,2257652.05,Mandalay,2020-11-19,hla.htun@gmail.com,959637207035,732,1,2024-09-13,True,1
+732,Hla Htun,Female,2002-06-01,23,Divorced,High School,Doctor,2257652.05,Mandalay,2020-11-19,hla.htun@gmail.com,959637207035,1732,2,2024-10-24,False,0
+732,Hla Htun,Female,2002-06-01,23,Divorced,High School,Doctor,2257652.05,Mandalay,2020-11-19,hla.htun@gmail.com,959637207035,2732,3,2024-06-24,False,0
+732,Hla Htun,Female,2002-06-01,23,Divorced,High School,Doctor,2257652.05,Mandalay,2020-11-19,hla.htun@gmail.com,959637207035,3732,4,2023-08-01,True,1
+732,Hla Htun,Female,2002-06-01,23,Divorced,High School,Doctor,2257652.05,Mandalay,2020-11-19,hla.htun@gmail.com,959637207035,4732,5,2024-11-08,False,0
+732,Hla Htun,Female,2002-06-01,23,Divorced,High School,Doctor,2257652.05,Mandalay,2020-11-19,hla.htun@gmail.com,959637207035,5732,6,2024-10-13,False,0
+732,Hla Htun,Female,2002-06-01,23,Divorced,High School,Doctor,2257652.05,Mandalay,2020-11-19,hla.htun@gmail.com,959637207035,6732,7,2024-04-28,False,0
+732,Hla Htun,Female,2002-06-01,23,Divorced,High School,Doctor,2257652.05,Mandalay,2020-11-19,hla.htun@gmail.com,959637207035,7732,8,2023-09-13,False,0
+732,Hla Htun,Female,2002-06-01,23,Divorced,High School,Doctor,2257652.05,Mandalay,2020-11-19,hla.htun@gmail.com,959637207035,8732,9,2023-08-08,False,0
+732,Hla Htun,Female,2002-06-01,23,Divorced,High School,Doctor,2257652.05,Mandalay,2020-11-19,hla.htun@gmail.com,959637207035,9732,10,2023-06-09,False,0
+749,Aung Aung,Male,1952-09-28,73,Widowed,Middle School,Doctor,2690139.56,Mandalay,2015-08-26,aung.aung@gmail.com,959810448253,749,1,2024-08-22,False,0
+749,Aung Aung,Male,1952-09-28,73,Widowed,Middle School,Doctor,2690139.56,Mandalay,2015-08-26,aung.aung@gmail.com,959810448253,1749,2,2024-11-03,True,1
+749,Aung Aung,Male,1952-09-28,73,Widowed,Middle School,Doctor,2690139.56,Mandalay,2015-08-26,aung.aung@gmail.com,959810448253,2749,3,2024-06-11,False,0
+749,Aung Aung,Male,1952-09-28,73,Widowed,Middle School,Doctor,2690139.56,Mandalay,2015-08-26,aung.aung@gmail.com,959810448253,3749,4,2023-08-13,False,0
+749,Aung Aung,Male,1952-09-28,73,Widowed,Middle School,Doctor,2690139.56,Mandalay,2015-08-26,aung.aung@gmail.com,959810448253,4749,5,2024-11-13,True,1
+749,Aung Aung,Male,1952-09-28,73,Widowed,Middle School,Doctor,2690139.56,Mandalay,2015-08-26,aung.aung@gmail.com,959810448253,5749,6,2024-09-26,True,1
+749,Aung Aung,Male,1952-09-28,73,Widowed,Middle School,Doctor,2690139.56,Mandalay,2015-08-26,aung.aung@gmail.com,959810448253,6749,7,2024-04-09,True,1
+749,Aung Aung,Male,1952-09-28,73,Widowed,Middle School,Doctor,2690139.56,Mandalay,2015-08-26,aung.aung@gmail.com,959810448253,7749,8,2023-09-11,True,1
+749,Aung Aung,Male,1952-09-28,73,Widowed,Middle School,Doctor,2690139.56,Mandalay,2015-08-26,aung.aung@gmail.com,959810448253,8749,9,2023-08-12,False,0
+749,Aung Aung,Male,1952-09-28,73,Widowed,Middle School,Doctor,2690139.56,Mandalay,2015-08-26,aung.aung@gmail.com,959810448253,9749,10,2023-06-29,False,0
+754,Thandar Kyaw,Other,1988-07-27,37,Married,High School,Doctor,3387579.27,Mandalay,2024-05-07,thandar.kyaw@gmail.com,959846186031,754,1,2024-08-25,True,1
+754,Thandar Kyaw,Other,1988-07-27,37,Married,High School,Doctor,3387579.27,Mandalay,2024-05-07,thandar.kyaw@gmail.com,959846186031,1754,2,2024-10-27,True,1
+754,Thandar Kyaw,Other,1988-07-27,37,Married,High School,Doctor,3387579.27,Mandalay,2024-05-07,thandar.kyaw@gmail.com,959846186031,2754,3,2024-06-18,True,1
+754,Thandar Kyaw,Other,1988-07-27,37,Married,High School,Doctor,3387579.27,Mandalay,2024-05-07,thandar.kyaw@gmail.com,959846186031,3754,4,2023-08-12,True,1
+754,Thandar Kyaw,Other,1988-07-27,37,Married,High School,Doctor,3387579.27,Mandalay,2024-05-07,thandar.kyaw@gmail.com,959846186031,4754,5,2024-11-09,False,0
+754,Thandar Kyaw,Other,1988-07-27,37,Married,High School,Doctor,3387579.27,Mandalay,2024-05-07,thandar.kyaw@gmail.com,959846186031,5754,6,2024-10-13,True,1
+754,Thandar Kyaw,Other,1988-07-27,37,Married,High School,Doctor,3387579.27,Mandalay,2024-05-07,thandar.kyaw@gmail.com,959846186031,6754,7,2024-04-14,True,1
+754,Thandar Kyaw,Other,1988-07-27,37,Married,High School,Doctor,3387579.27,Mandalay,2024-05-07,thandar.kyaw@gmail.com,959846186031,7754,8,2023-09-15,False,0
+754,Thandar Kyaw,Other,1988-07-27,37,Married,High School,Doctor,3387579.27,Mandalay,2024-05-07,thandar.kyaw@gmail.com,959846186031,8754,9,2023-07-14,True,1
+754,Thandar Kyaw,Other,1988-07-27,37,Married,High School,Doctor,3387579.27,Mandalay,2024-05-07,thandar.kyaw@gmail.com,959846186031,9754,10,2023-06-26,True,1
+758,Thura Oo,Male,1973-01-18,52,Married,High School,Teacher,2919499.4,Mandalay,2023-02-24,thura.oo@gmail.com,959793829762,758,1,2024-09-11,True,1
+758,Thura Oo,Male,1973-01-18,52,Married,High School,Teacher,2919499.4,Mandalay,2023-02-24,thura.oo@gmail.com,959793829762,1758,2,2024-09-30,False,0
+758,Thura Oo,Male,1973-01-18,52,Married,High School,Teacher,2919499.4,Mandalay,2023-02-24,thura.oo@gmail.com,959793829762,2758,3,2024-06-14,False,0
+758,Thura Oo,Male,1973-01-18,52,Married,High School,Teacher,2919499.4,Mandalay,2023-02-24,thura.oo@gmail.com,959793829762,3758,4,2023-08-13,False,0
+758,Thura Oo,Male,1973-01-18,52,Married,High School,Teacher,2919499.4,Mandalay,2023-02-24,thura.oo@gmail.com,959793829762,4758,5,2024-10-31,True,1
+758,Thura Oo,Male,1973-01-18,52,Married,High School,Teacher,2919499.4,Mandalay,2023-02-24,thura.oo@gmail.com,959793829762,5758,6,2024-10-03,True,1
+758,Thura Oo,Male,1973-01-18,52,Married,High School,Teacher,2919499.4,Mandalay,2023-02-24,thura.oo@gmail.com,959793829762,6758,7,2024-04-10,True,1
+758,Thura Oo,Male,1973-01-18,52,Married,High School,Teacher,2919499.4,Mandalay,2023-02-24,thura.oo@gmail.com,959793829762,7758,8,2023-09-18,True,1
+758,Thura Oo,Male,1973-01-18,52,Married,High School,Teacher,2919499.4,Mandalay,2023-02-24,thura.oo@gmail.com,959793829762,8758,9,2023-07-14,False,0
+758,Thura Oo,Male,1973-01-18,52,Married,High School,Teacher,2919499.4,Mandalay,2023-02-24,thura.oo@gmail.com,959793829762,9758,10,2023-06-28,True,1
+775,Hla Win,Other,1989-12-15,36,Single,Master,Driver,3280140.37,Mandalay,2021-12-20,hla.win@gmail.com,959763187466,775,1,2024-08-27,True,1
+775,Hla Win,Other,1989-12-15,36,Single,Master,Driver,3280140.37,Mandalay,2021-12-20,hla.win@gmail.com,959763187466,1775,2,2024-10-13,True,1
+775,Hla Win,Other,1989-12-15,36,Single,Master,Driver,3280140.37,Mandalay,2021-12-20,hla.win@gmail.com,959763187466,2775,3,2024-05-22,True,1
+775,Hla Win,Other,1989-12-15,36,Single,Master,Driver,3280140.37,Mandalay,2021-12-20,hla.win@gmail.com,959763187466,3775,4,2023-08-16,False,0
+775,Hla Win,Other,1989-12-15,36,Single,Master,Driver,3280140.37,Mandalay,2021-12-20,hla.win@gmail.com,959763187466,4775,5,2024-11-10,False,0
+775,Hla Win,Other,1989-12-15,36,Single,Master,Driver,3280140.37,Mandalay,2021-12-20,hla.win@gmail.com,959763187466,5775,6,2024-10-26,False,0
+775,Hla Win,Other,1989-12-15,36,Single,Master,Driver,3280140.37,Mandalay,2021-12-20,hla.win@gmail.com,959763187466,6775,7,2024-04-09,True,1
+775,Hla Win,Other,1989-12-15,36,Single,Master,Driver,3280140.37,Mandalay,2021-12-20,hla.win@gmail.com,959763187466,7775,8,2023-09-16,False,0
+775,Hla Win,Other,1989-12-15,36,Single,Master,Driver,3280140.37,Mandalay,2021-12-20,hla.win@gmail.com,959763187466,8775,9,2023-07-30,True,1
+775,Hla Win,Other,1989-12-15,36,Single,Master,Driver,3280140.37,Mandalay,2021-12-20,hla.win@gmail.com,959763187466,9775,10,2023-06-30,False,0
+787,Yin Hlaing,Other,1996-05-25,29,Married,Master,Business Owner,3176652.6,Mandalay,2023-06-05,yin.hlaing@gmail.com,959356393077,787,1,2024-08-31,False,0
+787,Yin Hlaing,Other,1996-05-25,29,Married,Master,Business Owner,3176652.6,Mandalay,2023-06-05,yin.hlaing@gmail.com,959356393077,1787,2,2024-11-02,False,0
+787,Yin Hlaing,Other,1996-05-25,29,Married,Master,Business Owner,3176652.6,Mandalay,2023-06-05,yin.hlaing@gmail.com,959356393077,2787,3,2024-05-24,True,1
+787,Yin Hlaing,Other,1996-05-25,29,Married,Master,Business Owner,3176652.6,Mandalay,2023-06-05,yin.hlaing@gmail.com,959356393077,3787,4,2023-07-20,True,1
+787,Yin Hlaing,Other,1996-05-25,29,Married,Master,Business Owner,3176652.6,Mandalay,2023-06-05,yin.hlaing@gmail.com,959356393077,4787,5,2024-11-03,False,0
+787,Yin Hlaing,Other,1996-05-25,29,Married,Master,Business Owner,3176652.6,Mandalay,2023-06-05,yin.hlaing@gmail.com,959356393077,5787,6,2024-10-15,False,0
+787,Yin Hlaing,Other,1996-05-25,29,Married,Master,Business Owner,3176652.6,Mandalay,2023-06-05,yin.hlaing@gmail.com,959356393077,6787,7,2024-04-05,False,0
+787,Yin Hlaing,Other,1996-05-25,29,Married,Master,Business Owner,3176652.6,Mandalay,2023-06-05,yin.hlaing@gmail.com,959356393077,7787,8,2023-09-12,False,0
+787,Yin Hlaing,Other,1996-05-25,29,Married,Master,Business Owner,3176652.6,Mandalay,2023-06-05,yin.hlaing@gmail.com,959356393077,8787,9,2023-07-11,True,1
+787,Yin Hlaing,Other,1996-05-25,29,Married,Master,Business Owner,3176652.6,Mandalay,2023-06-05,yin.hlaing@gmail.com,959356393077,9787,10,2023-06-20,True,1
+793,Nilar Htun,Other,1989-07-24,36,Married,Master,Merchant,1495762.35,Mandalay,2021-03-17,nilar.htun@gmail.com,959465948670,793,1,2024-09-08,False,0
+793,Nilar Htun,Other,1989-07-24,36,Married,Master,Merchant,1495762.35,Mandalay,2021-03-17,nilar.htun@gmail.com,959465948670,1793,2,2024-09-24,False,0
+793,Nilar Htun,Other,1989-07-24,36,Married,Master,Merchant,1495762.35,Mandalay,2021-03-17,nilar.htun@gmail.com,959465948670,2793,3,2024-05-22,True,1
+793,Nilar Htun,Other,1989-07-24,36,Married,Master,Merchant,1495762.35,Mandalay,2021-03-17,nilar.htun@gmail.com,959465948670,3793,4,2023-08-21,False,0
+793,Nilar Htun,Other,1989-07-24,36,Married,Master,Merchant,1495762.35,Mandalay,2021-03-17,nilar.htun@gmail.com,959465948670,4793,5,2024-11-03,True,1
+793,Nilar Htun,Other,1989-07-24,36,Married,Master,Merchant,1495762.35,Mandalay,2021-03-17,nilar.htun@gmail.com,959465948670,5793,6,2024-10-27,False,0
+793,Nilar Htun,Other,1989-07-24,36,Married,Master,Merchant,1495762.35,Mandalay,2021-03-17,nilar.htun@gmail.com,959465948670,6793,7,2024-05-09,False,0
+793,Nilar Htun,Other,1989-07-24,36,Married,Master,Merchant,1495762.35,Mandalay,2021-03-17,nilar.htun@gmail.com,959465948670,7793,8,2023-09-18,False,0
+793,Nilar Htun,Other,1989-07-24,36,Married,Master,Merchant,1495762.35,Mandalay,2021-03-17,nilar.htun@gmail.com,959465948670,8793,9,2023-08-01,False,0
+793,Nilar Htun,Other,1989-07-24,36,Married,Master,Merchant,1495762.35,Mandalay,2021-03-17,nilar.htun@gmail.com,959465948670,9793,10,2023-07-08,True,1
+809,May Lin,Other,1976-09-11,49,Single,High School,Government Employee,1040231.27,Mandalay,2019-03-25,may.lin@gmail.com,959770130171,809,1,2024-09-28,True,1
+809,May Lin,Other,1976-09-11,49,Single,High School,Government Employee,1040231.27,Mandalay,2019-03-25,may.lin@gmail.com,959770130171,1809,2,2024-10-11,True,1
+809,May Lin,Other,1976-09-11,49,Single,High School,Government Employee,1040231.27,Mandalay,2019-03-25,may.lin@gmail.com,959770130171,2809,3,2024-06-11,True,1
+809,May Lin,Other,1976-09-11,49,Single,High School,Government Employee,1040231.27,Mandalay,2019-03-25,may.lin@gmail.com,959770130171,3809,4,2023-07-23,False,0
+809,May Lin,Other,1976-09-11,49,Single,High School,Government Employee,1040231.27,Mandalay,2019-03-25,may.lin@gmail.com,959770130171,4809,5,2024-11-12,True,1
+809,May Lin,Other,1976-09-11,49,Single,High School,Government Employee,1040231.27,Mandalay,2019-03-25,may.lin@gmail.com,959770130171,5809,6,2024-10-25,True,1
+809,May Lin,Other,1976-09-11,49,Single,High School,Government Employee,1040231.27,Mandalay,2019-03-25,may.lin@gmail.com,959770130171,6809,7,2024-04-12,True,1
+809,May Lin,Other,1976-09-11,49,Single,High School,Government Employee,1040231.27,Mandalay,2019-03-25,may.lin@gmail.com,959770130171,7809,8,2023-09-10,False,0
+809,May Lin,Other,1976-09-11,49,Single,High School,Government Employee,1040231.27,Mandalay,2019-03-25,may.lin@gmail.com,959770130171,8809,9,2023-07-11,True,1
+809,May Lin,Other,1976-09-11,49,Single,High School,Government Employee,1040231.27,Mandalay,2019-03-25,may.lin@gmail.com,959770130171,9809,10,2023-06-06,False,0
+819,Min Zaw,Male,1987-06-29,38,Married,Bachelor,Teacher,2206724.12,Mandalay,2021-12-01,min.zaw@gmail.com,959971688606,819,1,2024-09-14,False,0
+819,Min Zaw,Male,1987-06-29,38,Married,Bachelor,Teacher,2206724.12,Mandalay,2021-12-01,min.zaw@gmail.com,959971688606,1819,2,2024-10-18,True,1
+819,Min Zaw,Male,1987-06-29,38,Married,Bachelor,Teacher,2206724.12,Mandalay,2021-12-01,min.zaw@gmail.com,959971688606,2819,3,2024-06-23,True,1
+819,Min Zaw,Male,1987-06-29,38,Married,Bachelor,Teacher,2206724.12,Mandalay,2021-12-01,min.zaw@gmail.com,959971688606,3819,4,2023-07-28,False,0
+819,Min Zaw,Male,1987-06-29,38,Married,Bachelor,Teacher,2206724.12,Mandalay,2021-12-01,min.zaw@gmail.com,959971688606,4819,5,2024-10-30,False,0
+819,Min Zaw,Male,1987-06-29,38,Married,Bachelor,Teacher,2206724.12,Mandalay,2021-12-01,min.zaw@gmail.com,959971688606,5819,6,2024-10-16,False,0
+819,Min Zaw,Male,1987-06-29,38,Married,Bachelor,Teacher,2206724.12,Mandalay,2021-12-01,min.zaw@gmail.com,959971688606,6819,7,2024-04-04,True,1
+819,Min Zaw,Male,1987-06-29,38,Married,Bachelor,Teacher,2206724.12,Mandalay,2021-12-01,min.zaw@gmail.com,959971688606,7819,8,2023-09-17,True,1
+819,Min Zaw,Male,1987-06-29,38,Married,Bachelor,Teacher,2206724.12,Mandalay,2021-12-01,min.zaw@gmail.com,959971688606,8819,9,2023-07-24,False,0
+819,Min Zaw,Male,1987-06-29,38,Married,Bachelor,Teacher,2206724.12,Mandalay,2021-12-01,min.zaw@gmail.com,959971688606,9819,10,2023-06-19,False,0
+824,Hla Lin,Other,1974-06-02,51,Married,High School,Doctor,627155.88,Mandalay,2021-11-26,hla.lin@gmail.com,959202213754,824,1,2024-08-25,False,0
+824,Hla Lin,Other,1974-06-02,51,Married,High School,Doctor,627155.88,Mandalay,2021-11-26,hla.lin@gmail.com,959202213754,1824,2,2024-10-08,False,0
+824,Hla Lin,Other,1974-06-02,51,Married,High School,Doctor,627155.88,Mandalay,2021-11-26,hla.lin@gmail.com,959202213754,2824,3,2024-06-15,False,0
+824,Hla Lin,Other,1974-06-02,51,Married,High School,Doctor,627155.88,Mandalay,2021-11-26,hla.lin@gmail.com,959202213754,3824,4,2023-07-25,True,1
+824,Hla Lin,Other,1974-06-02,51,Married,High School,Doctor,627155.88,Mandalay,2021-11-26,hla.lin@gmail.com,959202213754,4824,5,2024-11-12,True,1
+824,Hla Lin,Other,1974-06-02,51,Married,High School,Doctor,627155.88,Mandalay,2021-11-26,hla.lin@gmail.com,959202213754,5824,6,2024-10-16,False,0
+824,Hla Lin,Other,1974-06-02,51,Married,High School,Doctor,627155.88,Mandalay,2021-11-26,hla.lin@gmail.com,959202213754,6824,7,2024-04-19,True,1
+824,Hla Lin,Other,1974-06-02,51,Married,High School,Doctor,627155.88,Mandalay,2021-11-26,hla.lin@gmail.com,959202213754,7824,8,2023-09-13,False,0
+824,Hla Lin,Other,1974-06-02,51,Married,High School,Doctor,627155.88,Mandalay,2021-11-26,hla.lin@gmail.com,959202213754,8824,9,2023-07-31,True,1
+824,Hla Lin,Other,1974-06-02,51,Married,High School,Doctor,627155.88,Mandalay,2021-11-26,hla.lin@gmail.com,959202213754,9824,10,2023-06-27,True,1
+825,Nu Moe,Other,2006-03-21,19,Divorced,Diploma,Bank Employee,3402774.37,Mandalay,2021-04-25,nu.moe@gmail.com,959855596380,825,1,2024-09-25,True,1
+825,Nu Moe,Other,2006-03-21,19,Divorced,Diploma,Bank Employee,3402774.37,Mandalay,2021-04-25,nu.moe@gmail.com,959855596380,1825,2,2024-10-21,False,0
+825,Nu Moe,Other,2006-03-21,19,Divorced,Diploma,Bank Employee,3402774.37,Mandalay,2021-04-25,nu.moe@gmail.com,959855596380,2825,3,2024-06-16,True,1
+825,Nu Moe,Other,2006-03-21,19,Divorced,Diploma,Bank Employee,3402774.37,Mandalay,2021-04-25,nu.moe@gmail.com,959855596380,3825,4,2023-07-22,True,1
+825,Nu Moe,Other,2006-03-21,19,Divorced,Diploma,Bank Employee,3402774.37,Mandalay,2021-04-25,nu.moe@gmail.com,959855596380,4825,5,2024-11-01,True,1
+825,Nu Moe,Other,2006-03-21,19,Divorced,Diploma,Bank Employee,3402774.37,Mandalay,2021-04-25,nu.moe@gmail.com,959855596380,5825,6,2024-10-22,True,1
+825,Nu Moe,Other,2006-03-21,19,Divorced,Diploma,Bank Employee,3402774.37,Mandalay,2021-04-25,nu.moe@gmail.com,959855596380,6825,7,2024-04-26,False,0
+825,Nu Moe,Other,2006-03-21,19,Divorced,Diploma,Bank Employee,3402774.37,Mandalay,2021-04-25,nu.moe@gmail.com,959855596380,7825,8,2023-09-14,True,1
+825,Nu Moe,Other,2006-03-21,19,Divorced,Diploma,Bank Employee,3402774.37,Mandalay,2021-04-25,nu.moe@gmail.com,959855596380,8825,9,2023-08-01,True,1
+825,Nu Moe,Other,2006-03-21,19,Divorced,Diploma,Bank Employee,3402774.37,Mandalay,2021-04-25,nu.moe@gmail.com,959855596380,9825,10,2023-06-26,True,1
+839,Naing Lin,Male,1997-07-08,28,Divorced,Primary,Construction Worker,2563204.67,Mandalay,2021-02-24,naing.lin@gmail.com,959835365053,839,1,2024-09-18,True,1
+839,Naing Lin,Male,1997-07-08,28,Divorced,Primary,Construction Worker,2563204.67,Mandalay,2021-02-24,naing.lin@gmail.com,959835365053,1839,2,2024-10-03,True,1
+839,Naing Lin,Male,1997-07-08,28,Divorced,Primary,Construction Worker,2563204.67,Mandalay,2021-02-24,naing.lin@gmail.com,959835365053,2839,3,2024-06-15,True,1
+839,Naing Lin,Male,1997-07-08,28,Divorced,Primary,Construction Worker,2563204.67,Mandalay,2021-02-24,naing.lin@gmail.com,959835365053,3839,4,2023-08-23,False,0
+839,Naing Lin,Male,1997-07-08,28,Divorced,Primary,Construction Worker,2563204.67,Mandalay,2021-02-24,naing.lin@gmail.com,959835365053,4839,5,2024-11-13,True,1
+839,Naing Lin,Male,1997-07-08,28,Divorced,Primary,Construction Worker,2563204.67,Mandalay,2021-02-24,naing.lin@gmail.com,959835365053,5839,6,2024-10-27,True,1
+839,Naing Lin,Male,1997-07-08,28,Divorced,Primary,Construction Worker,2563204.67,Mandalay,2021-02-24,naing.lin@gmail.com,959835365053,6839,7,2024-04-05,True,1
+839,Naing Lin,Male,1997-07-08,28,Divorced,Primary,Construction Worker,2563204.67,Mandalay,2021-02-24,naing.lin@gmail.com,959835365053,7839,8,2023-09-16,False,0
+839,Naing Lin,Male,1997-07-08,28,Divorced,Primary,Construction Worker,2563204.67,Mandalay,2021-02-24,naing.lin@gmail.com,959835365053,8839,9,2023-07-30,False,0
+839,Naing Lin,Male,1997-07-08,28,Divorced,Primary,Construction Worker,2563204.67,Mandalay,2021-02-24,naing.lin@gmail.com,959835365053,9839,10,2023-06-02,False,0
+857,Thet Htun,Female,1950-10-02,75,Single,PhD,Teacher,356218.63,Mandalay,2017-02-12,thet.htun@gmail.com,959226962200,857,1,2024-08-29,False,0
+857,Thet Htun,Female,1950-10-02,75,Single,PhD,Teacher,356218.63,Mandalay,2017-02-12,thet.htun@gmail.com,959226962200,1857,2,2024-11-03,False,0
+857,Thet Htun,Female,1950-10-02,75,Single,PhD,Teacher,356218.63,Mandalay,2017-02-12,thet.htun@gmail.com,959226962200,2857,3,2024-06-20,False,0
+857,Thet Htun,Female,1950-10-02,75,Single,PhD,Teacher,356218.63,Mandalay,2017-02-12,thet.htun@gmail.com,959226962200,3857,4,2023-08-04,True,1
+857,Thet Htun,Female,1950-10-02,75,Single,PhD,Teacher,356218.63,Mandalay,2017-02-12,thet.htun@gmail.com,959226962200,4857,5,2024-11-09,True,1
+857,Thet Htun,Female,1950-10-02,75,Single,PhD,Teacher,356218.63,Mandalay,2017-02-12,thet.htun@gmail.com,959226962200,5857,6,2024-09-18,True,1
+857,Thet Htun,Female,1950-10-02,75,Single,PhD,Teacher,356218.63,Mandalay,2017-02-12,thet.htun@gmail.com,959226962200,6857,7,2024-04-14,True,1
+857,Thet Htun,Female,1950-10-02,75,Single,PhD,Teacher,356218.63,Mandalay,2017-02-12,thet.htun@gmail.com,959226962200,7857,8,2023-09-11,False,0
+857,Thet Htun,Female,1950-10-02,75,Single,PhD,Teacher,356218.63,Mandalay,2017-02-12,thet.htun@gmail.com,959226962200,8857,9,2023-08-03,True,1
+857,Thet Htun,Female,1950-10-02,75,Single,PhD,Teacher,356218.63,Mandalay,2017-02-12,thet.htun@gmail.com,959226962200,9857,10,2023-06-12,True,1
+861,Zaw Oo,Male,1952-04-12,73,Divorced,High School,Driver,3404245.88,Mandalay,2015-09-17,zaw.oo@gmail.com,959807722279,861,1,2024-09-05,True,1
+861,Zaw Oo,Male,1952-04-12,73,Divorced,High School,Driver,3404245.88,Mandalay,2015-09-17,zaw.oo@gmail.com,959807722279,1861,2,2024-10-04,False,0
+861,Zaw Oo,Male,1952-04-12,73,Divorced,High School,Driver,3404245.88,Mandalay,2015-09-17,zaw.oo@gmail.com,959807722279,2861,3,2024-06-14,True,1
+861,Zaw Oo,Male,1952-04-12,73,Divorced,High School,Driver,3404245.88,Mandalay,2015-09-17,zaw.oo@gmail.com,959807722279,3861,4,2023-07-27,False,0
+861,Zaw Oo,Male,1952-04-12,73,Divorced,High School,Driver,3404245.88,Mandalay,2015-09-17,zaw.oo@gmail.com,959807722279,4861,5,2024-10-28,False,0
+861,Zaw Oo,Male,1952-04-12,73,Divorced,High School,Driver,3404245.88,Mandalay,2015-09-17,zaw.oo@gmail.com,959807722279,5861,6,2024-09-27,True,1
+861,Zaw Oo,Male,1952-04-12,73,Divorced,High School,Driver,3404245.88,Mandalay,2015-09-17,zaw.oo@gmail.com,959807722279,6861,7,2024-04-25,False,0
+861,Zaw Oo,Male,1952-04-12,73,Divorced,High School,Driver,3404245.88,Mandalay,2015-09-17,zaw.oo@gmail.com,959807722279,7861,8,2023-09-11,False,0
+861,Zaw Oo,Male,1952-04-12,73,Divorced,High School,Driver,3404245.88,Mandalay,2015-09-17,zaw.oo@gmail.com,959807722279,8861,9,2023-08-09,True,1
+861,Zaw Oo,Male,1952-04-12,73,Divorced,High School,Driver,3404245.88,Mandalay,2015-09-17,zaw.oo@gmail.com,959807722279,9861,10,2023-06-18,False,0
+866,Naing Win,Male,2003-01-20,22,Widowed,Master,Merchant,785449.44,Mandalay,2015-10-18,naing.win@gmail.com,959929130705,866,1,2024-09-21,True,1
+866,Naing Win,Male,2003-01-20,22,Widowed,Master,Merchant,785449.44,Mandalay,2015-10-18,naing.win@gmail.com,959929130705,1866,2,2024-10-02,True,1
+866,Naing Win,Male,2003-01-20,22,Widowed,Master,Merchant,785449.44,Mandalay,2015-10-18,naing.win@gmail.com,959929130705,2866,3,2024-06-08,False,0
+866,Naing Win,Male,2003-01-20,22,Widowed,Master,Merchant,785449.44,Mandalay,2015-10-18,naing.win@gmail.com,959929130705,3866,4,2023-08-14,False,0
+866,Naing Win,Male,2003-01-20,22,Widowed,Master,Merchant,785449.44,Mandalay,2015-10-18,naing.win@gmail.com,959929130705,4866,5,2024-11-01,True,1
+866,Naing Win,Male,2003-01-20,22,Widowed,Master,Merchant,785449.44,Mandalay,2015-10-18,naing.win@gmail.com,959929130705,5866,6,2024-09-19,True,1
+866,Naing Win,Male,2003-01-20,22,Widowed,Master,Merchant,785449.44,Mandalay,2015-10-18,naing.win@gmail.com,959929130705,6866,7,2024-04-07,True,1
+866,Naing Win,Male,2003-01-20,22,Widowed,Master,Merchant,785449.44,Mandalay,2015-10-18,naing.win@gmail.com,959929130705,7866,8,2023-09-09,False,0
+866,Naing Win,Male,2003-01-20,22,Widowed,Master,Merchant,785449.44,Mandalay,2015-10-18,naing.win@gmail.com,959929130705,8866,9,2023-08-08,True,1
+866,Naing Win,Male,2003-01-20,22,Widowed,Master,Merchant,785449.44,Mandalay,2015-10-18,naing.win@gmail.com,959929130705,9866,10,2023-06-05,False,0
+869,Yan Lin,Male,1959-11-13,66,Widowed,Diploma,Doctor,4267031.02,Mandalay,2022-03-07,yan.lin@gmail.com,959101962230,869,1,2024-09-02,False,0
+869,Yan Lin,Male,1959-11-13,66,Widowed,Diploma,Doctor,4267031.02,Mandalay,2022-03-07,yan.lin@gmail.com,959101962230,1869,2,2024-09-28,False,0
+869,Yan Lin,Male,1959-11-13,66,Widowed,Diploma,Doctor,4267031.02,Mandalay,2022-03-07,yan.lin@gmail.com,959101962230,2869,3,2024-06-02,True,1
+869,Yan Lin,Male,1959-11-13,66,Widowed,Diploma,Doctor,4267031.02,Mandalay,2022-03-07,yan.lin@gmail.com,959101962230,3869,4,2023-07-30,False,0
+869,Yan Lin,Male,1959-11-13,66,Widowed,Diploma,Doctor,4267031.02,Mandalay,2022-03-07,yan.lin@gmail.com,959101962230,4869,5,2024-11-07,False,0
+869,Yan Lin,Male,1959-11-13,66,Widowed,Diploma,Doctor,4267031.02,Mandalay,2022-03-07,yan.lin@gmail.com,959101962230,5869,6,2024-10-14,True,1
+869,Yan Lin,Male,1959-11-13,66,Widowed,Diploma,Doctor,4267031.02,Mandalay,2022-03-07,yan.lin@gmail.com,959101962230,6869,7,2024-05-02,False,0
+869,Yan Lin,Male,1959-11-13,66,Widowed,Diploma,Doctor,4267031.02,Mandalay,2022-03-07,yan.lin@gmail.com,959101962230,7869,8,2023-09-10,False,0
+869,Yan Lin,Male,1959-11-13,66,Widowed,Diploma,Doctor,4267031.02,Mandalay,2022-03-07,yan.lin@gmail.com,959101962230,8869,9,2023-08-06,False,0
+869,Yan Lin,Male,1959-11-13,66,Widowed,Diploma,Doctor,4267031.02,Mandalay,2022-03-07,yan.lin@gmail.com,959101962230,9869,10,2023-06-08,True,1
+871,May Aung,Female,1995-02-20,30,Widowed,Primary,Bank Employee,4985974.24,Mandalay,2016-12-30,may.aung@gmail.com,959182264072,871,1,2024-09-02,True,1
+871,May Aung,Female,1995-02-20,30,Widowed,Primary,Bank Employee,4985974.24,Mandalay,2016-12-30,may.aung@gmail.com,959182264072,1871,2,2024-10-08,True,1
+871,May Aung,Female,1995-02-20,30,Widowed,Primary,Bank Employee,4985974.24,Mandalay,2016-12-30,may.aung@gmail.com,959182264072,2871,3,2024-05-24,False,0
+871,May Aung,Female,1995-02-20,30,Widowed,Primary,Bank Employee,4985974.24,Mandalay,2016-12-30,may.aung@gmail.com,959182264072,3871,4,2023-07-28,False,0
+871,May Aung,Female,1995-02-20,30,Widowed,Primary,Bank Employee,4985974.24,Mandalay,2016-12-30,may.aung@gmail.com,959182264072,4871,5,2024-10-31,False,0
+871,May Aung,Female,1995-02-20,30,Widowed,Primary,Bank Employee,4985974.24,Mandalay,2016-12-30,may.aung@gmail.com,959182264072,5871,6,2024-10-16,False,0
+871,May Aung,Female,1995-02-20,30,Widowed,Primary,Bank Employee,4985974.24,Mandalay,2016-12-30,may.aung@gmail.com,959182264072,6871,7,2024-05-05,True,1
+871,May Aung,Female,1995-02-20,30,Widowed,Primary,Bank Employee,4985974.24,Mandalay,2016-12-30,may.aung@gmail.com,959182264072,7871,8,2023-09-09,False,0
+871,May Aung,Female,1995-02-20,30,Widowed,Primary,Bank Employee,4985974.24,Mandalay,2016-12-30,may.aung@gmail.com,959182264072,8871,9,2023-07-23,False,0
+871,May Aung,Female,1995-02-20,30,Widowed,Primary,Bank Employee,4985974.24,Mandalay,2016-12-30,may.aung@gmail.com,959182264072,9871,10,2023-06-13,False,0
+889,Min Zaw,Male,2001-04-09,24,Widowed,Primary,Fisherman,1407503.33,Mandalay,2018-04-18,min.zaw@gmail.com,959830520982,889,1,2024-09-15,True,1
+889,Min Zaw,Male,2001-04-09,24,Widowed,Primary,Fisherman,1407503.33,Mandalay,2018-04-18,min.zaw@gmail.com,959830520982,1889,2,2024-11-05,False,0
+889,Min Zaw,Male,2001-04-09,24,Widowed,Primary,Fisherman,1407503.33,Mandalay,2018-04-18,min.zaw@gmail.com,959830520982,2889,3,2024-06-24,True,1
+889,Min Zaw,Male,2001-04-09,24,Widowed,Primary,Fisherman,1407503.33,Mandalay,2018-04-18,min.zaw@gmail.com,959830520982,3889,4,2023-07-18,False,0
+889,Min Zaw,Male,2001-04-09,24,Widowed,Primary,Fisherman,1407503.33,Mandalay,2018-04-18,min.zaw@gmail.com,959830520982,4889,5,2024-11-09,False,0
+889,Min Zaw,Male,2001-04-09,24,Widowed,Primary,Fisherman,1407503.33,Mandalay,2018-04-18,min.zaw@gmail.com,959830520982,5889,6,2024-10-20,True,1
+889,Min Zaw,Male,2001-04-09,24,Widowed,Primary,Fisherman,1407503.33,Mandalay,2018-04-18,min.zaw@gmail.com,959830520982,6889,7,2024-04-06,False,0
+889,Min Zaw,Male,2001-04-09,24,Widowed,Primary,Fisherman,1407503.33,Mandalay,2018-04-18,min.zaw@gmail.com,959830520982,7889,8,2023-09-13,False,0
+889,Min Zaw,Male,2001-04-09,24,Widowed,Primary,Fisherman,1407503.33,Mandalay,2018-04-18,min.zaw@gmail.com,959830520982,8889,9,2023-08-12,False,0
+889,Min Zaw,Male,2001-04-09,24,Widowed,Primary,Fisherman,1407503.33,Mandalay,2018-04-18,min.zaw@gmail.com,959830520982,9889,10,2023-06-17,True,1
+907,Yin Kyaw,Other,1958-07-26,67,Married,High School,Merchant,1423593.26,Mandalay,2024-01-19,yin.kyaw@gmail.com,959363579950,907,1,2024-09-10,True,1
+907,Yin Kyaw,Other,1958-07-26,67,Married,High School,Merchant,1423593.26,Mandalay,2024-01-19,yin.kyaw@gmail.com,959363579950,1907,2,2024-10-16,False,0
+907,Yin Kyaw,Other,1958-07-26,67,Married,High School,Merchant,1423593.26,Mandalay,2024-01-19,yin.kyaw@gmail.com,959363579950,2907,3,2024-06-25,False,0
+907,Yin Kyaw,Other,1958-07-26,67,Married,High School,Merchant,1423593.26,Mandalay,2024-01-19,yin.kyaw@gmail.com,959363579950,3907,4,2023-07-28,True,1
+907,Yin Kyaw,Other,1958-07-26,67,Married,High School,Merchant,1423593.26,Mandalay,2024-01-19,yin.kyaw@gmail.com,959363579950,4907,5,2024-11-04,False,0
+907,Yin Kyaw,Other,1958-07-26,67,Married,High School,Merchant,1423593.26,Mandalay,2024-01-19,yin.kyaw@gmail.com,959363579950,5907,6,2024-09-17,True,1
+907,Yin Kyaw,Other,1958-07-26,67,Married,High School,Merchant,1423593.26,Mandalay,2024-01-19,yin.kyaw@gmail.com,959363579950,6907,7,2024-05-05,False,0
+907,Yin Kyaw,Other,1958-07-26,67,Married,High School,Merchant,1423593.26,Mandalay,2024-01-19,yin.kyaw@gmail.com,959363579950,7907,8,2023-09-16,False,0
+907,Yin Kyaw,Other,1958-07-26,67,Married,High School,Merchant,1423593.26,Mandalay,2024-01-19,yin.kyaw@gmail.com,959363579950,8907,9,2023-08-06,True,1
+907,Yin Kyaw,Other,1958-07-26,67,Married,High School,Merchant,1423593.26,Mandalay,2024-01-19,yin.kyaw@gmail.com,959363579950,9907,10,2023-06-29,False,0
+913,Su Zaw,Other,1976-10-28,49,Divorced,Middle School,Bank Employee,2926315.15,Mandalay,2016-05-15,su.zaw@gmail.com,959935460870,913,1,2024-08-29,False,0
+913,Su Zaw,Other,1976-10-28,49,Divorced,Middle School,Bank Employee,2926315.15,Mandalay,2016-05-15,su.zaw@gmail.com,959935460870,1913,2,2024-11-04,False,0
+913,Su Zaw,Other,1976-10-28,49,Divorced,Middle School,Bank Employee,2926315.15,Mandalay,2016-05-15,su.zaw@gmail.com,959935460870,2913,3,2024-06-22,False,0
+913,Su Zaw,Other,1976-10-28,49,Divorced,Middle School,Bank Employee,2926315.15,Mandalay,2016-05-15,su.zaw@gmail.com,959935460870,3913,4,2023-08-01,True,1
+913,Su Zaw,Other,1976-10-28,49,Divorced,Middle School,Bank Employee,2926315.15,Mandalay,2016-05-15,su.zaw@gmail.com,959935460870,4913,5,2024-11-12,False,0
+913,Su Zaw,Other,1976-10-28,49,Divorced,Middle School,Bank Employee,2926315.15,Mandalay,2016-05-15,su.zaw@gmail.com,959935460870,5913,6,2024-09-29,True,1
+913,Su Zaw,Other,1976-10-28,49,Divorced,Middle School,Bank Employee,2926315.15,Mandalay,2016-05-15,su.zaw@gmail.com,959935460870,6913,7,2024-04-21,False,0
+913,Su Zaw,Other,1976-10-28,49,Divorced,Middle School,Bank Employee,2926315.15,Mandalay,2016-05-15,su.zaw@gmail.com,959935460870,7913,8,2023-09-11,False,0
+913,Su Zaw,Other,1976-10-28,49,Divorced,Middle School,Bank Employee,2926315.15,Mandalay,2016-05-15,su.zaw@gmail.com,959935460870,8913,9,2023-08-08,True,1
+913,Su Zaw,Other,1976-10-28,49,Divorced,Middle School,Bank Employee,2926315.15,Mandalay,2016-05-15,su.zaw@gmail.com,959935460870,9913,10,2023-07-04,False,0
+918,Phyu Myint,Female,1946-04-04,79,Divorced,PhD,Bank Employee,4743217.01,Mandalay,2018-08-16,phyu.myint@gmail.com,959445579892,918,1,2024-09-06,False,0
+918,Phyu Myint,Female,1946-04-04,79,Divorced,PhD,Bank Employee,4743217.01,Mandalay,2018-08-16,phyu.myint@gmail.com,959445579892,1918,2,2024-09-25,False,0
+918,Phyu Myint,Female,1946-04-04,79,Divorced,PhD,Bank Employee,4743217.01,Mandalay,2018-08-16,phyu.myint@gmail.com,959445579892,2918,3,2024-05-31,True,1
+918,Phyu Myint,Female,1946-04-04,79,Divorced,PhD,Bank Employee,4743217.01,Mandalay,2018-08-16,phyu.myint@gmail.com,959445579892,3918,4,2023-07-20,True,1
+918,Phyu Myint,Female,1946-04-04,79,Divorced,PhD,Bank Employee,4743217.01,Mandalay,2018-08-16,phyu.myint@gmail.com,959445579892,4918,5,2024-11-13,True,1
+918,Phyu Myint,Female,1946-04-04,79,Divorced,PhD,Bank Employee,4743217.01,Mandalay,2018-08-16,phyu.myint@gmail.com,959445579892,5918,6,2024-09-26,True,1
+918,Phyu Myint,Female,1946-04-04,79,Divorced,PhD,Bank Employee,4743217.01,Mandalay,2018-08-16,phyu.myint@gmail.com,959445579892,6918,7,2024-04-10,False,0
+918,Phyu Myint,Female,1946-04-04,79,Divorced,PhD,Bank Employee,4743217.01,Mandalay,2018-08-16,phyu.myint@gmail.com,959445579892,7918,8,2023-09-09,True,1
+918,Phyu Myint,Female,1946-04-04,79,Divorced,PhD,Bank Employee,4743217.01,Mandalay,2018-08-16,phyu.myint@gmail.com,959445579892,8918,9,2023-08-13,False,0
+918,Phyu Myint,Female,1946-04-04,79,Divorced,PhD,Bank Employee,4743217.01,Mandalay,2018-08-16,phyu.myint@gmail.com,959445579892,9918,10,2023-06-17,False,0
+919,Win Win,Male,1995-07-09,30,Single,Diploma,Government Employee,1655351.63,Mandalay,2019-09-21,win.win@gmail.com,959591613068,919,1,2024-09-17,True,1
+919,Win Win,Male,1995-07-09,30,Single,Diploma,Government Employee,1655351.63,Mandalay,2019-09-21,win.win@gmail.com,959591613068,1919,2,2024-10-08,True,1
+919,Win Win,Male,1995-07-09,30,Single,Diploma,Government Employee,1655351.63,Mandalay,2019-09-21,win.win@gmail.com,959591613068,2919,3,2024-06-08,True,1
+919,Win Win,Male,1995-07-09,30,Single,Diploma,Government Employee,1655351.63,Mandalay,2019-09-21,win.win@gmail.com,959591613068,3919,4,2023-07-24,True,1
+919,Win Win,Male,1995-07-09,30,Single,Diploma,Government Employee,1655351.63,Mandalay,2019-09-21,win.win@gmail.com,959591613068,4919,5,2024-11-09,False,0
+919,Win Win,Male,1995-07-09,30,Single,Diploma,Government Employee,1655351.63,Mandalay,2019-09-21,win.win@gmail.com,959591613068,5919,6,2024-09-29,False,0
+919,Win Win,Male,1995-07-09,30,Single,Diploma,Government Employee,1655351.63,Mandalay,2019-09-21,win.win@gmail.com,959591613068,6919,7,2024-05-02,False,0
+919,Win Win,Male,1995-07-09,30,Single,Diploma,Government Employee,1655351.63,Mandalay,2019-09-21,win.win@gmail.com,959591613068,7919,8,2023-09-16,False,0
+919,Win Win,Male,1995-07-09,30,Single,Diploma,Government Employee,1655351.63,Mandalay,2019-09-21,win.win@gmail.com,959591613068,8919,9,2023-08-03,True,1
+919,Win Win,Male,1995-07-09,30,Single,Diploma,Government Employee,1655351.63,Mandalay,2019-09-21,win.win@gmail.com,959591613068,9919,10,2023-06-20,True,1
+941,Min Lin,Male,2000-09-15,25,Divorced,Primary,Construction Worker,3853736.05,Mandalay,2023-09-25,min.lin@gmail.com,959422603708,941,1,2024-09-19,True,1
+941,Min Lin,Male,2000-09-15,25,Divorced,Primary,Construction Worker,3853736.05,Mandalay,2023-09-25,min.lin@gmail.com,959422603708,1941,2,2024-10-27,False,0
+941,Min Lin,Male,2000-09-15,25,Divorced,Primary,Construction Worker,3853736.05,Mandalay,2023-09-25,min.lin@gmail.com,959422603708,2941,3,2024-06-22,False,0
+941,Min Lin,Male,2000-09-15,25,Divorced,Primary,Construction Worker,3853736.05,Mandalay,2023-09-25,min.lin@gmail.com,959422603708,3941,4,2023-08-25,True,1
+941,Min Lin,Male,2000-09-15,25,Divorced,Primary,Construction Worker,3853736.05,Mandalay,2023-09-25,min.lin@gmail.com,959422603708,4941,5,2024-11-01,False,0
+941,Min Lin,Male,2000-09-15,25,Divorced,Primary,Construction Worker,3853736.05,Mandalay,2023-09-25,min.lin@gmail.com,959422603708,5941,6,2024-09-21,True,1
+941,Min Lin,Male,2000-09-15,25,Divorced,Primary,Construction Worker,3853736.05,Mandalay,2023-09-25,min.lin@gmail.com,959422603708,6941,7,2024-04-21,False,0
+941,Min Lin,Male,2000-09-15,25,Divorced,Primary,Construction Worker,3853736.05,Mandalay,2023-09-25,min.lin@gmail.com,959422603708,7941,8,2023-09-15,True,1
+941,Min Lin,Male,2000-09-15,25,Divorced,Primary,Construction Worker,3853736.05,Mandalay,2023-09-25,min.lin@gmail.com,959422603708,8941,9,2023-08-04,True,1
+941,Min Lin,Male,2000-09-15,25,Divorced,Primary,Construction Worker,3853736.05,Mandalay,2023-09-25,min.lin@gmail.com,959422603708,9941,10,2023-06-22,True,1
+946,Win Kyaw,Male,1963-04-07,62,Single,Primary,Merchant,2617336.06,Mandalay,2020-03-21,win.kyaw@gmail.com,959867987385,946,1,2024-09-18,True,1
+946,Win Kyaw,Male,1963-04-07,62,Single,Primary,Merchant,2617336.06,Mandalay,2020-03-21,win.kyaw@gmail.com,959867987385,1946,2,2024-10-10,False,0
+946,Win Kyaw,Male,1963-04-07,62,Single,Primary,Merchant,2617336.06,Mandalay,2020-03-21,win.kyaw@gmail.com,959867987385,2946,3,2024-06-07,False,0
+946,Win Kyaw,Male,1963-04-07,62,Single,Primary,Merchant,2617336.06,Mandalay,2020-03-21,win.kyaw@gmail.com,959867987385,3946,4,2023-07-28,True,1
+946,Win Kyaw,Male,1963-04-07,62,Single,Primary,Merchant,2617336.06,Mandalay,2020-03-21,win.kyaw@gmail.com,959867987385,4946,5,2024-11-07,True,1
+946,Win Kyaw,Male,1963-04-07,62,Single,Primary,Merchant,2617336.06,Mandalay,2020-03-21,win.kyaw@gmail.com,959867987385,5946,6,2024-09-21,True,1
+946,Win Kyaw,Male,1963-04-07,62,Single,Primary,Merchant,2617336.06,Mandalay,2020-03-21,win.kyaw@gmail.com,959867987385,6946,7,2024-04-06,False,0
+946,Win Kyaw,Male,1963-04-07,62,Single,Primary,Merchant,2617336.06,Mandalay,2020-03-21,win.kyaw@gmail.com,959867987385,7946,8,2023-09-12,False,0
+946,Win Kyaw,Male,1963-04-07,62,Single,Primary,Merchant,2617336.06,Mandalay,2020-03-21,win.kyaw@gmail.com,959867987385,8946,9,2023-07-30,False,0
+946,Win Kyaw,Male,1963-04-07,62,Single,Primary,Merchant,2617336.06,Mandalay,2020-03-21,win.kyaw@gmail.com,959867987385,9946,10,2023-07-08,True,1
+950,May Htun,Female,1961-10-28,64,Divorced,High School,Fisherman,3303048.67,Mandalay,2019-01-02,may.htun@gmail.com,959629754717,950,1,2024-09-06,True,1
+950,May Htun,Female,1961-10-28,64,Divorced,High School,Fisherman,3303048.67,Mandalay,2019-01-02,may.htun@gmail.com,959629754717,1950,2,2024-09-26,True,1
+950,May Htun,Female,1961-10-28,64,Divorced,High School,Fisherman,3303048.67,Mandalay,2019-01-02,may.htun@gmail.com,959629754717,2950,3,2024-06-13,True,1
+950,May Htun,Female,1961-10-28,64,Divorced,High School,Fisherman,3303048.67,Mandalay,2019-01-02,may.htun@gmail.com,959629754717,3950,4,2023-07-26,False,0
+950,May Htun,Female,1961-10-28,64,Divorced,High School,Fisherman,3303048.67,Mandalay,2019-01-02,may.htun@gmail.com,959629754717,4950,5,2024-11-05,False,0
+950,May Htun,Female,1961-10-28,64,Divorced,High School,Fisherman,3303048.67,Mandalay,2019-01-02,may.htun@gmail.com,959629754717,5950,6,2024-09-27,True,1
+950,May Htun,Female,1961-10-28,64,Divorced,High School,Fisherman,3303048.67,Mandalay,2019-01-02,may.htun@gmail.com,959629754717,6950,7,2024-04-07,True,1
+950,May Htun,Female,1961-10-28,64,Divorced,High School,Fisherman,3303048.67,Mandalay,2019-01-02,may.htun@gmail.com,959629754717,7950,8,2023-09-14,True,1
+950,May Htun,Female,1961-10-28,64,Divorced,High School,Fisherman,3303048.67,Mandalay,2019-01-02,may.htun@gmail.com,959629754717,8950,9,2023-07-10,True,1
+950,May Htun,Female,1961-10-28,64,Divorced,High School,Fisherman,3303048.67,Mandalay,2019-01-02,may.htun@gmail.com,959629754717,9950,10,2023-06-06,False,0
+955,Thet Hlaing,Other,2002-10-07,23,Single,Diploma,Driver,4605346.45,Mandalay,2018-04-11,thet.hlaing@gmail.com,959764213479,955,1,2024-08-29,False,0
+955,Thet Hlaing,Other,2002-10-07,23,Single,Diploma,Driver,4605346.45,Mandalay,2018-04-11,thet.hlaing@gmail.com,959764213479,1955,2,2024-11-01,False,0
+955,Thet Hlaing,Other,2002-10-07,23,Single,Diploma,Driver,4605346.45,Mandalay,2018-04-11,thet.hlaing@gmail.com,959764213479,2955,3,2024-06-24,True,1
+955,Thet Hlaing,Other,2002-10-07,23,Single,Diploma,Driver,4605346.45,Mandalay,2018-04-11,thet.hlaing@gmail.com,959764213479,3955,4,2023-08-24,True,1
+955,Thet Hlaing,Other,2002-10-07,23,Single,Diploma,Driver,4605346.45,Mandalay,2018-04-11,thet.hlaing@gmail.com,959764213479,4955,5,2024-11-11,False,0
+955,Thet Hlaing,Other,2002-10-07,23,Single,Diploma,Driver,4605346.45,Mandalay,2018-04-11,thet.hlaing@gmail.com,959764213479,5955,6,2024-09-28,False,0
+955,Thet Hlaing,Other,2002-10-07,23,Single,Diploma,Driver,4605346.45,Mandalay,2018-04-11,thet.hlaing@gmail.com,959764213479,6955,7,2024-05-08,False,0
+955,Thet Hlaing,Other,2002-10-07,23,Single,Diploma,Driver,4605346.45,Mandalay,2018-04-11,thet.hlaing@gmail.com,959764213479,7955,8,2023-09-18,True,1
+955,Thet Hlaing,Other,2002-10-07,23,Single,Diploma,Driver,4605346.45,Mandalay,2018-04-11,thet.hlaing@gmail.com,959764213479,8955,9,2023-08-02,True,1
+955,Thet Hlaing,Other,2002-10-07,23,Single,Diploma,Driver,4605346.45,Mandalay,2018-04-11,thet.hlaing@gmail.com,959764213479,9955,10,2023-06-18,False,0
+957,Thet Zaw,Other,1959-12-02,66,Married,Master,Merchant,435169.82,Mandalay,2015-11-26,thet.zaw@gmail.com,959602960617,957,1,2024-09-28,False,0
+957,Thet Zaw,Other,1959-12-02,66,Married,Master,Merchant,435169.82,Mandalay,2015-11-26,thet.zaw@gmail.com,959602960617,1957,2,2024-10-04,False,0
+957,Thet Zaw,Other,1959-12-02,66,Married,Master,Merchant,435169.82,Mandalay,2015-11-26,thet.zaw@gmail.com,959602960617,2957,3,2024-06-25,False,0
+957,Thet Zaw,Other,1959-12-02,66,Married,Master,Merchant,435169.82,Mandalay,2015-11-26,thet.zaw@gmail.com,959602960617,3957,4,2023-08-16,False,0
+957,Thet Zaw,Other,1959-12-02,66,Married,Master,Merchant,435169.82,Mandalay,2015-11-26,thet.zaw@gmail.com,959602960617,4957,5,2024-11-07,True,1
+957,Thet Zaw,Other,1959-12-02,66,Married,Master,Merchant,435169.82,Mandalay,2015-11-26,thet.zaw@gmail.com,959602960617,5957,6,2024-10-14,False,0
+957,Thet Zaw,Other,1959-12-02,66,Married,Master,Merchant,435169.82,Mandalay,2015-11-26,thet.zaw@gmail.com,959602960617,6957,7,2024-04-05,True,1
+957,Thet Zaw,Other,1959-12-02,66,Married,Master,Merchant,435169.82,Mandalay,2015-11-26,thet.zaw@gmail.com,959602960617,7957,8,2023-09-14,True,1
+957,Thet Zaw,Other,1959-12-02,66,Married,Master,Merchant,435169.82,Mandalay,2015-11-26,thet.zaw@gmail.com,959602960617,8957,9,2023-08-03,False,0
+957,Thet Zaw,Other,1959-12-02,66,Married,Master,Merchant,435169.82,Mandalay,2015-11-26,thet.zaw@gmail.com,959602960617,9957,10,2023-07-02,False,0
+958,Htun Oo,Male,1952-05-05,73,Married,High School,Government Employee,1286252.73,Mandalay,2023-06-23,htun.oo@gmail.com,959683206901,958,1,2024-09-21,False,0
+958,Htun Oo,Male,1952-05-05,73,Married,High School,Government Employee,1286252.73,Mandalay,2023-06-23,htun.oo@gmail.com,959683206901,1958,2,2024-11-01,False,0
+958,Htun Oo,Male,1952-05-05,73,Married,High School,Government Employee,1286252.73,Mandalay,2023-06-23,htun.oo@gmail.com,959683206901,2958,3,2024-05-30,True,1
+958,Htun Oo,Male,1952-05-05,73,Married,High School,Government Employee,1286252.73,Mandalay,2023-06-23,htun.oo@gmail.com,959683206901,3958,4,2023-08-19,False,0
+958,Htun Oo,Male,1952-05-05,73,Married,High School,Government Employee,1286252.73,Mandalay,2023-06-23,htun.oo@gmail.com,959683206901,4958,5,2024-11-12,True,1
+958,Htun Oo,Male,1952-05-05,73,Married,High School,Government Employee,1286252.73,Mandalay,2023-06-23,htun.oo@gmail.com,959683206901,5958,6,2024-09-25,True,1
+958,Htun Oo,Male,1952-05-05,73,Married,High School,Government Employee,1286252.73,Mandalay,2023-06-23,htun.oo@gmail.com,959683206901,6958,7,2024-04-09,False,0
+958,Htun Oo,Male,1952-05-05,73,Married,High School,Government Employee,1286252.73,Mandalay,2023-06-23,htun.oo@gmail.com,959683206901,7958,8,2023-09-17,False,0
+958,Htun Oo,Male,1952-05-05,73,Married,High School,Government Employee,1286252.73,Mandalay,2023-06-23,htun.oo@gmail.com,959683206901,8958,9,2023-08-11,False,0
+958,Htun Oo,Male,1952-05-05,73,Married,High School,Government Employee,1286252.73,Mandalay,2023-06-23,htun.oo@gmail.com,959683206901,9958,10,2023-06-30,False,0
+965,Kyaw Aung,Male,1994-04-30,31,Married,PhD,Fisherman,320345.96,Mandalay,2018-04-07,kyaw.aung@gmail.com,959686919038,965,1,2024-08-26,False,0
+965,Kyaw Aung,Male,1994-04-30,31,Married,PhD,Fisherman,320345.96,Mandalay,2018-04-07,kyaw.aung@gmail.com,959686919038,1965,2,2024-10-03,True,1
+965,Kyaw Aung,Male,1994-04-30,31,Married,PhD,Fisherman,320345.96,Mandalay,2018-04-07,kyaw.aung@gmail.com,959686919038,2965,3,2024-05-30,True,1
+965,Kyaw Aung,Male,1994-04-30,31,Married,PhD,Fisherman,320345.96,Mandalay,2018-04-07,kyaw.aung@gmail.com,959686919038,3965,4,2023-08-01,True,1
+965,Kyaw Aung,Male,1994-04-30,31,Married,PhD,Fisherman,320345.96,Mandalay,2018-04-07,kyaw.aung@gmail.com,959686919038,4965,5,2024-11-04,False,0
+965,Kyaw Aung,Male,1994-04-30,31,Married,PhD,Fisherman,320345.96,Mandalay,2018-04-07,kyaw.aung@gmail.com,959686919038,5965,6,2024-10-04,False,0
+965,Kyaw Aung,Male,1994-04-30,31,Married,PhD,Fisherman,320345.96,Mandalay,2018-04-07,kyaw.aung@gmail.com,959686919038,6965,7,2024-04-29,True,1
+965,Kyaw Aung,Male,1994-04-30,31,Married,PhD,Fisherman,320345.96,Mandalay,2018-04-07,kyaw.aung@gmail.com,959686919038,7965,8,2023-09-16,False,0
+965,Kyaw Aung,Male,1994-04-30,31,Married,PhD,Fisherman,320345.96,Mandalay,2018-04-07,kyaw.aung@gmail.com,959686919038,8965,9,2023-07-25,False,0
+965,Kyaw Aung,Male,1994-04-30,31,Married,PhD,Fisherman,320345.96,Mandalay,2018-04-07,kyaw.aung@gmail.com,959686919038,9965,10,2023-06-12,False,0
+966,Yan Lin,Male,1989-05-20,36,Divorced,Master,Construction Worker,1170091.16,Mandalay,2023-08-14,yan.lin@gmail.com,959835054288,966,1,2024-09-03,True,1
+966,Yan Lin,Male,1989-05-20,36,Divorced,Master,Construction Worker,1170091.16,Mandalay,2023-08-14,yan.lin@gmail.com,959835054288,1966,2,2024-11-03,False,0
+966,Yan Lin,Male,1989-05-20,36,Divorced,Master,Construction Worker,1170091.16,Mandalay,2023-08-14,yan.lin@gmail.com,959835054288,2966,3,2024-06-21,True,1
+966,Yan Lin,Male,1989-05-20,36,Divorced,Master,Construction Worker,1170091.16,Mandalay,2023-08-14,yan.lin@gmail.com,959835054288,3966,4,2023-08-11,False,0
+966,Yan Lin,Male,1989-05-20,36,Divorced,Master,Construction Worker,1170091.16,Mandalay,2023-08-14,yan.lin@gmail.com,959835054288,4966,5,2024-10-28,True,1
+966,Yan Lin,Male,1989-05-20,36,Divorced,Master,Construction Worker,1170091.16,Mandalay,2023-08-14,yan.lin@gmail.com,959835054288,5966,6,2024-10-24,False,0
+966,Yan Lin,Male,1989-05-20,36,Divorced,Master,Construction Worker,1170091.16,Mandalay,2023-08-14,yan.lin@gmail.com,959835054288,6966,7,2024-05-04,True,1
+966,Yan Lin,Male,1989-05-20,36,Divorced,Master,Construction Worker,1170091.16,Mandalay,2023-08-14,yan.lin@gmail.com,959835054288,7966,8,2023-09-12,True,1
+966,Yan Lin,Male,1989-05-20,36,Divorced,Master,Construction Worker,1170091.16,Mandalay,2023-08-14,yan.lin@gmail.com,959835054288,8966,9,2023-07-25,True,1
+966,Yan Lin,Male,1989-05-20,36,Divorced,Master,Construction Worker,1170091.16,Mandalay,2023-08-14,yan.lin@gmail.com,959835054288,9966,10,2023-06-15,False,0
+967,Myo Moe,Male,1993-09-06,32,Widowed,Middle School,Fisherman,1369504.8,Mandalay,2020-06-08,myo.moe@gmail.com,959594975640,967,1,2024-09-03,False,0
+967,Myo Moe,Male,1993-09-06,32,Widowed,Middle School,Fisherman,1369504.8,Mandalay,2020-06-08,myo.moe@gmail.com,959594975640,1967,2,2024-09-24,False,0
+967,Myo Moe,Male,1993-09-06,32,Widowed,Middle School,Fisherman,1369504.8,Mandalay,2020-06-08,myo.moe@gmail.com,959594975640,2967,3,2024-05-30,False,0
+967,Myo Moe,Male,1993-09-06,32,Widowed,Middle School,Fisherman,1369504.8,Mandalay,2020-06-08,myo.moe@gmail.com,959594975640,3967,4,2023-08-02,True,1
+967,Myo Moe,Male,1993-09-06,32,Widowed,Middle School,Fisherman,1369504.8,Mandalay,2020-06-08,myo.moe@gmail.com,959594975640,4967,5,2024-11-10,True,1
+967,Myo Moe,Male,1993-09-06,32,Widowed,Middle School,Fisherman,1369504.8,Mandalay,2020-06-08,myo.moe@gmail.com,959594975640,5967,6,2024-10-13,True,1
+967,Myo Moe,Male,1993-09-06,32,Widowed,Middle School,Fisherman,1369504.8,Mandalay,2020-06-08,myo.moe@gmail.com,959594975640,6967,7,2024-04-18,True,1
+967,Myo Moe,Male,1993-09-06,32,Widowed,Middle School,Fisherman,1369504.8,Mandalay,2020-06-08,myo.moe@gmail.com,959594975640,7967,8,2023-09-15,False,0
+967,Myo Moe,Male,1993-09-06,32,Widowed,Middle School,Fisherman,1369504.8,Mandalay,2020-06-08,myo.moe@gmail.com,959594975640,8967,9,2023-07-28,False,0
+967,Myo Moe,Male,1993-09-06,32,Widowed,Middle School,Fisherman,1369504.8,Mandalay,2020-06-08,myo.moe@gmail.com,959594975640,9967,10,2023-06-18,False,0
+972,Aung Lin,Male,1987-04-15,38,Single,Diploma,Driver,2756513.17,Mandalay,2019-01-21,aung.lin@gmail.com,959275333026,972,1,2024-09-22,False,0
+972,Aung Lin,Male,1987-04-15,38,Single,Diploma,Driver,2756513.17,Mandalay,2019-01-21,aung.lin@gmail.com,959275333026,1972,2,2024-09-25,True,1
+972,Aung Lin,Male,1987-04-15,38,Single,Diploma,Driver,2756513.17,Mandalay,2019-01-21,aung.lin@gmail.com,959275333026,2972,3,2024-06-19,True,1
+972,Aung Lin,Male,1987-04-15,38,Single,Diploma,Driver,2756513.17,Mandalay,2019-01-21,aung.lin@gmail.com,959275333026,3972,4,2023-07-23,True,1
+972,Aung Lin,Male,1987-04-15,38,Single,Diploma,Driver,2756513.17,Mandalay,2019-01-21,aung.lin@gmail.com,959275333026,4972,5,2024-10-31,True,1
+972,Aung Lin,Male,1987-04-15,38,Single,Diploma,Driver,2756513.17,Mandalay,2019-01-21,aung.lin@gmail.com,959275333026,5972,6,2024-09-18,False,0
+972,Aung Lin,Male,1987-04-15,38,Single,Diploma,Driver,2756513.17,Mandalay,2019-01-21,aung.lin@gmail.com,959275333026,6972,7,2024-04-08,False,0
+972,Aung Lin,Male,1987-04-15,38,Single,Diploma,Driver,2756513.17,Mandalay,2019-01-21,aung.lin@gmail.com,959275333026,7972,8,2023-09-11,False,0
+972,Aung Lin,Male,1987-04-15,38,Single,Diploma,Driver,2756513.17,Mandalay,2019-01-21,aung.lin@gmail.com,959275333026,8972,9,2023-07-13,False,0
+972,Aung Lin,Male,1987-04-15,38,Single,Diploma,Driver,2756513.17,Mandalay,2019-01-21,aung.lin@gmail.com,959275333026,9972,10,2023-06-16,False,0
+994,May Moe,Female,1958-04-13,67,Married,Diploma,Bank Employee,4282470.24,Mandalay,2024-09-29,may.moe@gmail.com,959413447520,994,1,2024-09-27,True,1
+994,May Moe,Female,1958-04-13,67,Married,Diploma,Bank Employee,4282470.24,Mandalay,2024-09-29,may.moe@gmail.com,959413447520,1994,2,2024-10-27,True,1
+994,May Moe,Female,1958-04-13,67,Married,Diploma,Bank Employee,4282470.24,Mandalay,2024-09-29,may.moe@gmail.com,959413447520,2994,3,2024-05-30,False,0
+994,May Moe,Female,1958-04-13,67,Married,Diploma,Bank Employee,4282470.24,Mandalay,2024-09-29,may.moe@gmail.com,959413447520,3994,4,2023-08-09,False,0
+994,May Moe,Female,1958-04-13,67,Married,Diploma,Bank Employee,4282470.24,Mandalay,2024-09-29,may.moe@gmail.com,959413447520,4994,5,2024-11-06,False,0
+994,May Moe,Female,1958-04-13,67,Married,Diploma,Bank Employee,4282470.24,Mandalay,2024-09-29,may.moe@gmail.com,959413447520,5994,6,2024-10-17,True,1
+994,May Moe,Female,1958-04-13,67,Married,Diploma,Bank Employee,4282470.24,Mandalay,2024-09-29,may.moe@gmail.com,959413447520,6994,7,2024-05-06,True,1
+994,May Moe,Female,1958-04-13,67,Married,Diploma,Bank Employee,4282470.24,Mandalay,2024-09-29,may.moe@gmail.com,959413447520,7994,8,2023-09-16,False,0
+994,May Moe,Female,1958-04-13,67,Married,Diploma,Bank Employee,4282470.24,Mandalay,2024-09-29,may.moe@gmail.com,959413447520,8994,9,2023-08-05,True,1
+994,May Moe,Female,1958-04-13,67,Married,Diploma,Bank Employee,4282470.24,Mandalay,2024-09-29,may.moe@gmail.com,959413447520,9994,10,2023-06-14,True,1
