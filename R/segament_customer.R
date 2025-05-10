@@ -144,7 +144,7 @@ customer_data_clean$segment_label <- case_when(
 write_csv(customer_data_clean, "C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/processed/ML_data/customer_segments.csv")
 
 # Check for issues in scaled features 
-summary(features_scaled)
+summary(features_scaled)./.
 cat("Any NA? ", anyNA(features_scaled), "\n")
 cat("Any NaN? ", any(is.nan(features_scaled)), "\n")
 cat("Any Inf? ", any(is.infinite(features_scaled)), "\n")
