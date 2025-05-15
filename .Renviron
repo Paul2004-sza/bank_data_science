@@ -1,1 +1,5 @@
-.env
+MYSQL_HOST=localhost
+MYSQL_DB=fraud_detection
+MYSQL_USER=root
+MYSQL_PASSWORD=sza@270109
+MYSQL_PORT=3306
