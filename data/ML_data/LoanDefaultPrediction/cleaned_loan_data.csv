@@ -1,0 +1,286 @@
+loan_id,customer_id,loan_type,loan_amount,interest_rate,term_months,start_date,end_date,status,name,gender,date_of_birth,age,marital_status,education_level,occupation,income,region,join_date,email,phone,score,risk_level,default
+1,5,Home,97676573.98,13.67,36,2024-07-05,2027-06-20,Approved,Yin Zaw,Other,1972-05-11,53,Divorced,Middle School,Business Owner,4798901.44,Taunggyi,2024-01-06,yin.zaw@gmail.com,959549567288,607,Medium,0
+2,7,Education,99263725.31,14.25,36,2024-05-01,2027-04-16,Approved,Phyu Hlaing,Other,1974-11-16,51,Single,Diploma,Teacher,2894590.97,Sittwe,2018-08-03,phyu.hlaing@gmail.com,959894064955,748,Low,0
+3,9,Home,26097889.45,14.21,12,2025-02-18,2026-02-13,Approved,Kyaw Win,Male,2002-06-07,23,Widowed,High School,Driver,3287716.89,Taunggyi,2018-08-22,kyaw.win@gmail.com,959938132103,695,Medium,0
+4,12,Business,53047598.27,8.11,60,2022-03-19,2027-02-21,Approved,Myo Htun,Male,1952-01-28,73,Married,PhD,Farmer,4083715.26,Monywa,2020-11-03,myo.htun@gmail.com,959156069497,850,Low,0
+5,14,Home,33955016.85,12.89,24,2022-10-05,2024-09-24,Paid,Min Oo,Male,1992-07-14,33,Married,Master,Fisherman,2833193.26,Sittwe,2022-04-16,min.oo@gmail.com,959853301447,727,Low,0
+6,29,Business,48296670.29,9.45,36,2024-05-05,2027-04-20,Paid,Phyu Kyaw,Other,1965-07-15,60,Widowed,PhD,Doctor,1194926.6,Mandalay,2019-03-27,phyu.kyaw@gmail.com,959163331824,526,High,0
+7,33,Business,17644741.5,13.19,12,2025-02-20,2026-02-15,Paid,Zaw Lin,Male,1996-04-12,29,Single,Primary,Bank Employee,4996627.6,Yangon,2024-08-03,zaw.lin@gmail.com,959701683383,761,Low,0
+8,34,Car,52085586.27,11.5,120,2018-09-03,2028-07-12,Paid,Kyaw Oo,Male,1958-08-20,67,Widowed,Diploma,Driver,1304612.31,Monywa,2016-11-13,kyaw.oo@gmail.com,959141466408,753,Low,0
+9,37,Education,61587702.1,12.86,120,2024-07-22,2034-05-31,Paid,Thet Htun,Other,1980-11-08,45,Divorced,Primary,Farmer,3045634.69,Pathein,2024-05-01,thet.htun@gmail.com,959223440349,834,Low,0
+10,38,Car,10083162.46,8.64,24,2024-07-25,2026-07-15,Paid,Khin Htun,Other,1995-03-15,30,Single,PhD,Government Employee,622050.26,Mandalay,2023-09-23,khin.htun@gmail.com,959691788042,753,Low,0
+11,41,Car,70986289.96,12.84,36,2021-05-29,2024-05-13,Approved,Min Moe,Male,1946-06-15,79,Married,Master,Bank Employee,1709986.28,Taunggyi,2016-08-08,min.moe@gmail.com,959388943410,388,High,0
+12,43,Personal,28498055.41,9.5,60,2023-04-01,2028-03-05,Approved,Myo Win,Male,1975-11-17,50,Married,High School,Merchant,1041410.11,Pathein,2019-09-07,myo.win@gmail.com,959171021174,439,High,0
+13,44,Home,2123504.79,13.19,36,2025-02-04,2028-01-20,Rejected,Thandar Myint,Other,1976-08-08,49,Single,Master,Fisherman,1707080.14,Mandalay,2024-05-27,thandar.myint@gmail.com,959664570013,430,High,0
+14,47,Education,94435393.52,11.75,120,2022-09-15,2032-07-24,Approved,Thandar Htun,Female,1993-01-14,32,Single,Master,Doctor,4197936.02,Yangon,2015-11-25,thandar.htun@gmail.com,959985367474,758,Low,0
+15,48,Home,10370765.19,10.87,36,2021-12-28,2024-12-12,Approved,Myo Oo,Male,1958-07-06,67,Divorced,Middle School,Tour Guide,2376626.91,Monywa,2021-08-04,myo.oo@gmail.com,959774845237,698,Medium,0
+16,52,Business,13493911.44,8.27,60,2018-10-30,2023-10-04,Approved,Khin Kyaw,Other,2000-04-18,25,Married,PhD,Government Employee,4442656.16,Yangon,2016-05-27,khin.kyaw@gmail.com,959965863202,614,Medium,0
+17,54,Home,6717699.01,12.42,36,2025-01-31,2028-01-16,Approved,Su Lin,Female,1976-09-18,49,Married,Middle School,Driver,1943394.59,Bago,2025-01-08,su.lin@gmail.com,959195900118,366,High,0
+18,56,Business,79433814.77,9.3,36,2019-12-06,2022-11-20,Approved,Thet Moe,Female,2001-02-08,24,Divorced,Primary,Teacher,4422080.53,Mawlamyine,2018-08-17,thet.moe@gmail.com,959321422184,637,Medium,0
+19,57,Personal,72609114.63,12.08,60,2020-06-02,2025-05-07,Paid,Naing Aung,Male,1961-03-17,64,Single,Primary,Construction Worker,2342449.67,Taunggyi,2020-03-14,naing.aung@gmail.com,959913272740,416,High,0
+20,58,Education,37855816.78,9.79,120,2020-11-14,2030-09-23,Approved,Nu Hlaing,Female,1946-06-24,79,Single,Diploma,Construction Worker,1193370.24,Yangon,2017-07-03,nu.hlaing@gmail.com,959860824128,739,Low,0
+21,65,Education,98554029.05,9.53,24,2025-03-26,2027-03-16,Approved,Hla Kyaw,Female,1957-03-22,68,Divorced,Middle School,Business Owner,992563.62,Yangon,2021-10-07,hla.kyaw@gmail.com,959326145842,685,Medium,0
+22,69,Home,76708708.96,11.96,36,2022-11-11,2025-10-26,Rejected,Nilar Win,Other,2004-02-17,21,Widowed,Middle School,Driver,3437615.34,Pathein,2019-02-16,nilar.win@gmail.com,959943203694,659,Medium,0
+23,70,Home,77884012.25,11,12,2023-11-05,2024-10-30,Approved,May Lin,Other,1967-05-31,58,Widowed,PhD,Fisherman,2395793.98,Naypyidaw,2022-12-05,may.lin@gmail.com,959488769943,595,High,0
+24,75,Home,78611352.89,9.16,24,2018-12-05,2020-11-24,Rejected,Kyaw Moe,Male,1973-12-12,52,Widowed,PhD,Construction Worker,4746491.56,Yangon,2018-01-10,kyaw.moe@gmail.com,959160199540,609,Medium,0
+25,77,Personal,8090007.43,13.54,120,2021-07-10,2031-05-19,Approved,Thet Myint,Other,1967-03-08,58,Married,Diploma,Business Owner,1582795.97,Myitkyina,2016-05-12,thet.myint@gmail.com,959195775258,437,High,0
+26,79,Car,90798373.94,13.26,12,2025-02-08,2026-02-03,Paid,Thet Htun,Other,1984-05-14,41,Widowed,Bachelor,Construction Worker,3416098.86,Mandalay,2021-01-29,thet.htun@gmail.com,959989336021,432,High,0
+27,86,Home,93895043.38,12.32,120,2020-07-18,2030-05-27,Approved,Min Win,Male,1977-02-21,48,Single,High School,Construction Worker,3483532.25,Monywa,2017-03-24,min.win@gmail.com,959159751627,744,Low,0
+28,89,Education,61203495.24,8.15,36,2022-07-23,2025-07-07,Approved,May Htun,Other,1992-03-30,33,Widowed,PhD,Driver,796032.69,Taunggyi,2022-07-02,may.htun@gmail.com,959118426186,762,Low,0
+29,90,Personal,28938825.54,12.92,12,2020-05-18,2021-05-13,Approved,Phyu Oo,Other,1966-03-15,59,Widowed,Middle School,Tour Guide,2752209.71,Mawlamyine,2018-02-08,phyu.oo@gmail.com,959444398824,544,High,0
+30,103,Car,72576348.15,12.57,120,2024-05-30,2034-04-08,Approved,Phyu Zaw,Female,1972-12-22,53,Married,Primary,Merchant,4722998.9,Myitkyina,2023-07-22,phyu.zaw@gmail.com,959529044969,717,Low,0
+31,105,Car,57529717.2,8.43,24,2018-10-15,2020-10-04,Paid,Htun Myint,Male,1966-07-14,59,Divorced,Primary,Business Owner,856722.34,Monywa,2018-01-02,htun.myint@gmail.com,959549809278,581,High,0
+32,107,Business,60498955.66,9.14,12,2020-09-20,2021-09-15,Approved,Nu Moe,Female,1947-02-12,78,Divorced,Bachelor,Construction Worker,583082.43,Mandalay,2017-11-03,nu.moe@gmail.com,959759985022,821,Low,0
+33,112,Education,86511253.18,13.39,24,2023-03-11,2025-02-28,Approved,Khin Win,Female,1961-12-11,64,Single,Middle School,Merchant,3096706.98,Sittwe,2018-09-10,khin.win@gmail.com,959603155029,701,Low,0
+34,119,Car,65680509.36,13.71,12,2023-12-24,2024-12-18,Paid,Phyu Aung,Female,1993-11-27,32,Widowed,PhD,Fisherman,472476.51,Mandalay,2021-09-29,phyu.aung@gmail.com,959409719733,490,High,0
+35,124,Home,64774569.46,8.86,24,2024-08-26,2026-08-16,Paid,Thet Htun,Female,1972-12-21,53,Widowed,Primary,Business Owner,4963608.56,Mandalay,2022-02-08,thet.htun@gmail.com,959144189612,733,Low,0
+36,125,Business,16872665.34,15,60,2025-03-05,2030-02-07,Rejected,Hla Oo,Female,1996-05-11,29,Widowed,Master,Merchant,2691698.47,Mawlamyine,2024-05-10,hla.oo@gmail.com,959714132061,412,High,0
+37,127,Education,94679431.07,14.33,60,2024-08-30,2029-08-04,Approved,Thet Oo,Other,1994-10-15,31,Single,High School,Doctor,1897413.64,Pathein,2018-05-03,thet.oo@gmail.com,959315842116,661,Medium,0
+38,130,Car,47095502.98,10.02,120,2025-02-26,2035-01-05,Defaulted,Phyu Zaw,Female,1984-09-29,41,Married,Master,Business Owner,2987448.92,Bago,2024-06-20,phyu.zaw@gmail.com,959487496564,577,High,1
+39,131,Business,44732048.87,9.67,60,2022-11-14,2027-10-19,Approved,Su Zaw,Female,1978-07-03,47,Widowed,Master,Doctor,2114570.14,Naypyidaw,2021-01-15,su.zaw@gmail.com,959874809493,571,High,0
+40,136,Personal,89357194.29,9.48,24,2023-04-01,2025-03-21,Approved,Su Myint,Other,1977-08-04,48,Single,Middle School,Bank Employee,3516678,Mawlamyine,2023-01-22,su.myint@gmail.com,959337376033,850,Low,0
+41,139,Education,90515840.28,14.44,12,2024-02-21,2025-02-15,Approved,May Moe,Female,2004-01-24,21,Married,Middle School,Fisherman,2236643.22,Naypyidaw,2022-06-08,may.moe@gmail.com,959600200560,850,Low,0
+42,140,Home,28527991.58,11.82,120,2024-11-09,2034-09-18,Approved,Htun Win,Male,1946-09-30,79,Widowed,Bachelor,Bank Employee,1431900.02,Sittwe,2021-04-19,htun.win@gmail.com,959184945580,619,Medium,0
+43,144,Home,58956081.9,10.59,60,2023-09-17,2028-08-21,Approved,Hla Kyaw,Female,1984-05-03,41,Widowed,Bachelor,Engineer,3001616.07,Mawlamyine,2020-05-20,hla.kyaw@gmail.com,959538245722,662,Medium,0
+44,147,Education,74540929.02,14.01,60,2024-06-26,2029-05-31,Paid,Thandar Oo,Other,1994-10-17,31,Single,Master,Bank Employee,485286.1,Myitkyina,2020-12-13,thandar.oo@gmail.com,959778178722,708,Low,0
+45,148,Car,29949297.9,14.57,24,2022-10-18,2024-10-07,Paid,Naing Zaw,Male,1972-06-26,53,Married,Primary,Merchant,1835579.89,Monywa,2020-03-11,naing.zaw@gmail.com,959759688996,720,Low,0
+46,150,Business,74647192.95,11.67,60,2024-05-24,2029-04-28,Approved,Phyu Aung,Female,1956-02-11,69,Divorced,PhD,Teacher,2501157.53,Mandalay,2022-04-24,phyu.aung@gmail.com,959176020302,455,High,0
+47,152,Education,26822965.93,10.24,12,2022-03-08,2023-03-03,Paid,Win Zaw,Male,1990-11-25,35,Divorced,Bachelor,Doctor,4165361.32,Taunggyi,2020-05-22,win.zaw@gmail.com,959417413069,453,High,0
+48,158,Education,32126682.97,12.87,12,2023-09-18,2024-09-12,Approved,Phyu Kyaw,Female,1992-08-25,33,Divorced,Primary,Bank Employee,2026474.3,Taunggyi,2020-04-28,phyu.kyaw@gmail.com,959449101020,777,Low,0
+49,160,Home,71414105.07,9.88,120,2020-12-02,2030-10-11,Approved,Nu Htun,Other,1947-04-27,78,Single,PhD,Engineer,1444773.82,Naypyidaw,2020-01-17,nu.htun@gmail.com,959883098193,504,High,0
+50,169,Education,22508800.4,11.75,36,2024-11-30,2027-11-15,Paid,Nu Myint,Female,1945-04-20,80,Divorced,Diploma,Construction Worker,2793617.14,Myitkyina,2020-02-13,nu.myint@gmail.com,959813617249,586,High,0
+51,172,Personal,82236166.89,10.55,24,2020-08-09,2022-07-30,Approved,Yin Win,Female,1959-01-25,66,Divorced,Diploma,Engineer,3426006.96,Taunggyi,2016-07-28,yin.win@gmail.com,959447507484,585,High,0
+52,173,Business,68666416.36,14.55,12,2024-08-10,2025-08-05,Defaulted,Win Win,Male,1996-02-09,29,Single,PhD,Teacher,738181.48,Mandalay,2022-10-04,win.win@gmail.com,959134154252,452,High,1
+53,175,Education,16300140.05,14.54,36,2023-03-07,2026-02-19,Approved,May Moe,Female,1995-07-28,30,Single,High School,Construction Worker,1768509.83,Mandalay,2019-08-13,may.moe@gmail.com,959652940908,636,Medium,0
+54,179,Personal,12280185.89,11.48,60,2024-01-07,2028-12-11,Approved,Htun Aung,Male,1976-02-17,49,Divorced,High School,Engineer,328697.21,Naypyidaw,2015-04-25,htun.aung@gmail.com,959337562690,430,High,0
+55,180,Business,73014289.02,8.78,36,2018-11-06,2021-10-21,Paid,Yin Win,Other,1974-03-09,51,Married,Master,Bank Employee,4867508.5,Mandalay,2017-04-25,yin.win@gmail.com,959511400307,612,Medium,0
+56,182,Education,98294716.51,14.08,12,2021-07-01,2022-06-26,Approved,May Myint,Female,2004-04-02,21,Single,Primary,Government Employee,1039826.52,Sittwe,2021-04-04,may.myint@gmail.com,959841328932,336,High,0
+57,185,Personal,36933501.4,9.87,60,2023-10-06,2028-09-09,Paid,Thet Aung,Female,1981-07-27,44,Single,Middle School,Doctor,4926894.59,Yangon,2019-03-23,thet.aung@gmail.com,959834278532,533,High,0
+58,190,Personal,25248782.79,14.31,24,2018-11-21,2020-11-10,Approved,Yin Aung,Female,1966-12-09,59,Single,Diploma,Farmer,4841138.55,Naypyidaw,2018-07-22,yin.aung@gmail.com,959686385828,849,Low,0
+59,191,Business,33471540.12,13.02,60,2017-01-06,2021-12-11,Approved,Phyu Zaw,Other,1952-09-25,73,Single,Diploma,Teacher,1443587.43,Sittwe,2016-08-20,phyu.zaw@gmail.com,959650834580,798,Low,0
+60,199,Car,10644065.93,13.6,36,2023-06-29,2026-06-13,Paid,Zaw Myint,Male,1995-06-17,30,Widowed,Diploma,Construction Worker,2905286.95,Yangon,2022-04-04,zaw.myint@gmail.com,959824644417,669,Medium,0
+61,200,Home,93292465.12,9.11,12,2025-02-10,2026-02-05,Rejected,Nu Kyaw,Female,1977-08-08,48,Divorced,Bachelor,Driver,2656426.32,Yangon,2020-04-02,nu.kyaw@gmail.com,959961591223,371,High,0
+62,202,Car,61197526.13,9.46,12,2025-01-26,2026-01-21,Approved,Phyu Lin,Other,1956-07-23,69,Married,High School,Engineer,4614302.91,Monywa,2024-12-06,phyu.lin@gmail.com,959315841866,482,High,0
+63,206,Car,30249235.83,9.38,120,2021-04-22,2031-03-01,Defaulted,Naing Win,Male,1958-06-08,67,Divorced,Bachelor,Doctor,3324418.34,Taunggyi,2020-08-27,naing.win@gmail.com,959715707700,746,Low,1
+64,210,Car,41864470.85,14.14,36,2024-09-29,2027-09-14,Approved,Naing Moe,Male,1985-04-02,40,Married,Middle School,Government Employee,4207321.77,Sittwe,2021-07-06,naing.moe@gmail.com,959143399086,611,Medium,0
+65,212,Education,12099009.95,9.89,24,2018-09-01,2020-08-21,Approved,Thandar Lin,Other,1960-01-24,65,Married,Bachelor,Business Owner,1754499.11,Myitkyina,2018-06-19,thandar.lin@gmail.com,959188331564,688,Medium,0
+66,214,Personal,50192396.97,8.24,24,2021-07-26,2023-07-16,Paid,Yin Oo,Other,1955-07-07,70,Married,PhD,Construction Worker,950473.11,Mawlamyine,2017-08-14,yin.oo@gmail.com,959742275362,809,Low,0
+67,215,Education,40663232.59,14.04,36,2024-07-02,2027-06-17,Approved,Win Zaw,Male,1995-01-10,30,Single,Master,Fisherman,4300480.43,Mawlamyine,2024-01-08,win.zaw@gmail.com,959634865584,542,High,0
+68,220,Home,95044666.89,10.6,24,2020-09-21,2022-09-11,Approved,Khin Lin,Other,1963-02-04,62,Widowed,Bachelor,Farmer,4557530.2,Yangon,2018-05-30,khin.lin@gmail.com,959572230994,850,Low,0
+69,222,Education,37833539.58,11.91,12,2023-10-24,2024-10-18,Approved,Kyaw Moe,Male,1998-03-20,27,Widowed,Primary,Teacher,4232432.29,Myitkyina,2023-04-11,kyaw.moe@gmail.com,959499687491,835,Low,0
+70,224,Personal,48971120.61,9.55,24,2019-10-19,2021-10-08,Paid,May Kyaw,Other,1952-01-11,73,Widowed,Middle School,Bank Employee,3440610.04,Pathein,2019-06-30,may.kyaw@gmail.com,959970269308,801,Low,0
+71,225,Personal,85184525.49,13.93,60,2025-03-19,2030-02-21,Approved,Hla Hlaing,Female,1997-04-11,28,Single,Diploma,Driver,504611.8,Monywa,2016-07-19,hla.hlaing@gmail.com,959607043571,347,High,0
+72,228,Business,34229457.95,13.41,120,2024-05-07,2034-03-16,Approved,Phyu Lin,Other,2007-02-28,18,Married,PhD,Government Employee,596572.52,Myitkyina,2024-05-04,phyu.lin@gmail.com,959238760237,346,High,0
+73,239,Personal,84989994.53,10.35,60,2017-04-25,2022-03-30,Paid,Su Myint,Other,1992-12-15,33,Married,Master,Driver,4759470.59,Taunggyi,2015-04-16,su.myint@gmail.com,959122390095,582,High,0
+74,241,Car,14185288.02,9.7,24,2024-09-07,2026-08-28,Approved,Zaw Htun,Male,1985-12-27,40,Married,Diploma,Fisherman,2118840.69,Pathein,2021-01-19,zaw.htun@gmail.com,959825855119,850,Low,0
+75,248,Business,73063981.71,12.49,12,2024-08-25,2025-08-20,Rejected,Htun Zaw,Male,1962-02-09,63,Single,Diploma,Driver,3496512.26,Taunggyi,2017-03-06,htun.zaw@gmail.com,959952378413,333,High,0
+76,249,Car,66352802.62,10.11,36,2024-07-30,2027-07-15,Paid,Yan Myint,Male,2000-02-27,25,Married,PhD,Government Employee,2333305.95,Yangon,2023-01-28,yan.myint@gmail.com,959406494771,574,High,0
+77,250,Home,49892105.1,14.22,36,2021-06-13,2024-05-28,Approved,Yan Oo,Male,1984-04-18,41,Divorced,Middle School,Government Employee,1816505.53,Bago,2019-10-24,yan.oo@gmail.com,959754610375,504,High,0
+78,251,Education,91620255.17,11.34,36,2024-05-17,2027-05-02,Approved,Thet Aung,Female,2006-08-01,19,Single,High School,Business Owner,3284768.33,Pathein,2015-12-14,thet.aung@gmail.com,959233976579,809,Low,0
+79,253,Education,52774691.73,9.92,60,2021-11-16,2026-10-21,Approved,Htun Myint,Male,1999-01-19,26,Divorced,PhD,Construction Worker,493613.23,Yangon,2016-03-15,htun.myint@gmail.com,959315494945,511,High,0
+80,263,Home,74989611.34,13.64,60,2021-05-29,2026-05-03,Approved,Nu Lin,Female,1972-09-06,53,Divorced,Bachelor,Farmer,4281710.12,Monywa,2020-11-26,nu.lin@gmail.com,959945179652,717,Low,0
+81,268,Business,1716407.69,10.67,24,2022-05-21,2024-05-10,Approved,Aung Oo,Male,2002-10-19,23,Divorced,PhD,Driver,2740863.74,Naypyidaw,2019-06-30,aung.oo@gmail.com,959190393458,496,High,0
+82,269,Education,78747356.21,14.38,60,2023-10-08,2028-09-11,Approved,Thet Oo,Other,1952-02-24,73,Divorced,Bachelor,Engineer,1063759.62,Sittwe,2023-08-17,thet.oo@gmail.com,959754107998,590,High,0
+83,271,Education,85159832.78,12.68,12,2021-09-11,2022-09-06,Rejected,Phyu Htun,Female,1990-11-17,35,Divorced,High School,Bank Employee,815141.57,Monywa,2020-05-31,phyu.htun@gmail.com,959473694732,444,High,0
+84,277,Home,63703012.82,9.19,60,2024-03-05,2029-02-07,Approved,Yin Zaw,Other,2002-12-13,23,Married,Diploma,Fisherman,1908936.98,Taunggyi,2023-07-03,yin.zaw@gmail.com,959922955348,678,Medium,0
+85,282,Education,35976386.82,11.21,120,2025-04-08,2035-02-15,Approved,Phyu Aung,Female,1988-06-26,37,Widowed,Middle School,Business Owner,4191373.01,Mawlamyine,2025-03-04,phyu.aung@gmail.com,959201387776,679,Medium,0
+86,283,Car,31033007.61,14.87,120,2025-01-16,2034-11-25,Paid,Thandar Oo,Other,1968-12-11,57,Single,Bachelor,Tour Guide,3058103.34,Bago,2024-10-17,thandar.oo@gmail.com,959592678273,538,High,0
+87,288,Business,46348850.82,12.81,120,2022-05-13,2032-03-21,Approved,Thura Lin,Male,1999-08-24,26,Married,Master,Merchant,4420692.89,Yangon,2021-08-19,thura.lin@gmail.com,959810400729,303,High,0
+88,296,Home,23544725.27,8.14,36,2025-02-15,2028-01-31,Approved,Hla Lin,Other,1961-01-28,64,Divorced,Middle School,Doctor,3524546.01,Mawlamyine,2024-11-27,hla.lin@gmail.com,959834497896,473,High,0
+89,302,Education,15021256.07,10.8,36,2023-09-12,2026-08-27,Approved,Nu Lin,Other,2004-01-13,21,Single,Bachelor,Driver,4100852.79,Myitkyina,2019-08-20,nu.lin@gmail.com,959484421450,561,High,0
+90,303,Business,85015051.93,9.96,12,2022-09-24,2023-09-19,Approved,Yan Moe,Male,2001-01-20,24,Widowed,Bachelor,Farmer,2926346.84,Mawlamyine,2022-03-17,yan.moe@gmail.com,959328801812,686,Medium,0
+91,309,Home,26278329.8,12.26,12,2023-09-24,2024-09-18,Approved,Aung Aung,Male,1960-09-25,65,Widowed,Master,Tour Guide,2858893.09,Pathein,2019-08-27,aung.aung@gmail.com,959960611300,334,High,0
+92,312,Personal,75804077.66,12.95,60,2017-09-19,2022-08-24,Paid,Win Myint,Male,1975-03-20,50,Single,Middle School,Tour Guide,507912.63,Myitkyina,2016-08-03,win.myint@gmail.com,959625039719,341,High,0
+93,316,Car,11026907.77,9.21,60,2024-08-17,2029-07-22,Approved,Yin Hlaing,Other,1968-02-29,57,Widowed,Primary,Engineer,4725456.13,Monywa,2019-07-17,yin.hlaing@gmail.com,959639457613,786,Low,0
+94,318,Education,1144282.7,9.36,120,2023-12-29,2033-11-06,Approved,Nilar Kyaw,Female,1977-05-17,48,Divorced,PhD,Tour Guide,978453.22,Myitkyina,2023-10-03,nilar.kyaw@gmail.com,959997086891,628,Medium,0
+95,321,Business,62634823.91,8.42,12,2023-11-20,2024-11-14,Paid,Min Moe,Male,1960-08-03,65,Single,PhD,Teacher,1184367.48,Sittwe,2020-03-22,min.moe@gmail.com,959962644555,406,High,0
+96,322,Business,33311986.57,13.61,12,2025-02-16,2026-02-11,Approved,Thet Kyaw,Other,2001-10-19,24,Widowed,Middle School,Engineer,1724983.72,Yangon,2019-05-05,thet.kyaw@gmail.com,959570173223,637,Medium,0
+97,323,Business,4166554.2,14.23,12,2024-10-06,2025-10-01,Approved,Kyaw Win,Male,1983-02-10,42,Widowed,Middle School,Tour Guide,3140687.21,Bago,2023-06-10,kyaw.win@gmail.com,959464860896,339,High,0
+98,327,Business,87562751.03,9.46,24,2024-03-30,2026-03-20,Approved,Htun Htun,Male,2005-11-04,20,Divorced,Bachelor,Construction Worker,3021971.75,Monywa,2015-09-28,htun.htun@gmail.com,959980942537,727,Low,0
+99,330,Education,5204912.66,9.52,120,2025-01-17,2034-11-26,Approved,Khin Zaw,Female,1951-06-18,74,Married,Middle School,Tour Guide,2868767.75,Naypyidaw,2024-03-26,khin.zaw@gmail.com,959460288194,753,Low,0
+100,334,Education,49967580.73,12.01,12,2025-04-05,2026-03-31,Approved,Phyu Htun,Female,1957-12-08,68,Single,Bachelor,Fisherman,2233290.99,Yangon,2025-04-03,phyu.htun@gmail.com,959417507101,706,Low,0
+101,342,Education,25447666.7,11.18,36,2025-01-26,2028-01-11,Rejected,Nu Htun,Other,1963-06-28,62,Married,PhD,Engineer,373593.05,Bago,2024-06-06,nu.htun@gmail.com,959320224608,591,High,0
+102,343,Education,43726586.58,13.57,12,2023-02-15,2024-02-10,Approved,Khin Moe,Other,2006-08-16,19,Single,High School,Government Employee,2950603.54,Sittwe,2021-12-31,khin.moe@gmail.com,959581105833,648,Medium,0
+103,348,Home,74903837.14,14.73,36,2022-12-03,2025-11-17,Paid,Yin Win,Other,1968-04-05,57,Divorced,PhD,Business Owner,3651610.1,Mandalay,2021-01-03,yin.win@gmail.com,959631676836,705,Low,0
+104,351,Business,45652006.25,14.88,60,2023-06-19,2028-05-23,Approved,Thura Lin,Male,1998-06-13,27,Widowed,Primary,Farmer,721208.56,Pathein,2023-05-07,thura.lin@gmail.com,959489939020,794,Low,0
+105,353,Business,90519571.47,12.39,36,2025-03-01,2028-02-14,Paid,Hla Hlaing,Female,1997-03-23,28,Married,Bachelor,Fisherman,1097039.74,Monywa,2024-03-18,hla.hlaing@gmail.com,959315153276,363,High,0
+106,356,Car,3396450.7,13.13,12,2022-02-06,2023-02-01,Approved,Phyu Myint,Other,1980-09-26,45,Married,Diploma,Teacher,936800.77,Yangon,2020-01-17,phyu.myint@gmail.com,959460698291,555,High,0
+107,365,Education,95102174.83,14.69,36,2025-03-09,2028-02-22,Approved,Su Zaw,Other,1979-06-15,46,Single,Primary,Business Owner,3390727.73,Taunggyi,2022-09-17,su.zaw@gmail.com,959303220542,428,High,0
+108,369,Business,63758817.51,12.74,24,2022-04-27,2024-04-16,Approved,Thet Oo,Other,1983-03-12,42,Divorced,Primary,Driver,791381.98,Monywa,2020-07-20,thet.oo@gmail.com,959487912497,319,High,0
+109,372,Education,9666427.56,10.61,36,2021-04-11,2024-03-26,Approved,Hla Aung,Female,1951-05-13,74,Single,PhD,Tour Guide,840900.75,Taunggyi,2019-12-15,hla.aung@gmail.com,959963277176,602,Medium,0
+110,373,Personal,82646217.43,12.23,36,2021-08-04,2024-07-19,Approved,Hla Oo,Other,1949-04-03,76,Married,Bachelor,Government Employee,2893978.36,Taunggyi,2019-04-05,hla.oo@gmail.com,959775099671,662,Medium,0
+111,376,Personal,59169085.55,8.2,120,2023-12-14,2033-10-22,Approved,Yin Moe,Other,1949-09-08,76,Single,Master,Business Owner,1267187.05,Mandalay,2019-01-24,yin.moe@gmail.com,959855195291,525,High,0
+112,384,Education,68754438.95,8.1,12,2025-03-30,2026-03-25,Approved,Kyaw Moe,Male,1981-04-15,44,Widowed,Diploma,Bank Employee,2611111.64,Myitkyina,2025-03-25,kyaw.moe@gmail.com,959785624944,792,Low,0
+113,385,Home,40361459.85,9.89,120,2024-09-26,2034-08-05,Approved,Khin Win,Female,1979-05-12,46,Single,PhD,Business Owner,1672822.57,Mawlamyine,2024-01-03,khin.win@gmail.com,959510874104,765,Low,0
+114,387,Car,70311237.66,10.54,24,2023-06-15,2025-06-04,Approved,Thet Win,Other,1969-12-02,56,Single,High School,Fisherman,4169429.2,Taunggyi,2022-04-23,thet.win@gmail.com,959894591264,531,High,0
+115,391,Education,29424378.68,11.24,60,2018-11-28,2023-11-02,Paid,Naing Oo,Male,1958-10-24,67,Married,PhD,Business Owner,4085570.32,Sittwe,2018-07-02,naing.oo@gmail.com,959673764784,689,Medium,0
+116,393,Personal,17107939.88,12.43,12,2025-03-09,2026-03-04,Rejected,Thet Win,Female,1983-12-13,42,Married,PhD,Doctor,4618212.95,Mawlamyine,2019-01-23,thet.win@gmail.com,959249012296,850,Low,0
+117,399,Home,24250485.19,12.85,120,2024-08-10,2034-06-19,Approved,May Aung,Female,1988-12-17,37,Divorced,Bachelor,Construction Worker,913792.98,Myitkyina,2023-01-08,may.aung@gmail.com,959442078975,547,High,0
+118,401,Car,79340191.38,10.94,12,2019-11-12,2020-11-06,Approved,Phyu Htun,Female,2006-07-05,19,Widowed,Middle School,Tour Guide,4574213.91,Mawlamyine,2018-11-26,phyu.htun@gmail.com,959669923999,779,Low,0
+119,402,Education,32320165.59,9,12,2023-04-17,2024-04-11,Approved,Min Win,Male,1949-01-12,76,Divorced,High School,Teacher,2047665.71,Naypyidaw,2017-10-29,min.win@gmail.com,959326269616,810,Low,0
+120,404,Business,64630323.8,11.24,120,2021-03-22,2031-01-29,Approved,Kyaw Lin,Male,1966-01-02,59,Single,Middle School,Construction Worker,1363097.05,Myitkyina,2021-02-27,kyaw.lin@gmail.com,959133638780,519,High,0
+121,409,Home,37736650.56,12.95,36,2017-02-27,2020-02-12,Approved,Nu Lin,Female,1981-08-07,44,Married,Primary,Teacher,958061.77,Mandalay,2015-04-15,nu.lin@gmail.com,959118957310,439,High,0
+122,410,Car,61955195.73,11.96,36,2024-12-05,2027-11-20,Approved,Yin Zaw,Other,1995-03-09,30,Widowed,High School,Government Employee,1464595.96,Mandalay,2022-05-06,yin.zaw@gmail.com,959379304044,542,High,0
+123,411,Education,25405254.44,9.19,12,2017-01-28,2018-01-23,Approved,Yan Myint,Male,1977-04-09,48,Divorced,PhD,Tour Guide,426074.71,Mawlamyine,2016-03-05,yan.myint@gmail.com,959149648092,473,High,0
+124,415,Home,92890994.76,12.54,12,2022-12-23,2023-12-18,Approved,May Hlaing,Female,1975-10-31,50,Married,PhD,Driver,4785929.02,Mandalay,2020-09-23,may.hlaing@gmail.com,959516427169,563,High,0
+125,419,Car,88030317.8,10.67,36,2023-07-15,2026-06-29,Paid,Yan Zaw,Male,1972-05-11,53,Widowed,Bachelor,Bank Employee,3887153.42,Mandalay,2022-06-03,yan.zaw@gmail.com,959862932335,649,Medium,0
+126,420,Education,11144321.58,11.25,120,2024-09-23,2034-08-02,Paid,Yin Kyaw,Female,1963-12-29,62,Single,Middle School,Teacher,4645750.45,Mandalay,2023-12-28,yin.kyaw@gmail.com,959769918173,807,Low,0
+127,424,Car,96754525.58,12.89,36,2024-10-18,2027-10-03,Rejected,Hla Htun,Other,1965-04-09,60,Divorced,PhD,Doctor,1578308.8,Mandalay,2017-10-24,hla.htun@gmail.com,959321765446,475,High,0
+128,426,Business,28238438.56,14.05,24,2024-11-28,2026-11-18,Approved,Khin Zaw,Other,2000-05-09,25,Married,High School,Teacher,4503061.57,Mandalay,2024-10-31,khin.zaw@gmail.com,959369742273,527,High,0
+129,429,Business,93539381.56,14.36,36,2025-01-08,2027-12-24,Approved,Myo Kyaw,Male,1996-01-01,29,Widowed,Master,Engineer,1574912.4,Mandalay,2023-05-14,myo.kyaw@gmail.com,959816110683,734,Low,0
+130,433,Personal,7202425.57,9.43,12,2023-10-26,2024-10-20,Approved,Win Zaw,Male,1946-10-06,79,Widowed,PhD,Business Owner,3742577.68,Pathein,2023-01-12,win.zaw@gmail.com,959849808102,741,Low,0
+131,434,Business,43331574.51,10.83,12,2021-07-03,2022-06-28,Paid,Htun Htun,Male,1965-04-26,60,Widowed,Primary,Business Owner,2845262.44,Yangon,2019-08-09,htun.htun@gmail.com,959245341944,821,Low,0
+132,436,Home,59286927.66,12.87,36,2019-01-15,2021-12-30,Rejected,Phyu Htun,Female,1996-04-13,29,Married,Master,Merchant,737225.2,Bago,2018-05-07,phyu.htun@gmail.com,959300208609,561,High,0
+133,437,Personal,96494176.51,13.93,12,2025-02-06,2026-02-01,Approved,Yin Zaw,Other,1978-02-16,47,Widowed,Master,Teacher,3029621.95,Pathein,2022-07-21,yin.zaw@gmail.com,959509047387,797,Low,0
+134,442,Car,36625191.7,11.13,120,2016-08-10,2026-06-19,Approved,Thandar Lin,Female,1954-06-22,71,Divorced,PhD,Teacher,724978.17,Mawlamyine,2015-11-21,thandar.lin@gmail.com,959254161251,670,Medium,0
+135,453,Business,16580618.84,13.57,12,2023-04-17,2024-04-11,Approved,Yan Htun,Male,1980-07-22,45,Widowed,PhD,Tour Guide,1987826.92,Pathein,2016-07-02,yan.htun@gmail.com,959343273168,743,Low,0
+136,456,Car,9423805.24,8.67,60,2025-01-10,2029-12-15,Rejected,Htun Win,Male,1999-09-14,26,Married,Master,Business Owner,1552676.91,Yangon,2024-11-27,htun.win@gmail.com,959561383974,416,High,0
+137,459,Home,97445430.72,12.74,60,2021-04-24,2026-03-29,Rejected,Khin Myint,Other,1998-09-04,27,Married,PhD,Driver,2847985.63,Naypyidaw,2018-10-06,khin.myint@gmail.com,959933162182,718,Low,0
+138,462,Education,31862083.93,12.22,24,2023-09-18,2025-09-07,Approved,Su Htun,Female,2006-04-15,19,Married,Bachelor,Tour Guide,4610953.49,Mandalay,2023-04-29,su.htun@gmail.com,959120366817,550,High,0
+139,464,Car,33215146.73,10.68,12,2023-06-22,2024-06-16,Approved,Thandar Zaw,Female,1945-12-31,80,Married,Middle School,Tour Guide,4758859.6,Myitkyina,2017-07-16,thandar.zaw@gmail.com,959811068239,412,High,0
+140,467,Personal,87365819.03,13.72,60,2024-05-23,2029-04-27,Approved,Nu Htun,Female,1951-09-10,74,Married,Bachelor,Engineer,4628879.62,Sittwe,2021-04-18,nu.htun@gmail.com,959278470701,757,Low,0
+141,472,Home,87586069.48,13.29,24,2024-10-20,2026-10-10,Paid,Phyu Moe,Female,1966-06-10,59,Divorced,Bachelor,Doctor,776714.23,Myitkyina,2023-10-13,phyu.moe@gmail.com,959178621571,734,Low,0
+142,474,Business,82365992.76,11.21,60,2024-12-23,2029-11-27,Approved,Hla Win,Female,1974-01-15,51,Divorced,Middle School,Doctor,1056251.13,Mandalay,2024-08-21,hla.win@gmail.com,959226900725,655,Medium,0
+143,486,Home,57419566.68,14.35,60,2021-04-27,2026-04-01,Approved,Su Hlaing,Female,1961-01-24,64,Married,Primary,Driver,1112531.17,Naypyidaw,2018-11-09,su.hlaing@gmail.com,959567251736,579,High,0
+144,487,Home,32862694.06,14.62,120,2021-04-17,2031-02-24,Paid,Kyaw Oo,Male,1958-01-02,67,Single,Diploma,Teacher,4944915.7,Monywa,2017-02-24,kyaw.oo@gmail.com,959270686825,669,Medium,0
+145,491,Business,35551668.62,8.02,12,2024-11-05,2025-10-31,Approved,Nu Win,Other,2004-04-05,21,Single,Bachelor,Teacher,3993004.46,Pathein,2022-11-29,nu.win@gmail.com,959366268363,834,Low,0
+146,492,Education,47165545.49,9.23,60,2016-12-04,2021-11-08,Paid,Yin Aung,Female,1967-01-25,58,Widowed,Master,Driver,2988509.23,Myitkyina,2016-10-24,yin.aung@gmail.com,959418238879,850,Low,0
+147,499,Home,13613904.06,10.11,60,2024-09-22,2029-08-27,Approved,Yan Myint,Male,1984-03-06,41,Single,Middle School,Business Owner,4413348.61,Bago,2024-07-10,yan.myint@gmail.com,959948690502,544,High,0
+148,501,Education,83166674.42,12.09,24,2022-12-08,2024-11-27,Approved,Phyu Hlaing,Female,2004-11-12,21,Widowed,Master,Teacher,3501519.49,Bago,2016-07-19,phyu.hlaing@gmail.com,959798786315,468,High,0
+149,505,Personal,15230044.56,10.07,24,2024-07-06,2026-06-26,Approved,Su Htun,Other,2004-04-11,21,Widowed,Middle School,Bank Employee,1114043.09,Yangon,2023-12-03,su.htun@gmail.com,959949452619,507,High,0
+150,510,Car,11245666.09,14.31,12,2024-01-03,2024-12-28,Paid,Thandar Zaw,Female,1972-07-31,53,Divorced,High School,Bank Employee,3642140.75,Mawlamyine,2023-01-24,thandar.zaw@gmail.com,959594715773,743,Low,0
+151,512,Business,84665828.14,9.13,60,2019-12-12,2024-11-15,Defaulted,Khin Htun,Other,1997-11-06,28,Widowed,High School,Merchant,4562484.34,Monywa,2017-09-11,khin.htun@gmail.com,959594819757,806,Low,1
+152,515,Education,49879728.93,14.84,12,2023-08-04,2024-07-29,Paid,Min Win,Male,1995-07-27,30,Widowed,Middle School,Tour Guide,1515663.7,Pathein,2021-12-25,min.win@gmail.com,959482678589,796,Low,0
+153,519,Car,21713033.28,14.6,120,2023-11-07,2033-09-15,Defaulted,Thandar Moe,Other,1965-01-05,60,Single,PhD,Government Employee,945616.72,Bago,2021-03-29,thandar.moe@gmail.com,959699638857,399,High,1
+154,520,Car,3081291.87,8.47,12,2024-12-02,2025-11-27,Approved,Yin Myint,Female,1984-07-25,41,Widowed,Middle School,Engineer,4353251.53,Naypyidaw,2022-02-28,yin.myint@gmail.com,959511097307,750,Low,0
+155,521,Personal,61746035.06,10.51,36,2020-02-16,2023-01-31,Approved,Win Zaw,Male,1955-02-25,70,Married,High School,Bank Employee,572663.86,Myitkyina,2016-08-25,win.zaw@gmail.com,959443656067,694,Medium,0
+156,525,Business,98877563.45,8.29,12,2023-12-09,2024-12-03,Approved,Nilar Kyaw,Other,1994-03-27,31,Divorced,High School,Government Employee,782728.65,Pathein,2022-04-22,nilar.kyaw@gmail.com,959329916410,696,Medium,0
+157,526,Car,98932711.01,9.81,24,2024-04-02,2026-03-23,Approved,Thandar Oo,Other,1974-03-14,51,Single,PhD,Farmer,1701550.59,Mawlamyine,2021-04-20,thandar.oo@gmail.com,959422681397,827,Low,0
+158,527,Business,47170204.17,8.13,36,2015-11-26,2018-11-10,Approved,Thet Myint,Female,1987-07-04,38,Divorced,Diploma,Bank Employee,4978720.33,Taunggyi,2015-09-23,thet.myint@gmail.com,959188724136,553,High,0
+159,528,Education,56116569.17,8.57,120,2023-06-10,2033-04-18,Approved,May Kyaw,Female,2007-01-25,18,Married,PhD,Doctor,389886.25,Bago,2016-09-11,may.kyaw@gmail.com,959849497597,829,Low,0
+160,529,Car,61150746.26,10.94,24,2020-04-16,2022-04-06,Approved,Khin Kyaw,Other,1950-03-08,75,Single,Bachelor,Fisherman,1094228.29,Taunggyi,2017-05-24,khin.kyaw@gmail.com,959926662974,842,Low,0
+161,531,Car,22652912.04,9.28,120,2015-10-14,2025-08-22,Approved,Zaw Htun,Male,1975-05-25,50,Single,Master,Teacher,2258845.16,Monywa,2015-06-30,zaw.htun@gmail.com,959667494341,376,High,0
+162,533,Home,13049334.11,8.27,36,2024-02-28,2027-02-12,Approved,Yin Win,Female,2002-01-17,23,Divorced,Bachelor,Construction Worker,3593413.83,Monywa,2023-12-26,yin.win@gmail.com,959958828108,597,High,0
+163,534,Education,17595669.82,12.37,12,2024-10-24,2025-10-19,Approved,Yan Myint,Male,1951-10-09,74,Single,High School,Teacher,3988372.31,Myitkyina,2022-11-26,yan.myint@gmail.com,959774700736,808,Low,0
+164,536,Car,18348600.06,13.68,60,2024-03-08,2029-02-10,Approved,Yin Aung,Other,1969-10-14,56,Married,Primary,Fisherman,2632867.15,Bago,2023-02-15,yin.aung@gmail.com,959328337601,543,High,0
+165,537,Car,84627229.78,13.54,36,2024-07-15,2027-06-30,Approved,Phyu Zaw,Other,1956-09-04,69,Married,Primary,Farmer,3456675.72,Mandalay,2017-09-02,phyu.zaw@gmail.com,959935956251,722,Low,0
+166,543,Car,36959438.08,14.16,60,2024-12-26,2029-11-30,Approved,Yin Lin,Female,1957-07-12,68,Widowed,Master,Government Employee,831365.81,Yangon,2021-03-17,yin.lin@gmail.com,959634260784,774,Low,0
+167,548,Home,51281016.7,8.49,24,2022-07-10,2024-06-29,Approved,Thura Kyaw,Male,2006-06-23,19,Widowed,High School,Bank Employee,3478589.17,Monywa,2022-04-22,thura.kyaw@gmail.com,959500437977,725,Low,0
+168,550,Car,8140988.89,12.02,24,2022-02-23,2024-02-13,Rejected,Phyu Oo,Female,1973-02-09,52,Single,PhD,Driver,1806978.93,Taunggyi,2021-01-21,phyu.oo@gmail.com,959808462402,826,Low,0
+169,555,Personal,92424948.72,10.87,36,2025-04-10,2028-03-25,Approved,May Htun,Female,1980-03-06,45,Married,PhD,Driver,1860271.34,Sittwe,2024-03-11,may.htun@gmail.com,959231508630,727,Low,0
+170,559,Home,33429010.04,8.27,60,2022-02-21,2027-01-26,Paid,Min Myint,Male,1988-02-20,37,Married,Middle School,Teacher,4672016.42,Monywa,2021-07-31,min.myint@gmail.com,959146232731,774,Low,0
+171,568,Home,18764018.98,9.69,60,2023-01-15,2027-12-20,Approved,Hla Zaw,Other,1956-12-01,69,Widowed,Bachelor,Construction Worker,4730566.16,Monywa,2017-11-29,hla.zaw@gmail.com,959611422324,819,Low,0
+172,569,Personal,50838801.92,9.77,120,2020-11-05,2030-09-14,Approved,Thet Aung,Other,1953-11-27,72,Widowed,PhD,Farmer,2756830.94,Yangon,2020-05-30,thet.aung@gmail.com,959434678230,616,Medium,0
+173,573,Car,79927573.4,9.75,60,2024-02-19,2029-01-23,Paid,Thet Moe,Other,1965-08-01,60,Married,Bachelor,Tour Guide,1651901.68,Yangon,2023-09-05,thet.moe@gmail.com,959795182175,541,High,0
+174,577,Personal,32537400.37,10.9,24,2024-04-04,2026-03-25,Defaulted,Khin Win,Female,1963-07-05,62,Married,Middle School,Tour Guide,2715080.21,Monywa,2022-05-19,khin.win@gmail.com,959792573705,754,Low,1
+175,582,Business,61550355.71,10.93,36,2021-09-24,2024-09-08,Approved,Thura Hlaing,Male,1963-05-15,62,Widowed,Primary,Engineer,1339630.98,Bago,2020-12-20,thura.hlaing@gmail.com,959956653743,402,High,0
+176,585,Education,36217288.25,14.17,36,2024-12-23,2027-12-08,Defaulted,Nu Myint,Other,1970-01-03,55,Married,Primary,Bank Employee,4462602.75,Monywa,2022-10-29,nu.myint@gmail.com,959820156229,351,High,1
+177,587,Home,1224417.3,10.22,12,2021-01-01,2021-12-27,Rejected,Thet Lin,Other,1974-01-21,51,Widowed,Primary,Merchant,4521923.56,Bago,2018-04-18,thet.lin@gmail.com,959263846772,819,Low,0
+178,595,Education,44187141.58,9.16,12,2023-02-10,2024-02-05,Approved,Phyu Moe,Female,1952-10-01,73,Widowed,PhD,Bank Employee,444850.01,Naypyidaw,2019-12-05,phyu.moe@gmail.com,959104716312,800,Low,0
+179,599,Business,88771931.54,9.25,24,2024-11-18,2026-11-08,Approved,Thura Hlaing,Male,2000-08-06,25,Married,Middle School,Government Employee,1337703.46,Mawlamyine,2024-08-17,thura.hlaing@gmail.com,959174506307,695,Medium,0
+180,605,Home,88664197.6,10.86,60,2021-08-11,2026-07-16,Approved,Myo Kyaw,Male,1989-03-20,36,Married,Master,Tour Guide,3311941.16,Mawlamyine,2016-08-13,myo.kyaw@gmail.com,959736956686,324,High,0
+181,609,Car,29260113.68,9.32,120,2018-05-27,2028-04-04,Approved,Yan Htun,Male,1969-03-03,56,Widowed,PhD,Construction Worker,1299975.23,Yangon,2016-06-27,yan.htun@gmail.com,959551981010,474,High,0
+182,617,Business,27419812.09,11.49,12,2023-01-04,2023-12-30,Paid,Khin Moe,Other,2001-05-30,24,Widowed,High School,Construction Worker,3370681.77,Mandalay,2022-07-25,khin.moe@gmail.com,959806082302,621,Medium,0
+183,618,Personal,60164938.5,11.56,12,2024-03-09,2025-03-04,Approved,Thandar Moe,Other,1970-09-09,55,Married,Bachelor,Doctor,1958620.64,Taunggyi,2024-02-01,thandar.moe@gmail.com,959731081288,600,High,0
+184,619,Car,51637655.19,14.76,12,2023-03-05,2024-02-28,Paid,Phyu Myint,Female,1944-08-24,81,Single,Bachelor,Government Employee,2367523.89,Bago,2018-07-14,phyu.myint@gmail.com,959613850567,607,Medium,0
+185,629,Personal,29045142.95,11.25,12,2021-11-13,2022-11-08,Approved,Kyaw Hlaing,Male,1972-10-09,53,Widowed,PhD,Government Employee,3145901.78,Naypyidaw,2021-10-31,kyaw.hlaing@gmail.com,959971748038,668,Medium,0
+186,634,Home,67124255.15,13.22,36,2024-10-18,2027-10-03,Approved,Min Myint,Male,1996-03-14,29,Widowed,High School,Business Owner,325706.43,Yangon,2024-05-07,min.myint@gmail.com,959362464612,320,High,0
+187,635,Home,12402417.7,14.38,36,2020-09-22,2023-09-07,Paid,Thet Win,Other,1965-12-07,60,Single,Diploma,Bank Employee,1265467.87,Taunggyi,2015-11-05,thet.win@gmail.com,959648830015,638,Medium,0
+188,638,Education,2669762.46,10.95,60,2020-05-22,2025-04-26,Approved,Thura Hlaing,Male,1955-10-23,70,Widowed,Middle School,Engineer,2927741,Myitkyina,2020-03-14,thura.hlaing@gmail.com,959160339365,355,High,0
+189,639,Car,1568388.62,8.85,24,2024-08-10,2026-07-31,Approved,Thandar Myint,Female,1989-12-10,36,Divorced,PhD,Tour Guide,2171209.83,Naypyidaw,2023-06-28,thandar.myint@gmail.com,959354178241,708,Low,0
+190,644,Personal,17154746.74,13.62,36,2025-04-10,2028-03-25,Approved,Yin Moe,Other,2004-10-20,21,Divorced,Master,Construction Worker,570076.26,Naypyidaw,2025-04-06,yin.moe@gmail.com,959191698993,790,Low,0
+191,648,Personal,7839185.96,10.18,60,2020-01-17,2024-12-21,Rejected,Nu Kyaw,Female,1985-11-29,40,Single,Master,Tour Guide,622500.71,Mandalay,2018-04-08,nu.kyaw@gmail.com,959139682844,359,High,0
+192,654,Personal,65337509.23,12.29,36,2021-09-24,2024-09-08,Approved,Nilar Kyaw,Other,1955-06-12,70,Divorced,Diploma,Engineer,2727569.82,Yangon,2017-06-29,nilar.kyaw@gmail.com,959389501311,726,Low,0
+193,660,Home,68811641.63,12.99,60,2023-03-01,2028-02-03,Approved,Su Lin,Other,2006-11-15,19,Divorced,Bachelor,Engineer,2613999.78,Sittwe,2017-08-23,su.lin@gmail.com,959549265554,656,Medium,0
+194,661,Home,46748019.72,14.27,60,2018-12-01,2023-11-05,Approved,Phyu Oo,Female,2004-06-26,21,Divorced,Diploma,Business Owner,3825796.11,Naypyidaw,2017-08-03,phyu.oo@gmail.com,959673659229,431,High,0
+195,668,Home,69311075.63,11.24,120,2022-09-06,2032-07-15,Approved,Nilar Win,Other,1953-08-21,72,Divorced,PhD,Business Owner,2910098.22,Monywa,2017-01-15,nilar.win@gmail.com,959503400895,633,Medium,0
+196,671,Education,33219621.39,12.86,120,2023-05-04,2033-03-12,Approved,Su Moe,Other,2003-05-29,22,Single,Master,Government Employee,582170.98,Mawlamyine,2018-10-26,su.moe@gmail.com,959436193778,641,Medium,0
+197,680,Business,84641147.86,8.22,60,2024-02-19,2029-01-23,Approved,Win Hlaing,Male,2004-08-21,21,Single,Primary,Doctor,2762719.12,Mandalay,2023-03-11,win.hlaing@gmail.com,959717376180,836,Low,0
+198,683,Education,16780130.69,9.95,36,2024-01-03,2026-12-18,Approved,Aung Htun,Male,1973-09-11,52,Divorced,PhD,Engineer,4361933.37,Myitkyina,2022-10-18,aung.htun@gmail.com,959366783994,436,High,0
+199,684,Business,2674468.1,11.51,36,2023-01-13,2025-12-28,Approved,Thandar Hlaing,Other,1970-01-12,55,Widowed,Middle School,Tour Guide,2834651.57,Sittwe,2019-11-21,thandar.hlaing@gmail.com,959190007434,415,High,0
+200,686,Car,22225749.57,14.05,36,2022-07-07,2025-06-21,Approved,Phyu Hlaing,Female,1963-03-01,62,Married,PhD,Teacher,2376743.44,Taunggyi,2016-10-05,phyu.hlaing@gmail.com,959812075282,624,Medium,0
+201,690,Car,92545097.23,14.9,120,2025-01-03,2034-11-12,Approved,Nilar Moe,Female,1996-06-22,29,Widowed,Diploma,Business Owner,1067366.63,Monywa,2024-10-01,nilar.moe@gmail.com,959829536542,548,High,0
+202,693,Home,54951381.86,10.49,24,2021-02-18,2023-02-08,Approved,Min Win,Male,1961-06-16,64,Widowed,Bachelor,Driver,1579030.41,Sittwe,2020-10-19,min.win@gmail.com,959402600750,790,Low,0
+203,696,Personal,89318731.77,14.1,60,2019-04-17,2024-03-21,Paid,Zaw Oo,Male,1945-03-04,80,Single,Diploma,Business Owner,1906990.41,Mawlamyine,2019-03-24,zaw.oo@gmail.com,959431979837,343,High,0
+204,702,Car,87203388.14,8.03,36,2024-01-21,2027-01-05,Approved,Su Kyaw,Female,1957-10-01,68,Single,Middle School,Bank Employee,2340559.76,Yangon,2019-11-24,su.kyaw@gmail.com,959922680442,412,High,0
+205,706,Business,85365614.15,9.04,36,2025-03-21,2028-03-05,Approved,Htun Lin,Male,1996-01-06,29,Married,High School,Fisherman,4006240.58,Taunggyi,2023-11-11,htun.lin@gmail.com,959497869236,779,Low,0
+206,707,Business,14168961.07,8.13,24,2024-02-27,2026-02-16,Approved,Nilar Htun,Female,1988-09-28,37,Widowed,High School,Tour Guide,933241.22,Yangon,2022-02-10,nilar.htun@gmail.com,959198812798,794,Low,0
+207,711,Business,49603765.44,10.46,120,2021-11-18,2031-09-27,Paid,Phyu Htun,Female,1998-12-07,27,Widowed,Master,Government Employee,4449782.15,Sittwe,2018-02-04,phyu.htun@gmail.com,959517225805,781,Low,0
+208,713,Education,37172637.23,9.48,12,2021-02-15,2022-02-10,Approved,Nilar Hlaing,Female,1978-01-20,47,Widowed,PhD,Fisherman,1024418.12,Mawlamyine,2021-01-24,nilar.hlaing@gmail.com,959198528828,843,Low,0
+209,714,Education,51541305.3,9.23,60,2024-08-12,2029-07-17,Approved,Yin Zaw,Female,1951-06-05,74,Single,Primary,Fisherman,3396787.84,Yangon,2024-04-03,yin.zaw@gmail.com,959589291460,703,Low,0
+210,716,Home,64727963.55,8.22,36,2022-10-08,2025-09-22,Approved,Yin Lin,Other,2003-08-15,22,Divorced,Primary,Engineer,1337397.09,Mandalay,2019-10-14,yin.lin@gmail.com,959547513130,569,High,0
+211,717,Business,53289916.27,13.03,60,2023-10-03,2028-09-06,Approved,Kyaw Lin,Male,1984-10-11,41,Single,Diploma,Bank Employee,585290.88,Pathein,2016-05-25,kyaw.lin@gmail.com,959797792001,560,High,0
+212,718,Education,8368096.48,9.74,120,2024-11-21,2034-09-30,Paid,Yin Zaw,Other,1947-06-15,78,Single,PhD,Construction Worker,1549333.48,Yangon,2020-12-10,yin.zaw@gmail.com,959415658015,494,High,0
+213,719,Home,56697392.45,11.17,24,2023-12-10,2025-11-29,Approved,Hla Aung,Other,1951-03-21,74,Single,Middle School,Fisherman,756460.48,Bago,2019-01-08,hla.aung@gmail.com,959722167931,555,High,0
+214,722,Personal,47105377.71,13.79,12,2021-11-20,2022-11-15,Approved,Yin Win,Other,2000-11-03,25,Married,PhD,Government Employee,2884837.69,Pathein,2018-02-07,yin.win@gmail.com,959252062175,349,High,0
+215,724,Education,45610222.6,8.86,24,2021-03-27,2023-03-17,Paid,Yin Moe,Female,1948-08-22,77,Divorced,Bachelor,Business Owner,2946780.1,Bago,2019-01-15,yin.moe@gmail.com,959893960331,438,High,0
+216,727,Business,36561613.28,13.88,24,2020-05-25,2022-05-15,Rejected,Min Kyaw,Male,1967-09-15,58,Married,PhD,Engineer,401996.45,Mawlamyine,2019-07-02,min.kyaw@gmail.com,959139121971,373,High,0
+217,730,Personal,96788976.84,14.64,36,2018-08-19,2021-08-03,Approved,Yin Myint,Other,1977-03-21,48,Married,Master,Teacher,3700828.48,Myitkyina,2016-04-25,yin.myint@gmail.com,959325776352,850,Low,0
+218,736,Home,19255417.56,11.53,120,2024-11-18,2034-09-27,Paid,Htun Zaw,Male,1981-09-05,44,Single,Diploma,Construction Worker,3802980.68,Pathein,2022-06-14,htun.zaw@gmail.com,959992069256,385,High,0
+219,738,Home,44743015.33,10.28,12,2023-06-11,2024-06-05,Approved,Win Hlaing,Male,1986-09-22,39,Married,Diploma,Doctor,3365567.66,Bago,2019-01-10,win.hlaing@gmail.com,959213363340,576,High,0
+220,755,Education,5702332.58,13.06,12,2024-05-15,2025-05-10,Rejected,Yin Hlaing,Other,2006-10-16,19,Married,Diploma,Business Owner,2992623.2,Monywa,2023-07-13,yin.hlaing@gmail.com,959353138788,361,High,0
+221,762,Home,63859359.61,12.28,12,2023-10-22,2024-10-16,Approved,Kyaw Htun,Male,2002-06-01,23,Divorced,Primary,Tour Guide,3965183.37,Naypyidaw,2018-12-29,kyaw.htun@gmail.com,959197601431,587,High,0
+222,764,Home,83912847.75,9.65,60,2017-10-25,2022-09-29,Rejected,Kyaw Kyaw,Male,1948-08-31,77,Single,Diploma,Farmer,4649544.89,Monywa,2017-01-31,kyaw.kyaw@gmail.com,959355417877,489,High,0
+223,768,Car,61540563.04,11.71,120,2024-06-19,2034-04-28,Approved,Su Hlaing,Other,1987-10-07,38,Single,Diploma,Driver,4186947.48,Yangon,2021-05-24,su.hlaing@gmail.com,959165396823,703,Low,0
+224,771,Car,76124851.14,12,120,2016-09-24,2026-08-03,Paid,Khin Moe,Female,1989-09-11,36,Divorced,Bachelor,Farmer,3542778.9,Naypyidaw,2015-07-25,khin.moe@gmail.com,959885892143,464,High,0
+225,773,Personal,37103917.4,11.22,120,2025-02-25,2035-01-04,Paid,Thura Moe,Male,1961-05-31,64,Divorced,Diploma,Farmer,1140729.32,Sittwe,2022-05-14,thura.moe@gmail.com,959380720757,456,High,0
+226,775,Personal,60357301.49,9.63,24,2022-02-10,2024-01-31,Approved,Hla Win,Other,1989-12-15,36,Single,Master,Driver,3280140.37,Mandalay,2021-12-20,hla.win@gmail.com,959763187466,618,Medium,0
+227,778,Education,17672497.24,10.74,12,2022-11-26,2023-11-21,Rejected,Thandar Aung,Female,1950-08-14,75,Widowed,High School,Bank Employee,1149271.32,Naypyidaw,2018-11-05,thandar.aung@gmail.com,959621225071,504,High,0
+228,782,Personal,98236969.19,12.52,12,2021-06-25,2022-06-20,Defaulted,Nu Hlaing,Female,1947-07-28,78,Married,Primary,Government Employee,996803.99,Taunggyi,2016-03-18,nu.hlaing@gmail.com,959217323264,329,High,1
+229,789,Education,28753984.17,9.67,60,2023-04-12,2028-03-16,Paid,Nu Zaw,Female,1985-05-01,40,Divorced,Bachelor,Construction Worker,4976614.38,Taunggyi,2022-03-16,nu.zaw@gmail.com,959426751777,850,Low,0
+230,795,Home,35144897.15,8.54,60,2024-12-08,2029-11-12,Approved,Yin Myint,Female,1977-10-06,48,Single,PhD,Government Employee,1211873.23,Taunggyi,2024-09-02,yin.myint@gmail.com,959780261144,383,High,0
+231,796,Education,94662900.65,8.54,120,2022-07-16,2032-05-24,Defaulted,Phyu Lin,Other,1998-11-19,27,Single,Master,Government Employee,2563028.96,Myitkyina,2020-08-20,phyu.lin@gmail.com,959740682602,569,High,1
+232,818,Education,42128421.58,11.8,60,2019-08-26,2024-07-30,Paid,Phyu Htun,Female,1973-12-03,52,Single,Diploma,Teacher,1951771.86,Myitkyina,2018-06-03,phyu.htun@gmail.com,959652798557,492,High,0
+233,821,Education,72925482.75,11.12,60,2025-03-09,2030-02-11,Rejected,Naing Kyaw,Male,1990-02-14,35,Married,Diploma,Doctor,610481.69,Bago,2023-11-16,naing.kyaw@gmail.com,959157349753,582,High,0
+234,824,Education,54054295.21,8.6,36,2023-04-05,2026-03-20,Defaulted,Hla Lin,Other,1974-06-02,51,Married,High School,Doctor,627155.88,Mandalay,2021-11-26,hla.lin@gmail.com,959202213754,300,High,1
+235,826,Home,70755153.22,14.71,60,2021-08-01,2026-07-06,Approved,Htun Myint,Male,1966-01-28,59,Single,PhD,Government Employee,3406142.55,Myitkyina,2020-03-21,htun.myint@gmail.com,959486691221,719,Low,0
+236,831,Education,15642248.2,11.42,36,2021-12-31,2024-12-15,Approved,Min Htun,Male,1991-05-18,34,Married,Diploma,Tour Guide,3073770.21,Taunggyi,2018-08-08,min.htun@gmail.com,959291965377,439,High,0
+237,833,Home,51867879.88,13.24,12,2023-12-25,2024-12-19,Approved,Khin Kyaw,Female,1951-11-19,74,Widowed,PhD,Engineer,4247824.63,Naypyidaw,2021-12-19,khin.kyaw@gmail.com,959269044225,828,Low,0
+238,834,Personal,64730806.45,12,36,2018-06-17,2021-06-01,Paid,Khin Oo,Female,2006-04-08,19,Single,Primary,Bank Employee,373826.66,Myitkyina,2016-12-23,khin.oo@gmail.com,959383897911,706,Low,0
+239,840,Home,99411118.73,9.8,120,2025-02-10,2034-12-20,Paid,Yan Aung,Male,1962-10-18,63,Widowed,Bachelor,Teacher,2759776.93,Sittwe,2024-07-04,yan.aung@gmail.com,959488303699,369,High,0
+240,842,Education,58276628.95,9.49,60,2021-12-21,2026-11-25,Approved,Nu Htun,Female,1990-02-21,35,Divorced,Bachelor,Farmer,2503683.41,Pathein,2021-08-04,nu.htun@gmail.com,959717765543,353,High,0
+241,845,Home,22799108.2,14.56,12,2022-09-25,2023-09-20,Paid,Su Aung,Other,2002-01-14,23,Single,High School,Driver,687797.78,Pathein,2021-10-18,su.aung@gmail.com,959242207584,810,Low,0
+242,846,Business,2650705.97,11.29,60,2025-03-18,2030-02-20,Approved,Min Aung,Male,1966-11-30,59,Married,Bachelor,Merchant,1593520.44,Mawlamyine,2024-03-19,min.aung@gmail.com,959438400964,659,Medium,0
+243,853,Home,33845009.83,14.82,60,2017-08-22,2022-07-27,Approved,Yan Moe,Male,1971-12-27,54,Single,High School,Driver,2095419.25,Taunggyi,2017-08-04,yan.moe@gmail.com,959134376409,782,Low,0
+244,857,Car,5995528.97,10.38,12,2024-04-15,2025-04-10,Approved,Thet Htun,Female,1950-10-02,75,Single,PhD,Teacher,356218.63,Mandalay,2017-02-12,thet.htun@gmail.com,959226962200,382,High,0
+245,865,Personal,71451771.53,8.19,12,2024-09-13,2025-09-08,Approved,Yin Oo,Other,1996-09-22,29,Widowed,Primary,Government Employee,2840971.14,Monywa,2024-05-13,yin.oo@gmail.com,959781555313,428,High,0
+246,867,Education,15656792.95,14.77,12,2024-02-03,2025-01-28,Paid,Naing Aung,Male,1997-05-17,28,Widowed,Primary,Driver,999615.09,Yangon,2023-07-01,naing.aung@gmail.com,959230713219,706,Low,0
+247,870,Personal,87615774.3,12.25,60,2022-11-28,2027-11-02,Approved,Nilar Htun,Other,1968-06-02,57,Widowed,Master,Driver,869657.16,Pathein,2022-07-17,nilar.htun@gmail.com,959832996029,625,Medium,0
+248,872,Personal,63375145.58,9.89,36,2023-04-30,2026-04-14,Paid,Thet Zaw,Female,1969-05-07,56,Single,PhD,Driver,3874129.48,Mawlamyine,2019-10-27,thet.zaw@gmail.com,959661714359,386,High,0
+249,877,Business,93943092.1,9.11,36,2025-03-10,2028-02-23,Approved,Su Moe,Other,1996-03-20,29,Single,Middle School,Bank Employee,3436387.17,Myitkyina,2020-05-26,su.moe@gmail.com,959639992588,673,Medium,0
+250,878,Car,67198881.45,10.62,36,2021-09-19,2024-09-03,Paid,Thet Oo,Other,1953-06-13,72,Married,Primary,Farmer,3756660.7,Myitkyina,2019-09-24,thet.oo@gmail.com,959948001640,836,Low,0
+251,879,Education,4759821.53,11.21,12,2018-12-24,2019-12-19,Approved,Su Lin,Other,2003-06-02,22,Single,Middle School,Tour Guide,3349296.17,Yangon,2016-10-19,su.lin@gmail.com,959490220670,792,Low,0
+252,883,Personal,50711664.79,12.54,24,2023-01-20,2025-01-09,Approved,Nilar Htun,Female,1989-11-09,36,Married,High School,Teacher,867503.8,Naypyidaw,2022-11-27,nilar.htun@gmail.com,959299537396,653,Medium,0
+253,884,Car,78094896.54,8.61,24,2023-01-06,2024-12-26,Approved,Khin Zaw,Female,1966-10-16,59,Married,Diploma,Business Owner,4650674.99,Yangon,2019-12-09,khin.zaw@gmail.com,959317404613,850,Low,0
+254,886,Business,32480263.19,9.04,24,2020-06-01,2022-05-22,Approved,Aung Htun,Male,1968-03-20,57,Married,Primary,Tour Guide,3363252.22,Mawlamyine,2016-11-23,aung.htun@gmail.com,959637390055,670,Medium,0
+255,891,Car,53417760.46,11.09,60,2021-04-28,2026-04-02,Approved,Nilar Aung,Other,1991-10-26,34,Single,Middle School,Teacher,4044080.97,Myitkyina,2021-01-24,nilar.aung@gmail.com,959666216960,763,Low,0
+256,893,Personal,11446287.89,12.16,120,2023-06-15,2033-04-23,Approved,Thandar Zaw,Female,1988-03-09,37,Widowed,Primary,Teacher,3779959.36,Pathein,2023-03-08,thandar.zaw@gmail.com,959946329413,370,High,0
+257,900,Education,92528735.76,13.65,36,2022-12-21,2025-12-05,Rejected,Min Oo,Male,1954-09-26,71,Single,PhD,Driver,2455320.95,Naypyidaw,2015-05-11,min.oo@gmail.com,959290049302,582,High,0
+258,901,Education,33870098.64,14.96,60,2024-11-27,2029-11-01,Approved,Nilar Aung,Female,1997-03-01,28,Married,PhD,Bank Employee,4777972.67,Naypyidaw,2024-07-14,nilar.aung@gmail.com,959269460653,443,High,0
+259,906,Business,87630192.92,10.42,120,2024-09-05,2034-07-15,Paid,Phyu Win,Female,1957-01-09,68,Widowed,Diploma,Business Owner,690530.16,Yangon,2024-06-26,phyu.win@gmail.com,959947756803,738,Low,0
+260,911,Home,80213625.33,10.69,120,2024-05-27,2034-04-05,Defaulted,Yin Aung,Female,1998-06-21,27,Married,PhD,Bank Employee,680507.5,Taunggyi,2022-08-15,yin.aung@gmail.com,959160409345,500,High,1
+261,913,Home,70379208.16,11.07,36,2022-04-10,2025-03-25,Approved,Su Zaw,Other,1976-10-28,49,Divorced,Middle School,Bank Employee,2926315.15,Mandalay,2016-05-15,su.zaw@gmail.com,959935460870,847,Low,0
+262,914,Education,99496375.94,10.14,12,2023-07-22,2024-07-16,Approved,Nilar Oo,Other,1976-10-16,49,Divorced,Middle School,Fisherman,833721.09,Myitkyina,2019-10-05,nilar.oo@gmail.com,959774456344,338,High,0
+263,917,Education,11397864.13,10.3,24,2021-05-19,2023-05-09,Paid,Thet Win,Other,1955-12-15,70,Widowed,Master,Fisherman,3488048.97,Pathein,2016-09-26,thet.win@gmail.com,959848934523,838,Low,0
+264,920,Home,58754279.5,8.29,120,2022-05-19,2032-03-27,Approved,Htun Aung,Male,1959-01-26,66,Single,Master,Government Employee,2632745.05,Bago,2021-11-05,htun.aung@gmail.com,959918964936,836,Low,0
+265,929,Home,8161601.79,12.73,60,2021-08-22,2026-07-27,Defaulted,May Zaw,Other,2001-05-22,24,Married,High School,Driver,2837373,Naypyidaw,2021-05-09,may.zaw@gmail.com,959771923585,823,Low,1
+266,931,Home,12271012.55,12.99,24,2017-10-08,2019-09-28,Paid,Khin Htun,Female,1994-10-07,31,Divorced,Master,Tour Guide,1689117.29,Mawlamyine,2016-03-03,khin.htun@gmail.com,959323905137,819,Low,0
+267,932,Business,6905237.62,12.85,36,2024-11-04,2027-10-20,Approved,Khin Myint,Other,1977-09-20,48,Widowed,High School,Tour Guide,827883.43,Myitkyina,2021-08-27,khin.myint@gmail.com,959505755580,716,Low,0
+268,935,Home,81416510.48,10.94,36,2023-06-08,2026-05-23,Approved,Nilar Aung,Other,2001-05-01,24,Married,Primary,Teacher,2830537.78,Myitkyina,2022-11-17,nilar.aung@gmail.com,959541311859,558,High,0
+269,937,Car,47762169.45,12.98,60,2020-07-09,2025-06-13,Paid,Su Zaw,Other,1970-09-16,55,Widowed,Middle School,Tour Guide,4312879.13,Taunggyi,2015-06-24,su.zaw@gmail.com,959689062962,402,High,0
+270,941,Personal,7761038.66,14.3,120,2025-01-19,2034-11-28,Approved,Min Lin,Male,2000-09-15,25,Divorced,Primary,Construction Worker,3853736.05,Mandalay,2023-09-25,min.lin@gmail.com,959422603708,540,High,0
+271,945,Personal,8035561.91,13.69,120,2020-04-19,2030-02-26,Approved,Thandar Lin,Female,1991-09-15,34,Single,Master,Bank Employee,4495626.67,Monywa,2020-03-19,thandar.lin@gmail.com,959416183277,424,High,0
+272,947,Business,79304320.03,10.93,12,2024-09-15,2025-09-10,Approved,May Myint,Other,1949-02-13,76,Widowed,Bachelor,Doctor,4381225.82,Myitkyina,2021-07-10,may.myint@gmail.com,959751928136,818,Low,0
+273,948,Personal,8821493.91,12.9,36,2020-11-30,2023-11-15,Approved,Hla Zaw,Other,1990-11-06,35,Single,PhD,Merchant,1065381.99,Yangon,2018-08-28,hla.zaw@gmail.com,959271913819,538,High,0
+274,951,Education,32870024.25,9.17,12,2024-05-15,2025-05-10,Approved,Nilar Oo,Other,2006-03-16,19,Single,Bachelor,Government Employee,2855447.98,Taunggyi,2017-09-22,nilar.oo@gmail.com,959932440816,421,High,0
+275,955,Car,31465989.56,12.91,120,2019-02-08,2028-12-17,Approved,Thet Hlaing,Other,2002-10-07,23,Single,Diploma,Driver,4605346.45,Mandalay,2018-04-11,thet.hlaing@gmail.com,959764213479,349,High,0
+276,957,Business,59724198.77,9.25,24,2022-09-30,2024-09-19,Paid,Thet Zaw,Other,1959-12-02,66,Married,Master,Merchant,435169.82,Mandalay,2015-11-26,thet.zaw@gmail.com,959602960617,833,Low,0
+277,960,Car,3684735.79,12.15,60,2022-06-07,2027-05-12,Paid,Zaw Htun,Male,1955-04-27,70,Single,Diploma,Teacher,4570087.7,Yangon,2017-04-25,zaw.htun@gmail.com,959121723632,830,Low,0
+278,962,Education,21340116.82,13.74,36,2025-01-01,2027-12-17,Paid,Nilar Oo,Other,1962-11-06,63,Divorced,Primary,Teacher,984117.8,Mawlamyine,2019-06-03,nilar.oo@gmail.com,959258733962,827,Low,0
+279,964,Business,57705816.04,10.94,60,2016-11-30,2021-11-04,Approved,Yan Myint,Male,1985-09-09,40,Single,Primary,Construction Worker,3887246.95,Pathein,2016-11-27,yan.myint@gmail.com,959530170428,572,High,0
+280,965,Business,97390628.08,8.09,24,2023-05-19,2025-05-08,Paid,Kyaw Aung,Male,1994-04-30,31,Married,PhD,Fisherman,320345.96,Mandalay,2018-04-07,kyaw.aung@gmail.com,959686919038,496,High,0
+281,966,Education,21545107.32,13.54,12,2024-02-03,2025-01-28,Paid,Yan Lin,Male,1989-05-20,36,Divorced,Master,Construction Worker,1170091.16,Mandalay,2023-08-14,yan.lin@gmail.com,959835054288,675,Medium,0
+282,979,Personal,50479901.62,8.89,24,2021-07-19,2023-07-09,Approved,Su Oo,Other,1988-09-09,37,Widowed,Bachelor,Bank Employee,1836692.66,Mawlamyine,2020-10-05,su.oo@gmail.com,959418976145,507,High,0
+283,991,Personal,21669689.09,13.31,24,2024-03-23,2026-03-13,Defaulted,Win Moe,Male,2000-06-01,25,Widowed,High School,Farmer,3571004.84,Sittwe,2023-10-15,win.moe@gmail.com,959479418865,688,Medium,1
+284,996,Education,88870839.71,10.17,36,2023-02-05,2026-01-20,Approved,Naing Win,Male,1946-11-24,79,Single,Bachelor,Engineer,1584815.18,Sittwe,2020-12-23,naing.win@gmail.com,959975419755,740,Low,0
+285,1000,Car,55028791.82,12.94,120,2020-02-17,2029-12-26,Paid,Phyu Kyaw,Other,1980-06-21,45,Widowed,High School,Bank Employee,2803780.87,Sittwe,2017-11-08,phyu.kyaw@gmail.com,959714545488,559,High,0

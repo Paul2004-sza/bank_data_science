@@ -1,5 +1,5 @@
 library(DBI)
-library(RMySQL) # or RMariaDB
+library(RMySQL)
 
 CLIENT_LOCAL_FILES <- 4L
 
@@ -7,7 +7,7 @@ readRenviron("C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/.Renviron")
 
 connect_db <- function() {
   dbConnect(
-    RMySQL::MySQL(),  # or RMariaDB::MariaDB()
+    RMySQL::MySQL(),
     dbname   = Sys.getenv("MYSQL_DB"),
     host     = Sys.getenv("MYSQL_HOST"),
     port     = as.integer(Sys.getenv("MYSQL_PORT")),

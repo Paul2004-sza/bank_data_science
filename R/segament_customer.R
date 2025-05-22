@@ -73,9 +73,9 @@ features_clean <- features_clean[, apply(features_clean, 2, var) != 0]
 features_scaled <- scale(features_clean)
 
 # Check for any missing, NaN, or Inf values after scaling
-sum(is.na(features_scaled))       # Should be 0
-sum(is.nan(features_scaled))      # Should be 0
-sum(!is.finite(features_scaled))  # Should be 0
+sum(is.na(features_scaled))
+sum(is.nan(features_scaled))
+sum(!is.finite(features_scaled))
 
 
 # K-Means Clustering
