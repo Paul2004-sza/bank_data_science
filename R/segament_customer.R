@@ -88,20 +88,40 @@ customer_data_clean$kmeans_cluster[as.numeric(rownames(features))] <- kmeans_res
 # Visualize K-Means clusters
 fviz_cluster(kmeans_result, data = features_scaled, geom = "point", ellipse.type = "norm", main = "K-Means Clustering")
 
-# Hierarchical Clustering
-dist_matrix <- dist(features_scaled)
-hc_result   <- hclust(dist_matrix, method = "ward.D2")
+#Check the size of your data
+cat("Rows:", nrow(features_scaled), "Columns:", ncol(features_scaled), "\n")
 
-# enlarge margins
-par(mar = c(5, 4, 2, 1))
-plot(hc_result,
-     main = "Dendrogram for Hierarchical Clustering",
-     xlab = "", sub = "", cex = 0.9)
+#Reduce dimensions with PCA
+pca_result <- prcomp(features_scaled, scale. = TRUE)
+features_pca <- pca_result$x[, 1:5]  # Use top 5 components
 
+#Sample 500 observations for visualization because of my system limit
+set.seed(123)  # For reproducibility
+sample_index <- sample(1:nrow(features_pca), 500)
+features_sample <- features_pca[sample_index, ]
 
-hc_clusters <- cutree(hc_result, k = 4)
+#Hierarchical clustering on sampled data
+dist_matrix <- dist(features_sample)
+hc_result <- hclust(dist_matrix, method = "ward.D2")
+
+#Plot dendrogram
+fviz_dend(hc_result, 
+          k = 4,
+          show_labels = FALSE,
+          cex = 0.6,
+          k_colors = "jco",
+          rect = TRUE,
+          rect_border = "jco",
+          rect_fill = TRUE,
+          lwd = 1,
+          main = "Hierarchical Clustering Dendrogram (Sample of 500, PCA)")
+
+# OptionalApply clustering on full dataset (no plot)
+dist_full <- dist(features_pca)
+hc_full   <- hclust(dist_full, method = "ward.D2")
+hc_clusters <- cutree(hc_full, k = 4)
 customer_data_clean$hc_cluster <- NA
-customer_data_clean$hc_cluster[as.numeric(rownames(features))] <- hc_clusters
+customer_data_clean$hc_cluster[as.numeric(rownames(features_scaled))] <- hc_clusters
 
 # DBSCAN Clustering 
 dbscan_result <- dbscan(features_scaled, eps = 0.5, minPts = 5)
@@ -140,10 +160,10 @@ customer_data_clean$segment_label <- case_when(
   customer_data_clean$kmeans_cluster == 4 ~ "Infrequent Users",
   TRUE ~ "Other"
 )
-# Export final labeled data
+dev.off()
 write_csv(customer_data_clean, "C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/processed/ML_data/customer_segments.csv")
 
-# Check for issues in scaled features 
+# Check issues in scaled features 
 summary(features_scaled)./.
 cat("Any NA? ", anyNA(features_scaled), "\n")
 cat("Any NaN? ", any(is.nan(features_scaled)), "\n")
