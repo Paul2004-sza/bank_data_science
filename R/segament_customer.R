@@ -161,7 +161,7 @@ customer_data_clean$segment_label <- case_when(
   TRUE ~ "Other"
 )
 dev.off()
-write_csv(customer_data_clean, "C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/processed/ML_data/customer_segments.csv")
+write_csv(customer_data_clean, "C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/ML_data/customer_segments.csv")
 
 # Check issues in scaled features 
 summary(features_scaled)./.
