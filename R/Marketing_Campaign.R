@@ -16,6 +16,7 @@ set.seed(123)
 customers <- read.csv("C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/row/b_customers.csv")
 campaigns <- read.csv("C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/row/b_marketing_campaigns.csv")
 responses <- read_csv("C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/row/c_campaign_responses.csv")
+costs <- read.csv("C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/row/b_campaign_marketing_with_cost.csv")
 
 campaigns <- campaigns %>%
   mutate(start_date = as.Date(start_date),
@@ -176,7 +177,7 @@ final_predictions <- new_data %>%
 
 
 print(final_predictions)
-write_csv(final_predictions, "C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/ML_data/campaign_predictions.csv")
+write_csv(final_predictions, "C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/ML_data/campaign/campaign_predictions.csv")
 
 # Analysis by income bracket
 joined_data <- final_predictions %>%
@@ -201,4 +202,101 @@ ggplot(income_analysis, aes(x = income_bracket, y = Conversion_Rate)) +
   theme_minimal()
 
 print(income_analysis)
-write_csv(income_analysis, "C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/ML_data/income_conversion_rate.csv")
+write_csv(income_analysis, "C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/ML_data/campaign/income_conversion_rate.csv")
+
+library(dplyr)
+library(ggplot2)
+
+#Merge transactions with accounts to get customer_id
+transactions_full <- merge(
+  transactions,
+  accounts[, c("account_id", "customer_id")],
+  by = "account_id"
+)
+
+responses_yes <- responses[responses$responded == TRUE, ]
+
+#Merge responses with transactions using customer_id
+merged_data <- merge(responses_yes, transactions_full, by = "customer_id")
+head(merged_data)
+
+# Revenue statistics per customer, then average
+revenue_stats <- merged_data %>%
+  group_by(customer_id) %>%
+  summarise(total_spent = sum(amount)) %>%
+  summarise(average_revenue_per_response = mean(total_spent))
+
+print(revenue_stats)
+
+# Calculate response count per campaign
+response_summary <- responses %>%
+  filter(responded == TRUE) %>%
+  group_by(campaign_id) %>%
+  summarise(responders = n())
+
+# Merge campaign cost with response count
+roi_df <- merge(response_summary, costs, by = "campaign_id")
+
+# Add revenue per response & calculate ROI
+#hard-coded value
+revenue_per_response <- 358386752
+
+roi_df <- roi_df %>%
+  mutate(
+    total_revenue = responders * revenue_per_response,
+    roi = (total_revenue - cost_mmk) / cost_mmk
+  )
+
+print(roi_df)
+write.csv(roi_df, file = "C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/ML_data/campaign/roi_result.csv", row.names = FALSE )
+write.csv(revenue_stats, file = "C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/ML_data/campaign/revenue_stats.csv", row.names = FALSE )
+
+ggplot(roi_df, aes(x = reorder(campaign_name, -roi), y = roi, fill = channel)) +
+  geom_col() +
+  coord_flip() +
+  labs(
+    title = "ROI per Marketing Campaign",
+    x = "Campaign",
+    y = "ROI (Return on Investment)"
+  ) +
+  theme_minimal()
+library(dplyr)
+library(ggplot2)
+
+#  Personalized offers summary by customer and channel
+personalized_offers <- merged_data %>%
+  group_by(customer_id, channel) %>%
+  summarise(
+    total_spent = sum(amount),
+    transactions = n(),
+    last_location = last(location),
+    .groups = "drop"
+  )
+
+ggplot(personalized_offers, aes(x = reorder(channel, -total_spent), y = total_spent, fill = channel)) +
+  geom_col(show.legend = FALSE) +
+  labs(title = "Total Spent by Channel", x = "Channel", y = "Total Spent") +
+  theme_minimal()
+
+# Assign A/B testing groups if not already in `responses`
+set.seed(123)  # For reproducibility
+responses$group <- ifelse(runif(nrow(responses)) > 0.5, "A", "B")
+
+# Calculate response stats by A/B group
+ab_test <- responses %>%
+  group_by(group) %>%
+  summarise(
+    total = n(),
+    responded = sum(responded == TRUE),
+    response_rate = responded / total,
+    .groups = "drop"
+  )
+
+print(ab_test)
+write.csv(ab_test, file = "C:/Users/Sut Zaw Aung/StockMarketDB/pythonProjectBank/data/ML_data/campaign/response_rate_AB_test_g.csv", row.names = FALSE )
+ggplot(ab_test, aes(x = group, y = response_rate, fill = group)) +
+  geom_col() +
+  geom_text(aes(label = scales::percent(response_rate, accuracy = 0.1)), vjust = -0.5) +
+  labs(title = "Response Rate by A/B Test Group", x = "Group", y = "Response Rate") +
+  scale_y_continuous(labels = scales::percent_format()) +
+  theme_minimal()
